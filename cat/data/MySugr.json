@@ -1,0 +1,1743 @@
+{
+    "document": {
+        "_id": "65cb6cc6e56775109404c5fb",
+        "name": "MySugr.txt",
+        "plainText": "mySugr GmbH Privacy Notice\r\nVersion dated January 1, 2022\r\nThe applicable version of this privacy notice can be viewed and downloaded as a PDF from our website www.mysugr.com.\r\n1 INTRODUCTION\r\nData Controller\r\nWhenever this Privacy Notice refers to \u201cwe\u201d or \u201cmySugr\u201d it means the mySugr GmbH, located at the business address Trattnerhof 1, 1010 Vienna, Austria and registered in the Company Register of Vienna Commercial Court under FN 376086 v. mySugr is the stated responsible entity and data controller under the data protection regulations. In other words, we are the company that decides on the purpose and means of processing your personal data (\u201cUser Data\u201d) and is therefore responsible for its security and compliance with the applicable laws. Section 2 of this Privacy Notice contains detailed information on the necessary processing of your personal data.\r\n\r\nThe basis for this Privacy Notice is the General Data Protection Regulation of the European Union (\u201cGDPR\u201d, Regulation (EU) 2016/679); if your country of residence foresees additional or varying requirements, you can find information on those in section 9 of this Privacy Notice.\r\n\r\nThis Privacy Notice applies to User Data processed in connection with our products and services. As the responsible entity we are subject, for example, to information requirements that we wish to fulfill in connection with this Privacy Notice. We also provide additional information within our products, e.g. we may ask you for a new consent or explain the consequences of revocation. The information in our products does not contradict this privacy notice, but rather supplements it with brief and easily readable information so that you can make decisions more easily. This Privacy Notice and the additional information are easily accessible at any time from within our products and on our website.\r\n\r\nStructure and consent concept\r\nThis Privacy Notice informs you about the purposes and scope of processing your User Data, data transfers, as well as your extensive rights. As our offer is exclusively aimed at persons with diabetes, your use of our products typically already provides information on your health condition. We therefore only process User Data as health data with your consent. We differentiate as follows:\r\n\r\n\u201cNecessary Processing of Personal Data\u201d describes how we process your User Data which is required to fulfill the contract and to provide our services to you. Without this consent the use of our products is not possible from a legal and a factual point of view because our services depend on this processing.\r\n\r\n\u201cProcessing for Product Improvement\u201d explains how you can help us and other users, with your optional consent, by allowing us to use your data in particular to develop algorithms for therapy management, improve the product and so forth without us contacting you for advertising purposes etc. You can also use our products without giving us this consent - but your consent improves the database in the interest of all users so that we can improve our product more quickly.\r\n\r\n\u201cProcessing for Marketing Purposes\u201d describes how we contact you for marketing purposes, with your optional consent, e.g. by email, notifications etc. Here too you may use the products without consent but with your consent you will receive valuable information on our products or if, for example, your health insurance company covers new services.\r\n\r\nUnder \u201cGeneral Information\u201d we have assembled the information that applies to all of the above consents to avoid repetition.\r\n\r\nThe above mentioned categories are described in more detail below. You may provide the relevant consents upon registration, upon request (e.g. during a pairing process) or later via the account settings. You may revoke any consents at any time via the account settings or by sending an email to support@mysugr.com. In such an instance we will inform you about the consequences of the revocation. The lawfulness of the processing prior to revocation remains unaffected.\r\n\r\nIn some cases, the processing of your data may take place independently of your consent on the basis of statutory principles, i.e. based on law (e.g. medical device regulations). We will inform you accordingly in appropriate cases.\r\n\r\n2 NECESSARY PROCESSING OF PERSONAL DATA\r\nIf you consent during the creation of an account, we will process your User Data listed below in order to be able to provide our services. If you do not consent to this necessary processing, you cannot use the services of mySugr. You may provide your consents during the registration process and manage them in the account settings.\r\n\r\nIn order to protect your User Data, our services can only be used in connection with a user account. To create a user account we require, collect and process the following User Data:\r\n\r\nEmail address\r\nPassword (which we store cryptographically secure)\r\nAccount ID (which we generate during account creation)\r\nRegistration date\r\nStatus of consents\r\nDevice ID, manufacturer, device type, operating system version of your mobile device\r\nLanguage, country, time zone\r\nIP address.\r\nYour Email address, in connection with your chosen Password is necessary to create and maintain an account and create an Account ID when you register in our apps as well as to provide you with a secure way of logging into your account.\r\n\r\nYour Email Address is also used to communicate with you where this is required to support or troubleshoot our products. One purpose is the mySugr user support service, which you can contact at support@mysugr.com. The information and personal data you wish to exchange with our user support service is solely your decision and we will never require any personal data which is not necessary to provide you with the information or support you request. Communication with you may be necessary, either by email, in-app message push notification in order to inform you about updates to our products and services or provide you with important security advice as well as assistance associated with your usage. This support communication - as an essential part of our products - is sent to you notwithstanding whether you have subscribed to our Newsletter or not.\r\n\r\nWhen you install and use our app, we also collect information on the device you are using and generate crash and bug reports if required. This is necessary for us to troubleshoot and determine the circumstances of a potential problem. We record key data of your device and your usage behavior as our contractual fulfilment, as well as to customize our products. This includes processing individual user information, such as your location, diabetes type or type of therapy, for instance to configure the user interface. An automated analysis of your user behavior is performed exclusively for the purpose of customizing your use when fulfilling the contract and has no legal effect for you.\r\n\r\nWe also process your IP address to assess from which country or region you are using our services and to provide you with the features and information which is relevant in your country. Your IP address is also used to determine the data storage location for your account.\r\n\r\n3 OPTIONAL PROCESSING OF PERSONAL DATA\r\nAny other User Data which is collected and processed while you use our services is optionally provided by you when using certain functions of our applications. Those optional User Data and their collection purposes are:\r\n\r\nGeneral Data\r\nThis optional data is collected and processed to be able to address and contact you in a suitable way and to process order, delivery, support and billing of our products, including products of our cooperation partners. It includes:\r\n\r\nFirst Name\r\nLast Name\r\nAddress\r\nDate of Birth\r\nSex\r\nTelephone Number.\r\nMedical Master Data\r\nThis optional data is collected and processed in order to be able to provide a personalised application experience. It includes:\r\n\r\nDiabetes Type\r\nDiagnosis Year\r\nInsulin Therapy Type (Pen / Pump)\r\nBlood Glucose Target Range\r\nBody Height\r\nBody Weight\r\nBlood Glucose Meter / Therapy Device\r\nMedication\r\nType of Insulin\r\nBasal Settings\r\nCorrection Factors\r\nCarbs / Insulin Ratio.\r\nCommercial and Usage Data\r\nThis optional data is collected and processed in order to store and retain necessary financial information in case you make a purchase, as well as to improve our app experience for you. It includes:\r\n\r\nApp Store Download Information\r\nPurchases\r\nInvoices\r\nPayment Status\r\nPayment Method (Credit Card, Bank Account etc.)\r\nSocial Insurance Number\r\nmySugr Pro Status\r\nVouchers Redeemed\r\nBrowser Type and Version\r\nAuthentication Token\r\nActivity Events for Customization\r\nSupport Queries.\r\nMedical Data\r\nThis optional data is collected and processed in order to be able to deliver the service which is offered by the mySugr Logbook app. It includes:\r\n\r\nDate, Time, Time Zone, Place, Type and Duration of Physical Activities\r\nFood Intake / Meal / Ingredients\r\nPills taken / Injections\r\nBlood Glucose Measurements\r\nNotes\r\nBlood Pressure\r\nBody Weight\r\nHbA1c\r\nKetones\r\nSteps\r\nImages / Photos\r\nMedication\r\nTags\r\nValues imported from 3rd Party Apps\r\nSensor data, such as start date/time, end date/time, time zone, sensor value, sensor type\r\nTemporary basal rate and date\r\nApp settings such as display options, activated integrations\r\nCoaching data such as status, targets, other illnesses.\r\nThe scope of the personal data processed by mySugr depends on your registration and the use of our products. We only process User Data that you actively and voluntarily provide to mySugr. The entry of requested User Data is however a requirement for the comprehensive use of our products. If you do not enter optional data the associated functionality of our products is limited accordingly. For example our Logbook or Bolus Calculator require detailed (voluntary) entry of your data in order to ensure optimal use. In any case, each function describes the purpose for which the data is needed.\r\n\r\nIf you pair Therapy Devices (e.g. blood glucose meters, insulin pens or insulin pumps) with your mobile device, data is being transferred between those devices and our apps. In those cases, only the data relevant for the operation of the device is being transmitted or imported into our apps.\r\n\r\nWhen pairing a therapy device via Bluetooth \u00ae, certain mobile devices require access to your location for the pairing process. If this is the case, you will be asked to allow access to the location. The purpose is to enable the therapy device to be detected through Bluetooth \u00ae. This access is only necessary for the pairing action from a technical point of view; mySugr will not process your location for this purpose.\r\n\r\nYou can optionally activate synchronization between our apps and Health Apps, such as those by Apple or Google, and other connected services, which enables data to be exchanged between our apps and those Health Apps. This synchronisation only takes place if you activate this in the settings of our apps and configure the data that is being exchanged.\r\n\r\nIn addition to the User Data you provide voluntarily, there is also the option of independently activating or deactivating the recording of certain data in the settings of our apps and other software of your device (e.g. operating system, other apps, app stores etc.). If you have questions, please contact support@mysugr.com.\r\n\r\n4 PROCESSING FOR PRODUCT IMPROVEMENT\r\nmySugr would also like to use the data you provide via the mySugr products to continuously improve and innovate our portfolio by gathering insights, detect patterns, generate real world evidence and develop predictive algorithms from health data. Such innovations will be used for decision support with the objective to further improve medical outcomes and the quality of life of people with diabetes.\r\n\r\nWe will only use your data and any additional data, as detailed below, if you provide us with your express consent. You can give and revoke your consent for the processing for product improvement at any time, in your account settings within our apps.\r\n\r\nAdditional data\r\nIn general, we use the same User Data to improve our products as stated in sections 2 and 3. In addition, mySugr may also record the following User Data:\r\n\r\nUsage Data - We record Activity Events, not necessarily related to the delivery of our services, which allow us to understand how you use our products. This enables us to assess how our products are used and to constantly improve our services.\r\n\r\nPurpose of product improvement\r\nAs a result of a fast paced technological progress, we have to constantly analyze, develop, test, and improve our products and their interactions, in order to ensure that our content benefits users in the most effective way. To achieve this, we conduct usage and security tests and the knowledge gained is incorporated into improved new versions of our products. These improvements are also provided to you via frequent app updates.\r\n\r\n5 PROCESSING FOR MARKETING PURPOSES\r\n5.1. Newsletter\r\nWe would like to send you interesting information on products and services in addition to the contractual scope, including information from carefully selected partners, and invitations to participate in surveys or other sales promotions and marketing activities (\u201cNewsletter\u201d).\r\n\r\nWe will only process your personal data for this purpose and send you Newsletters if you actively consent and subscribe. You can revoke your consent at any time, via the link in every Newsletter or in your account settings in our apps.\r\n\r\n5.2 Other types of marketing\r\nOther consents, e.g. for surveys, notifications, or customized offers, are obtained as required when you are logged in. We always explain to you why we need certain data and also how you can revoke the consent.\r\n\r\nFrom time to time we may also show you offers within the app without processing your personal data. These non-customized advertisements will also be shown to you if you have not provided your consent for processing your personal data for marketing purposes.\r\n\r\n6 USAGE FOR STATUTORY PURPOSES\r\n6.1 Scientific research and statistics\r\nmySugr is committed to the science of all aspects of diabetes. Therefore, anonymous User Data may also be used for the purposes of research and statistics (always whilst complying with the recognized ethical scientific standards) and internal analyses. This is used mainly to determine and improve the effectiveness of techniques for controlling and treating diabetes. The legal basis for this is Article 9 (2) j) of the GDPR which provides for processing of Special Categories of Personal Data for scientific research and statistical purposes. We will always make sure that all User Data is properly anonymised before it is used for those purposes.\r\n\r\n6.2 Enforcement of rights\r\nThe use of personal data may also be necessary to prevent abuse by users or to assert, exercise, or defend legal claims. We may be forced into disclosure due to binding laws, court or official decisions and instructions, criminal investigation, or in the public interest. In such cases, the storage and processing of your data is permitted by law without your consent. The legal basis for this is Article 9 (2) f) GDPR.\r\n\r\n6.3 Compliance with medical device legislation\r\nAs the manufacturer or distributor of a medical device, we are subject to elevated requirements for monitoring the functionality of our products. This vigilance system required for regulatory purposes may also involve the processing of personal data. The legal basis for this is Article 9 (2) i) GDPR, which provides for processing necessary for reasons of public interest in the area of public health.\r\n\r\n7 GENERAL INFORMATION\r\n7.1 Purpose limitation and security\r\nmySugr uses your personal data exclusively for the purposes determined in this Privacy Notice and the relevant consents. We ensure that each processing is restricted to the extent necessary for its purpose.\r\n\r\nWe always guarantee adequate security and confidentiality of your personal data. This covers protection from unauthorized and illegal processing, unintentional loss, unintentional destruction or damage using appropriate technical and organizational measures. We use strict internal processes, security features, and the latest encryption methods, always taking into account state-of-the-art technology.\r\n\r\n7.2 Data Processors\r\nOur products are subject to complex processes that, in light of our millions of users, we have to manage and keep up-to-date. For technical support we therefore use certain affiliated companies of the Roche Group \u2013 F. Hoffmann-La Roche Ltd. - and third-party suppliers (\u201cData Processors\u201d) in order to offer a comprehensive and optimal use of our products to you. The categories of Data Processors are listed in more detail in section 7.5.\r\n\r\nmySugr transfers User Data to Data Processors exclusively within the framework of this Privacy Notice and only to fulfill the purposes stated within. Data Processors work according to our specifications and instructions; they are not permitted to use the personal data of our users for their own or other purposes.\r\n\r\nWe use Data Processors offering sufficient guarantees that suitable technical and organizational measures are undertaken in a way that the processing of personal data complies with the statutory requirements and our Privacy Notice. The protection of the rights of our users is ensured by concluding binding contracts that meet the strict requirements of GDPR.\r\n\r\nThird-party suppliers appointed by mySugr may only use other processors (subcontractors) with our prior consent. If a subcontractor does not comply with the same data protection obligations and all of the appropriate security measures that we impose on our Data Processors, we will prohibit the use of such a subcontractor.\r\n\r\n7.3 Encryption, pseudonymization, and anonymization\r\nEach transfer of personal data, without exception and by default, is encrypted during transfer. Using HTTPS (hypertext transfer protocol secure) we ensure that your data is not intercepted by unauthorized third parties.\r\n\r\nIn addition, for the purposes of data security and minimization, we also use other processes for the encryption and pseudonymization of User Data. This depends on the type, scope, and purpose of the relevant data processing and takes into account the latest technology. For example, we only disclose or transfer User Data that a Data Processor requires to carry out their tasks.\r\n\r\nWhen a contractual relationship with a Data Processor is terminated, such Data Processor must, at mySugr\u2019s discretion, either return all User Data or delete it if there are no statutory retention obligations.\r\n\r\nData that requires no personal reference for processing (e.g. for research and analysis) is subject to anonymization. This is done in a way that prevents a connection or attribution to a specific Data Subject in all cases.\r\n\r\n7.4 EU and Third Countries\r\nWe primarily select Data Processors which are based in or whose servers are located in the European Union (EU) or European Economic Area (EEA).\r\n\r\nIn exceptional cases we may appoint third-party suppliers who are located in or who have servers outside the EU. However, even in these cases your personal data is subject to an equally high protection level in line with the GDPR \u2013 either through an EU adequacy decision, which considers data protection in certain third-party countries to be appropriate, or through the Standard Contractual Clauses approved by the European Commission, which the contractual relationships with our contracted Data Processors are based on, or through comparable legal instruments permitted under the GDPR. A copy of such guarantees or information on these can be requested via privacy@mysugr.com.\r\n\r\nFurthermore, we ensure that our Data Processors have additional security standards in place, such as individual security measures and data protection provisions or certifications under the GDPR.\r\n\r\n7.5 Categories of Data Recipients\r\nOur cooperation partners are bound by the agreements signed with mySugr as well as by the GDPR and only process data according to our instructions. We provide our users\u2019 data only to fulfill the respective contract:\r\n\r\nManufacturers and suppliers require personal data, such as names and addresses to handle orders for goods. A typical example is the delivery of a blood glucose meter and test strips as part of the mySugr Bundle.\r\n\r\nInsurance companies may exchange data with us if you buy our products as part of your health insurance (statutory or private). If applicable, this enables billing based on the tariff of your insurance company.\r\n\r\nAccounting and payment service providers support us in the ongoing billing of our chargeable products.\r\n\r\nCustomer support services and their tools help our User Support to quickly and efficiently handle our users\u2019 inquiries. Here, for example, queries are recorded from various communication channels and grouped according to topics using ticketing systems.\r\n\r\nAnalysis service providers and their tools help us to understand how users use our products in order for us to provide customized communication and product improvements in the future. This way we can for example avoid that a pump user with type 1 diabetes receives messages about type 2 diabetes or pens.\r\n\r\nMarketing service providers support us in creating, sorting, customizing, and sending newsletters, emails, and other messages about our products to our users.\r\n\r\nHosting and cloud services and their tools are used to store data and to produce anonymized analyses (see section 7.3 above).\r\n\r\nCertain functions within our app, such as the report generation or communication options with your healthcare professional or mySugr coach, allow you directly share certain User Data with a third party from within our products. In this case you are deciding on your discretion which data you share with which party at what point in time. Therefore such data transfers are solely your responsibility.\r\n\r\n7.6 Storage and deletion\r\nYour User Data is stored on your device as well as on our servers. The server location where your User Data is being stored is determined during registration based on your Geolocation. This way we decide if your data is either stored on servers in the European Union or the USA. Regardless of the storage location we ensure that the high protection level pursuant to the GDPR is guaranteed at all times; this applies to data at rest, but also to data that is stored temporarily at a different location or is transferred for processing.\r\n\r\nmySugr only stores your personal data for the duration of the contract. In some cases, longer storage may be required in order to fulfil post-contractual obligations or to comply with statutory obligations or disclosure duties, or to assert, exercise, or defend legal claims. Personal data that needs to be retained for this purpose is transferred to a separate archive storage and is not used for any purpose other than the purpose of retention unless it is required by law.\r\n\r\nPersonal data recorded/stored in paper documents is destroyed by shredding those documents. Personal data stored in the form of an electronic record is deleted using a technical method which does not allow reproducing the record.\r\n\r\n7.7 Technical and Organizational Measures\r\nAdministrative measures: ISO/IEC 27001 certified information security management system, security officer, a data protection officer, asset management, regular employee training, development principles\r\n\r\nTechnical measures: Access control, password policy, backup policy, disaster recovery process, security updates/patch policy, infrastructure and network policies and processes, infrastructure monitoring, data encryption in transport and at rest\r\n\r\nPhysical measures: Physical access control\r\n\r\n7.8 Minors\r\nYou must be at least 18 years (or such greater age required in your country) to register for our Products. The Products may be used for minors in accordance with the intended use of the Products. In this case the caregiver has to register for our Products in order to manage the account for the minor (see section 3.2.4 of our General Terms and Conditions). This also applies to processing of such personal data, which is only legal if and to the extent to which the consent has been obtained by and through the parent/guardian. Otherwise use of our products is prohibited.\r\n\r\n7.9 Data protection officer\r\nOur Data Protection Officer is available to answer all questions regarding the processing of your User Data and data protection at mySugr. You can contact our Data Protection Officer via privacy@mysugr.com. Our Data Protection Officer monitors compliance with all data protection regulations and is subject to strict statutory secrecy and confidentiality obligations.\r\n\r\nYou can find more information, including the contact details of our Data Protection Officer on our website www.mysugr.com/en/app-tc-privacy/.\r\n\r\nOur Data Protection Officer is widely involved in all topics associated with protecting the personal data of our users. As a trained expert, our Data Protection Officer monitors our processing on an ongoing basis, informs and regularly advises the entire mySugr team in order to ensure the best possible protection of your User Data.\r\n\r\n7.10 Changes\r\nTechnology and processes used for our services as well as data protection legislation are constantly being developed. Therefore we will have to undertake changes in our products and services from time to time. We will inform you of any changes in this Privacy Notice via appropriate means and with advance notice period. If necessary we will ask you for new consent before further processing your personal data.\r\n\r\nYou can find previous versions of our Privacy Notice on our website www.mysugr.com/en/app-tc-privacy/.\r\n\r\n8 YOUR RIGHTS\r\nmySugr would like to make sure you are fully aware of all of your data protection rights. In case you want to execute any of your rights, please contact us at privacy@mysugr.com.\r\n\r\nIn general, if you make a request to mySugr, we will provide you with your requested information as quickly as possible, latest within one month, or within any shorter period in case the local data protection regulations in your country require a shorter period. You can find more information on those local provisions in section 9 of this Privacy Notice.\r\n\r\nEvery user is entitled to the following:\r\n\r\n8.1 The Right to Access\r\nYou have the right to request a copy of your personal data as well as all information relating to the processing of your personal data. This includes information on the processing purposes, data and recipient categories, storage time, origin of your personal data, and your rights under the data protection regulations. You can find all of this information in this Privacy Notice and you can also contact us at privacy@mysugr.com.\r\n\r\n8.2 The Right to Rectification\r\nYou have the right to request that mySugr correct any information you believe is inaccurate. You also have the right to request mySugr to complete any information you believe is incomplete. You can correct or complete most of your personal data yourself within our apps.\r\n\r\n8.3 The Right to Erasure\r\nYou have the right to request that mySugr erase your personal data. However, please be aware that we will have to retain certain personal data even after you have requested the deletion to comply with statutory obligations.\r\n\r\n8.4 The Right to Restrict Processing\r\nYou have the right to request that mySugr restrict the processing of your personal data, under certain circumstances, for example for the duration of any investigation review that you have requested.\r\n\r\n8.5 The Right to Object to Processing\r\nYou have the right to object to mySugr\u2019s processing of your personal data, under certain circumstances.\r\n\r\nIf we process your personal data based on your consent, you may revoke the consent at any time. However, revoking your consent will not affect the lawfulness of the processing before the revocation. We will continue to provide our services if they do not depend on the consent that has been revoked.\r\n\r\n8.6 The Right to Data Portability\r\nYou have the right to request that mySugr transfer the data we have collected to another organization, if this is technically feasible, or directly to you, in electronically readable form.\r\n\r\n8.7 Complaints\r\nIf you feel we are not protecting your data protection rights adequately, please contact us at any time at support@mysugr.com or contact our data protection officer directly at privacy@mysugr.com. We will handle your request immediately.\r\n\r\nYou also have the right to submit a complaint with the relevant Data Protection Authority for mySugr, which is the \u00d6sterreichische Datenschutzbeh\u00f6rde, Barichgasse 40-42, 1030 Wien, Austria - www.dsb.at. In addition, you have the right to complain to a supervisory authority in the EU member state in which you are resident, in which your workplace is located, or which is the location of a suspected infringement.\r\n\r\n9. COUNTRY SPECIFIC PROVISIONS\r\n9.1 Germany\r\nCertain products and services of mySugr may be part of statutory health programs, e.g. Digital Healthcare Act in Germany (\u201cDigital Healthcare Application\u201d). Such User Data of Digital Healthcare Applications will be processed in accordance with all legal requirements which are specified in more detail in this section.\r\n\r\nUser Data of Digital Healthcare Applications will not be processed for product improvement and marketing purposes. When it comes to the lawful basis for data processing based on statutory law, User Data of Digital Healthcare Applications will only be processed for patient safety reasons (incident reporting to BfArM) in accordance with section 6.3.\r\n\r\n9.2 USA\r\nPatient Information\r\nIn accordance with HIPAA, any use or disclosure of protected health information by mySugr or any subcontractor will be governed by the respective service agreement and a Business Associate Agreement executed between you and mySugr.\r\n\r\nYour Rights if Your Data is Covered by California Law\r\nIf you are a California resident as defined by the California Consumer Privacy Act (CCPA), you can find a description of these rights covered in the California Supplemental Privacy Notice. That privacy notice contains information on how to contact mySugr to exercise any of your rights under that law.\r\n\r\nCalifornia Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please use the contact information provided in the California Supplemental Privacy Notice.\r\n\r\nMinors\r\nWe are committed to protecting the privacy of children. As such, we do not intentionally collect data from users under the age of 13 years old in connection with our general purpose website(s), app(s) or other services. If you are the parent or guardian of a child under the age of 13 who has submitted information through this Site, please email us to privacy@mysugr.com in order to request deletion.\r\n\r\nTHANK YOU FOR YOUR CONFIDENCE IN US!"
+    },
+    "annotations": [
+        {
+            "_id": "65d5becce56775109404c7ee",
+            "start": 4799,
+            "end": 4808,
+            "type": "Category",
+            "attributes": {
+                "Kind": "BasicAccountInfo",
+                "Type": "Closed",
+                "Ref": [
+                    "65d5dde4e56775109404c869"
+                ]
+            },
+            "text": "User Data"
+        },
+        {
+            "_id": "65d5bed1e56775109404c7ef",
+            "start": 4813,
+            "end": 4827,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "Email address\r"
+        },
+        {
+            "_id": "65d5bed5e56775109404c7f0",
+            "start": 4828,
+            "end": 4837,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "Password "
+        },
+        {
+            "_id": "65d5bed8e56775109404c7f1",
+            "start": 4880,
+            "end": 4890,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "Account ID"
+        },
+        {
+            "_id": "65d5bedce56775109404c7f2",
+            "start": 4936,
+            "end": 4954,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "Registration date\r"
+        },
+        {
+            "_id": "65d5bee6e56775109404c7f3",
+            "start": 4975,
+            "end": 4984,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "Device ID"
+        },
+        {
+            "_id": "65d5beeae56775109404c7f4",
+            "start": 4986,
+            "end": 4998,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "manufacturer"
+        },
+        {
+            "_id": "65d5bef0e56775109404c7f5",
+            "start": 5000,
+            "end": 5011,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "device type"
+        },
+        {
+            "_id": "65d5bef6e56775109404c7f6",
+            "start": 5013,
+            "end": 5060,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "operating system version of your mobile device\r"
+        },
+        {
+            "_id": "65d5befbe56775109404c7f7",
+            "start": 5061,
+            "end": 5069,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "Language"
+        },
+        {
+            "_id": "65d5bf92e56775109404c7f8",
+            "start": 5071,
+            "end": 5078,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "country"
+        },
+        {
+            "_id": "65d5bf96e56775109404c7f9",
+            "start": 5080,
+            "end": 5090,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "time zone\r"
+        },
+        {
+            "_id": "65d5bfa9e56775109404c7fb",
+            "start": 5091,
+            "end": 5101,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "IP address"
+        },
+        {
+            "_id": "65d5bfb5e56775109404c7fc",
+            "start": 4728,
+            "end": 5103,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "To create a user account we require, collect and process the following User Data:\r\n\r\nEmail address\r\nPassword (which we store cryptographically secure)\r\nAccount ID (which we generate during account creation)\r\nRegistration date\r\nStatus of consents\r\nDevice ID, manufacturer, device type, operating system version of your mobile device\r\nLanguage, country, time zone\r\nIP address.\r"
+        },
+        {
+            "_id": "65d5c357e56775109404c7fd",
+            "start": 6251,
+            "end": 6291,
+            "type": "Category",
+            "attributes": {
+                "Kind": "DeviceInfo",
+                "Type": "Open",
+                "Ref": [
+                    "65d5dde4e56775109404c869"
+                ]
+            },
+            "text": "information on the device you are using "
+        },
+        {
+            "_id": "65d5c3c6e56775109404c801",
+            "start": 6588,
+            "end": 6615,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c17ee56775109404ea1f",
+                    "6630c123e56775109404ea1e"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "individual user information"
+        },
+        {
+            "_id": "65d5c3cce56775109404c802",
+            "start": 6617,
+            "end": 6719,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c17ee56775109404ea1f",
+                    "6630c123e56775109404ea1e"
+                ]
+            },
+            "text": "such as your location, diabetes type or type of therapy, for instance to configure the user interface."
+        },
+        {
+            "_id": "65d5c3fde56775109404c803",
+            "start": 6562,
+            "end": 6719,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": " This includes processing individual user information, such as your location, diabetes type or type of therapy, for instance to configure the user interface."
+        },
+        {
+            "_id": "65d5c408e56775109404c805",
+            "start": 6201,
+            "end": 6339,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "When you install and use our app, we also collect information on the device you are using and generate crash and bug reports if required. "
+        },
+        {
+            "_id": "65d5c43de56775109404c808",
+            "start": 6910,
+            "end": 6925,
+            "type": "Category",
+            "attributes": {
+                "Kind": "DeviceInfo",
+                "Type": "Closed",
+                "Ref": [
+                    "6630c123e56775109404ea1e"
+                ]
+            },
+            "text": "your IP address"
+        },
+        {
+            "_id": "65d5c53ae56775109404c809",
+            "start": 6894,
+            "end": 7079,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "We also process your IP address to assess from which country or region you are using our services and to provide you with the features and information which is relevant in your country."
+        },
+        {
+            "_id": "65d5c59be56775109404c80b",
+            "start": 7369,
+            "end": 7445,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Those optional User Data and their collection purposes are:\r\n\r\nGeneral Data\r"
+        },
+        {
+            "_id": "65d5c76de56775109404c80d",
+            "start": 7432,
+            "end": 7445,
+            "type": "Category",
+            "attributes": {
+                "Kind": "ContactInfo",
+                "Type": "Closed",
+                "Ref": [
+                    "65d74b16e56775109404c88a"
+                ]
+            },
+            "text": "General Data\r"
+        },
+        {
+            "_id": "65d5c7fde56775109404c818",
+            "start": 8381,
+            "end": 8411,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cae56775109404ea20"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "App Store Download Information"
+        },
+        {
+            "_id": "65d5c801e56775109404c819",
+            "start": 8413,
+            "end": 8422,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "Purchases"
+        },
+        {
+            "_id": "65d5c804e56775109404c81a",
+            "start": 8424,
+            "end": 8433,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "Invoices\r"
+        },
+        {
+            "_id": "65d5c810e56775109404c81b",
+            "start": 8434,
+            "end": 8448,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "Payment Status"
+        },
+        {
+            "_id": "65d5c81ae56775109404c81c",
+            "start": 8450,
+            "end": 8465,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "Payment Method "
+        },
+        {
+            "_id": "65d5c81fe56775109404c81d",
+            "start": 8466,
+            "end": 8477,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "Credit Card"
+        },
+        {
+            "_id": "65d5c824e56775109404c81e",
+            "start": 8479,
+            "end": 8491,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "Bank Account"
+        },
+        {
+            "_id": "65d5c86de56775109404c81f",
+            "start": 8499,
+            "end": 8522,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "Social Insurance Number"
+        },
+        {
+            "_id": "65d5c871e56775109404c820",
+            "start": 8524,
+            "end": 8542,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "mySugr Pro Status\r"
+        },
+        {
+            "_id": "65d5c875e56775109404c821",
+            "start": 8543,
+            "end": 8560,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "Vouchers Redeemed"
+        },
+        {
+            "_id": "65d5c87ae56775109404c822",
+            "start": 8562,
+            "end": 8587,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cae56775109404ea20"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "Browser Type and Version\r"
+        },
+        {
+            "_id": "65d5c87de56775109404c823",
+            "start": 8588,
+            "end": 8609,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cae56775109404ea20"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "Authentication Token\r"
+        },
+        {
+            "_id": "65d5c8c0e56775109404c825",
+            "start": 7665,
+            "end": 7750,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "It includes:\r\n\r\nFirst Name\r\nLast Name\r\nAddress\r\nDate of Birth\r\nSex\r\nTelephone Number."
+        },
+        {
+            "_id": "65d5c8c6e56775109404c826",
+            "start": 7668,
+            "end": 7751,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ]
+            },
+            "text": "includes:\r\n\r\nFirst Name\r\nLast Name\r\nAddress\r\nDate of Birth\r\nSex\r\nTelephone Number.\r"
+        },
+        {
+            "_id": "65d5c8c9e56775109404c827",
+            "start": 7681,
+            "end": 7691,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "First Name"
+        },
+        {
+            "_id": "65d5c8cce56775109404c828",
+            "start": 7693,
+            "end": 7703,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "Last Name\r"
+        },
+        {
+            "_id": "65d5c8cee56775109404c829",
+            "start": 7704,
+            "end": 7712,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "Address\r"
+        },
+        {
+            "_id": "65d5c8d1e56775109404c82a",
+            "start": 7713,
+            "end": 7727,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "Date of Birth\r"
+        },
+        {
+            "_id": "65d5c8d3e56775109404c82b",
+            "start": 7728,
+            "end": 7732,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "Sex\r"
+        },
+        {
+            "_id": "65d5c8dee56775109404c82c",
+            "start": 7733,
+            "end": 7749,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c76de56775109404c80d"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "Telephone Number"
+        },
+        {
+            "_id": "65d5c8e3e56775109404c82d",
+            "start": 7752,
+            "end": 7771,
+            "type": "Category",
+            "attributes": {
+                "Kind": "HealthFitness",
+                "Type": "Open",
+                "Ref": [
+                    "65d74b16e56775109404c88a"
+                ]
+            },
+            "text": "Medical Master Data"
+        },
+        {
+            "_id": "65d5c90de56775109404c82f",
+            "start": 7889,
+            "end": 8151,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "It includes:\r\n\r\nDiabetes Type\r\nDiagnosis Year\r\nInsulin Therapy Type (Pen / Pump)\r\nBlood Glucose Target Range\r\nBody Height\r\nBody Weight\r\nBlood Glucose Meter / Therapy Device\r\nMedication\r\nType of Insulin\r\nBasal Settings\r\nCorrection Factors\r\nCarbs / Insulin Ratio.\r"
+        },
+        {
+            "_id": "65d5c921e56775109404c830",
+            "start": 7892,
+            "end": 8151,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ]
+            },
+            "text": "includes:\r\n\r\nDiabetes Type\r\nDiagnosis Year\r\nInsulin Therapy Type (Pen / Pump)\r\nBlood Glucose Target Range\r\nBody Height\r\nBody Weight\r\nBlood Glucose Meter / Therapy Device\r\nMedication\r\nType of Insulin\r\nBasal Settings\r\nCorrection Factors\r\nCarbs / Insulin Ratio.\r"
+        },
+        {
+            "_id": "65d5c94be56775109404c833",
+            "start": 8645,
+            "end": 8660,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cae56775109404ea20"
+                ],
+                "Kind": "CommunicationProv"
+            },
+            "text": "Support Queries"
+        },
+        {
+            "_id": "65d5c950e56775109404c834",
+            "start": 8365,
+            "end": 8662,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "It includes:\r\n\r\nApp Store Download Information\r\nPurchases\r\nInvoices\r\nPayment Status\r\nPayment Method (Credit Card, Bank Account etc.)\r\nSocial Insurance Number\r\nmySugr Pro Status\r\nVouchers Redeemed\r\nBrowser Type and Version\r\nAuthentication Token\r\nActivity Events for Customization\r\nSupport Queries.\r"
+        },
+        {
+            "_id": "65d5c95be56775109404c835",
+            "start": 8368,
+            "end": 8662,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cde56775109404ea21",
+                    "6630c2cae56775109404ea20"
+                ]
+            },
+            "text": "includes:\r\n\r\nApp Store Download Information\r\nPurchases\r\nInvoices\r\nPayment Status\r\nPayment Method (Credit Card, Bank Account etc.)\r\nSocial Insurance Number\r\nmySugr Pro Status\r\nVouchers Redeemed\r\nBrowser Type and Version\r\nAuthentication Token\r\nActivity Events for Customization\r\nSupport Queries.\r"
+        },
+        {
+            "_id": "65d5c96ee56775109404c837",
+            "start": 8663,
+            "end": 8676,
+            "type": "Category",
+            "attributes": {
+                "Kind": "HealthFitness",
+                "Type": "Open",
+                "Ref": [
+                    "65d74b16e56775109404c88a"
+                ]
+            },
+            "text": "Medical Data\r"
+        },
+        {
+            "_id": "65d5cc29e56775109404c838",
+            "start": 8810,
+            "end": 9357,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "It includes:\r\n\r\nDate, Time, Time Zone, Place, Type and Duration of Physical Activities\r\nFood Intake / Meal / Ingredients\r\nPills taken / Injections\r\nBlood Glucose Measurements\r\nNotes\r\nBlood Pressure\r\nBody Weight\r\nHbA1c\r\nKetones\r\nSteps\r\nImages / Photos\r\nMedication\r\nTags\r\nValues imported from 3rd Party Apps\r\nSensor data, such as start date/time, end date/time, time zone, sensor value, sensor type\r\nTemporary basal rate and date\r\nApp settings such as display options, activated integrations\r\nCoaching data such as status, targets, other illnesses.\r"
+        },
+        {
+            "_id": "65d5cc3ae56775109404c839",
+            "start": 8813,
+            "end": 9116,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ]
+            },
+            "text": "includes:\r\n\r\nDate, Time, Time Zone, Place, Type and Duration of Physical Activities\r\nFood Intake / Meal / Ingredients\r\nPills taken / Injections\r\nBlood Glucose Measurements\r\nNotes\r\nBlood Pressure\r\nBody Weight\r\nHbA1c\r\nKetones\r\nSteps\r\nImages / Photos\r\nMedication\r\nTags\r\nValues imported from 3rd Party Apps\r"
+        },
+        {
+            "_id": "65d5cc41e56775109404c83a",
+            "start": 9130,
+            "end": 9207,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ]
+            },
+            "text": "such as start date/time, end date/time, time zone, sensor value, sensor type\r"
+        },
+        {
+            "_id": "65d5cc49e56775109404c83b",
+            "start": 9252,
+            "end": 9300,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ]
+            },
+            "text": "such as display options, activated integrations\r"
+        },
+        {
+            "_id": "65d5cc4ee56775109404c83c",
+            "start": 9315,
+            "end": 9357,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ]
+            },
+            "text": "such as status, targets, other illnesses.\r"
+        },
+        {
+            "_id": "65d5cc76e56775109404c842",
+            "start": 8898,
+            "end": 8931,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Food Intake / Meal / Ingredients\r"
+        },
+        {
+            "_id": "65d5cc7ae56775109404c843",
+            "start": 8932,
+            "end": 8956,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Pills taken / Injections"
+        },
+        {
+            "_id": "65d5cc7ee56775109404c844",
+            "start": 8958,
+            "end": 8985,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Blood Glucose Measurements\r"
+        },
+        {
+            "_id": "65d5cc83e56775109404c845",
+            "start": 8986,
+            "end": 8992,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "UserGenerated"
+            },
+            "text": "Notes\r"
+        },
+        {
+            "_id": "65d5cc86e56775109404c846",
+            "start": 8993,
+            "end": 9008,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Blood Pressure\r"
+        },
+        {
+            "_id": "65d5cc88e56775109404c847",
+            "start": 9009,
+            "end": 9021,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Body Weight\r"
+        },
+        {
+            "_id": "65d5cc8be56775109404c848",
+            "start": 9022,
+            "end": 9028,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "HbA1c\r"
+        },
+        {
+            "_id": "65d5cc9fe56775109404c84a",
+            "start": 9029,
+            "end": 9037,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Ketones\r"
+        },
+        {
+            "_id": "65d5cca1e56775109404c84b",
+            "start": 9038,
+            "end": 9044,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Steps\r"
+        },
+        {
+            "_id": "65d5cca4e56775109404c84c",
+            "start": 9045,
+            "end": 9061,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Images"
+            },
+            "text": "Images / Photos\r"
+        },
+        {
+            "_id": "65d5cca7e56775109404c84d",
+            "start": 9062,
+            "end": 9073,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Medication\r"
+        },
+        {
+            "_id": "65d5ccaae56775109404c84e",
+            "start": 9074,
+            "end": 9079,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "UserGenerated"
+            },
+            "text": "Tags\r"
+        },
+        {
+            "_id": "65d5ccb4e56775109404c850",
+            "start": 9117,
+            "end": 9128,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "Sensor data"
+        },
+        {
+            "_id": "65d5ccbae56775109404c851",
+            "start": 9138,
+            "end": 9153,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "start date/time"
+        },
+        {
+            "_id": "65d5ccbfe56775109404c852",
+            "start": 9155,
+            "end": 9168,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "end date/time"
+        },
+        {
+            "_id": "65d5ccc3e56775109404c853",
+            "start": 9170,
+            "end": 9179,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "time zone"
+        },
+        {
+            "_id": "65d5ccc7e56775109404c854",
+            "start": 9181,
+            "end": 9193,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "sensor value"
+        },
+        {
+            "_id": "65d5cccbe56775109404c855",
+            "start": 9195,
+            "end": 9207,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "sensor type\r"
+        },
+        {
+            "_id": "65d5cd2ae56775109404c858",
+            "start": 9239,
+            "end": 9251,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Settings"
+            },
+            "text": "App settings"
+        },
+        {
+            "_id": "65d5cd2ee56775109404c859",
+            "start": 9301,
+            "end": 9314,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "SocialInteraction"
+            },
+            "text": "Coaching data"
+        },
+        {
+            "_id": "65d5cd34e56775109404c85b",
+            "start": 9331,
+            "end": 9338,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "SocialInteraction"
+            },
+            "text": "targets"
+        },
+        {
+            "_id": "65d5cd38e56775109404c85c",
+            "start": 9340,
+            "end": 9355,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "other illnesses"
+        },
+        {
+            "_id": "65d5cd3ce56775109404c85d",
+            "start": 9260,
+            "end": 9275,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Settings"
+            },
+            "text": "display options"
+        },
+        {
+            "_id": "65d5cd40e56775109404c85e",
+            "start": 9277,
+            "end": 9300,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Settings"
+            },
+            "text": "activated integrations\r"
+        },
+        {
+            "_id": "65d5d15ce56775109404c85f",
+            "start": 12057,
+            "end": 12072,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Gen",
+                "Type": "Open",
+                "Ref": []
+            },
+            "text": "Additional data"
+        },
+        {
+            "_id": "65d5dbabe56775109404c863",
+            "start": 6436,
+            "end": 6562,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "We record key data of your device and your usage behavior as our contractual fulfilment, as well as to customize our products."
+        },
+        {
+            "_id": "65d5dde4e56775109404c869",
+            "start": 4357,
+            "end": 4371,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UserProfileInfo",
+                "Type": "Closed",
+                "Ref": []
+            },
+            "text": "your User Data"
+        },
+        {
+            "_id": "65d5e097e56775109404c86a",
+            "start": 6625,
+            "end": 6638,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c123e56775109404ea1e"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "your location"
+        },
+        {
+            "_id": "65d5e09be56775109404c86b",
+            "start": 6640,
+            "end": 6653,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c17ee56775109404ea1f"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "diabetes type"
+        },
+        {
+            "_id": "65d5e09ee56775109404c86c",
+            "start": 6657,
+            "end": 6672,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c17ee56775109404ea1f"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "type of therapy"
+        },
+        {
+            "_id": "65d5f9efe56775109404c86d",
+            "start": 7905,
+            "end": 7919,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Diabetes Type\r"
+        },
+        {
+            "_id": "65d5f9f2e56775109404c86e",
+            "start": 7920,
+            "end": 7935,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Diagnosis Year\r"
+        },
+        {
+            "_id": "65d5f9f7e56775109404c86f",
+            "start": 7936,
+            "end": 7970,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Insulin Therapy Type (Pen / Pump)\r"
+        },
+        {
+            "_id": "65d5f9fae56775109404c870",
+            "start": 7971,
+            "end": 7998,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Blood Glucose Target Range\r"
+        },
+        {
+            "_id": "65d5f9fde56775109404c871",
+            "start": 7999,
+            "end": 8011,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Body Height\r"
+        },
+        {
+            "_id": "65d5fa00e56775109404c872",
+            "start": 8012,
+            "end": 8024,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Body Weight\r"
+        },
+        {
+            "_id": "65d5fa0ce56775109404c873",
+            "start": 8025,
+            "end": 8062,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Blood Glucose Meter / Therapy Device\r"
+        },
+        {
+            "_id": "65d5fa0fe56775109404c874",
+            "start": 8063,
+            "end": 8074,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Medication\r"
+        },
+        {
+            "_id": "65d5fa19e56775109404c875",
+            "start": 8075,
+            "end": 8091,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Type of Insulin\r"
+        },
+        {
+            "_id": "65d5fa24e56775109404c876",
+            "start": 8092,
+            "end": 8107,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Basal Settings\r"
+        },
+        {
+            "_id": "65d5fa28e56775109404c877",
+            "start": 8108,
+            "end": 8127,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Correction Factors\r"
+        },
+        {
+            "_id": "65d5fa2de56775109404c878",
+            "start": 8128,
+            "end": 8149,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c8e3e56775109404c82d"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Carbs / Insulin Ratio"
+        },
+        {
+            "_id": "65d60fbee56775109404c879",
+            "start": 8610,
+            "end": 8643,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cae56775109404ea20"
+                ],
+                "Kind": "ContentPreferences"
+            },
+            "text": "Activity Events for Customization"
+        },
+        {
+            "_id": "65d61784e56775109404c87b",
+            "start": 9080,
+            "end": 9115,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Values imported from 3rd Party Apps"
+        },
+        {
+            "_id": "65d74a91e56775109404c887",
+            "start": 6947,
+            "end": 6954,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c43de56775109404c808"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "country"
+        },
+        {
+            "_id": "65d74a95e56775109404c888",
+            "start": 6958,
+            "end": 6964,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c43de56775109404c808"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "region"
+        },
+        {
+            "_id": "65d74b16e56775109404c88a",
+            "start": 7209,
+            "end": 7228,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Gen",
+                "Type": "Open",
+                "Ref": []
+            },
+            "text": "Any other User Data"
+        },
+        {
+            "_id": "65d74b3de56775109404c88b",
+            "start": 7209,
+            "end": 7368,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Any other User Data which is collected and processed while you use our services is optionally provided by you when using certain functions of our applications."
+        },
+        {
+            "_id": "65d74ea7e56775109404c88e",
+            "start": 7752,
+            "end": 7772,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Medical Master Data\r"
+        },
+        {
+            "_id": "65d74ec8e56775109404c88f",
+            "start": 8152,
+            "end": 8178,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Commercial and Usage Data\r"
+        },
+        {
+            "_id": "65d74f1de56775109404c892",
+            "start": 8663,
+            "end": 8676,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Medical Data\r"
+        },
+        {
+            "_id": "65d7518de56775109404c897",
+            "start": 12167,
+            "end": 12383,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "In addition, mySugr may also record the following User Data:\r\n\r\nUsage Data - We record Activity Events, not necessarily related to the delivery of our services, which allow us to understand how you use our products. "
+        },
+        {
+            "_id": "65d751e1e56775109404c898",
+            "start": 12254,
+            "end": 12269,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c6f4e56775109404ea28"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "Activity Events"
+        },
+        {
+            "_id": "65d752bce56775109404c899",
+            "start": 12055,
+            "end": 12073,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\r\nAdditional data\r"
+        },
+        {
+            "_id": "65e9b3a7e56775109404cdcb",
+            "start": 7432,
+            "end": 7445,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "General Data\r"
+        },
+        {
+            "_id": "660d0ebfe56775109404dbda",
+            "start": 4291,
+            "end": 4429,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "If you consent during the creation of an account, we will process your User Data listed below in order to be able to provide our services."
+        },
+        {
+            "_id": "660d1210e56775109404dbe0",
+            "start": 4955,
+            "end": 4974,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5becce56775109404c7ee"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "Status of consents\r"
+        },
+        {
+            "_id": "660d134ee56775109404dbe1",
+            "start": 6568,
+            "end": 6718,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c17ee56775109404ea1f",
+                    "6630c123e56775109404ea1e"
+                ]
+            },
+            "text": "includes processing individual user information, such as your location, diabetes type or type of therapy, for instance to configure the user interface"
+        },
+        {
+            "_id": "660d6b90e56775109404dc0e",
+            "start": 9208,
+            "end": 9237,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Temporary basal rate and date"
+        },
+        {
+            "_id": "660d6c61e56775109404dc0f",
+            "start": 9323,
+            "end": 9329,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "SocialInteraction"
+            },
+            "text": "status"
+        },
+        {
+            "_id": "6630b5c9e56775109404ea18",
+            "start": 8264,
+            "end": 8285,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6630c2cde56775109404ea21",
+                    "6630c2cae56775109404ea20"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "financial information"
+        },
+        {
+            "_id": "6630b5eae56775109404ea19",
+            "start": 8492,
+            "end": 8495,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "etc"
+        },
+        {
+            "_id": "6630b68ae56775109404ea1b",
+            "start": 7375,
+            "end": 7393,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d74b16e56775109404c88a"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "optional User Data"
+        },
+        {
+            "_id": "6630b8a4e56775109404ea1d",
+            "start": 8179,
+            "end": 8365,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "This optional data is collected and processed in order to store and retain necessary financial information in case you make a purchase, as well as to improve our app experience for you. "
+        },
+        {
+            "_id": "6630c123e56775109404ea1e",
+            "start": 6446,
+            "end": 6469,
+            "type": "Category",
+            "attributes": {
+                "Kind": "DeviceInfo",
+                "Type": "Open",
+                "Ref": [
+                    "65d5dde4e56775109404c869"
+                ]
+            },
+            "text": "key data of your device"
+        },
+        {
+            "_id": "6630c17ee56775109404ea1f",
+            "start": 6474,
+            "end": 6493,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UsageData",
+                "Type": "Open",
+                "Ref": [
+                    "6630c123e56775109404ea1e"
+                ]
+            },
+            "text": "your usage behavior"
+        },
+        {
+            "_id": "6630c2cae56775109404ea20",
+            "start": 8167,
+            "end": 8178,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UsageData",
+                "Type": "Open",
+                "Ref": [
+                    "6630c2cde56775109404ea21"
+                ]
+            },
+            "text": "Usage Data\r"
+        },
+        {
+            "_id": "6630c2cde56775109404ea21",
+            "start": 8152,
+            "end": 8162,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Purchase",
+                "Type": "Closed",
+                "Ref": [
+                    "65d74b16e56775109404c88a"
+                ]
+            },
+            "text": "Commercial"
+        },
+        {
+            "_id": "6630c4fae56775109404ea23",
+            "start": 8826,
+            "end": 8830,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "Date"
+        },
+        {
+            "_id": "6630c4fce56775109404ea24",
+            "start": 8832,
+            "end": 8836,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "Time"
+        },
+        {
+            "_id": "6630c500e56775109404ea25",
+            "start": 8838,
+            "end": 8847,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "Time Zone"
+        },
+        {
+            "_id": "6630c501e56775109404ea26",
+            "start": 8849,
+            "end": 8854,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "Place"
+        },
+        {
+            "_id": "6630c504e56775109404ea27",
+            "start": 8856,
+            "end": 8897,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5c96ee56775109404c837"
+                ],
+                "Kind": "HealthFitness"
+            },
+            "text": "Type and Duration of Physical Activities\r"
+        },
+        {
+            "_id": "6630c6f4e56775109404ea28",
+            "start": 12231,
+            "end": 12241,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UsageData",
+                "Type": "Open",
+                "Ref": [
+                    "65d5d15ce56775109404c85f"
+                ]
+            },
+            "text": "Usage Data"
+        },
+        {
+            "_id": "6630c711e56775109404ea29",
+            "start": 12217,
+            "end": 12226,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65d5d15ce56775109404c85f"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "User Data"
+        }
+    ]
+}

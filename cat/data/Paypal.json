@@ -1,0 +1,2811 @@
+{
+    "document": {
+        "_id": "65f04d5ee56775109404ce69",
+        "name": "Paypal.txt",
+        "plainText": ">> View all legal agreements\r\nPayPal Privacy Statement\r\nDownload PDF\r\nEective Date: 1 November 2023\r\nPlease contact us if you have any questions regarding this Privacy Statement or in general questions regarding your Personal Data. Your\r\ninformation will be used to provide the Services and in accordance with this Privacy Statement and the relevant PayPal User Agreement.\r\nContents\r\n1. Overview\r\n2. PayPal\u2019s role as a data controller.\r\n3. Non-Account Holders\r\n4. Categories of Personal data We Collect about You\r\n5. What Personal Data is used and for which Legal Basis?\r\n6. Do We Share Personal Data, and why?\r\n7. How long does PayPal store your Personal Data?\r\n8. International Transfers of Personal Data\r\n9. How Do We Use Cookies and Tracking Technologies?\r\n10. Your Data Protection Rights\r\n11. Specific information about automated decision-making and profiling\r\n12. Why do we share your Personal Data with credit reference agencies?\r\n13. How Do We Protect Your Personal Data?\r\n14. Can Children Use Our Services?\r\n15. Updates to this Privacy Statement.\r\n16. Users in the UK\r\n17. Definitions\r\n18. Our Contact Information\r\n1. Overview\r\nThis Privacy Statement aims to provide you with sucient information regarding our use of your Personal Data when you visit our website,\r\napply for, or use our services (collectively, the \u201cServices\u201d), We encourage you to read this Privacy Statement and to use it to help you make\r\ninformed decisions.\r\nCertain capitalized terms that are not otherwise defined in the Statement are explained in Section 17 (\u201cDefinitions\u201d) at the end of this\r\nstatement.\r\n2. PayPal\u2019s role as a data controller\r\nIn the United Kingdom (UK), PayPal UK Ltd is the data controller for the Personal Data collected and processed in connection with Personal\r\nData obtained when you visit our website, during the registration and application process, and throughout your continued use of the\r\nservices.\r\nAny reference made to \u201cwe\u201d, \u201cours\u201d, \u201cus\u201d, \u201cPayPal\u201d or \u201cPayPal Companies\u201d included in this Privacy Statement means PayPal UK Ltd and the\r\ngroup of companies which each directly or indirectly controls, is controlled by, or are under common ownership.\r\nSome of the third-parties that we share Personal Data with are independent data controllers. This means that we are not the ones that\r\ndictate how the data that we share will be processed. Examples are authorities, credit bureaus, acquirers, and other financial institutions.\r\nWhen your data is shared with independent data controllers, their data policies will apply. We encourage you to read their privacy policies\r\nand know your privacy rights before interacting with them.\r\nFor more information about how we protect your Personal Data when transferred outside of the UK, please see Section 8, (\u201cInternational\r\nTransfers of Personal Data\u201d)\r\n3. Non-Account Holders\r\nOur Services may be accessed by individuals without a PayPal account or profile. We will collect Personal Data from you even if you are a\r\nnon-account holder when you use our Services, such as when you use our Services without a PayPal account, use Unbranded Payment\r\nServices (e.g. Braintree), or when you receive a payment through our Services from account holders (\u201cRecipient\u201d). We use the term \u201cUser\u201d to\r\napply to account and non-account holders. If you are a non-account holder, your Personal Data will be used to provide the Services and in\r\naccordance with this Privacy Statement and the relevant PayPal User Agreement.\r\n4. Categories of Personal Data We Collect about You\r\nWe collect the following categories of information about you to provide our Services, continually improve your user experience, manage\r\nand improve our business. The types of Personal Data we collect about you are described below.\r\nCategories of Personal Data collected from you, including from your interactions with us and use of the Services:\r\nRegistration and Contact Information. Depending on the Services you choose, we will collect your name, mailing address, email, income,\r\ntelephone number, tax ID, Payment Information, profession, employment or business information, and other information necessary to\r\nestablish an account and use our Services.\r\nIdentification and Signature Information. Depending on the Services you choose, we will collect information to verify your name, address,\r\nemail, phone number, government- issued identification, age and biometric data as well as to create and issue your electronic signature.\r\nPayment Information. Information such as amount you send or request, your payment instrument, card, or financial or funding account\r\nused in connection with the Services, including issuer name, card type, country code, payment account number, CVV, username, and IBAN\r\ninformation.\r\nInformation about your imported contacts. If you choose to import your contact lists, we will collect Information you enter or import\r\nabout your contacts, such as name, address, phone number, images, email address or usernames associated with the contacts you import\r\nor enter manually.\r\nInformation in your Account Profile. Information you choose to enter such as your username, email, mobile number, profile picture,\r\npreferred language, or personal description which may include sensitive Personal Data that reveals religious beliefs, political or\r\nphilosophical views, disability, sexual orientation as well as biometric data. You can set your profile to \u201cPrivate\u201d at any time.\r\nInformation you provide when you contact us. Information you disclose when you respond to surveys, or contact our customer support\r\nteams, such as Services you have used, recorded conversations, chat conversations with us, email correspondence with us, account status,\r\nrepayment history, voice identification. This may include information about others if you choose to share it with us.\r\nDevice Information. Information that can be automatically collected from any device used to access the Site or Services. Such information\r\nmay include, but is not limited to, your device type; your device\u2019s network connections; your device\u2019s name; your device IP address;\r\ninformation about your device\u2019s web browser and internet connection you use to access the Site or Services; Geolocation Information;\r\ninformation about apps downloaded to your device; and biometric data.\r\nInferred data. We may derive inferences from your transactions and personal data when you use the Services. We do this, for example, to\r\nhelp keep your account secure and protect your use of the Services from fraud. We may draw inferences that reflect your behavior patterns\r\nand personal preferences, browsing and purchasing habits, and creditworthiness.\r\nCategories of Personal Data collected from third parties, including from identity verification vendors, data brokers, vendors that help us\r\nwith fraud detection, your bank, merchants or third party platforms you engage with using our Services:\r\nInformation from your connected third party accounts. If you choose to connect non-financial or financial account such as your personal\r\nemail, social media, or bank or credit accounts, we will collect information consistent with the disclosed purpose for which it was linked.\r\nFor example, if you choose to participate in Open Banking, we will collect account credentials, account balances, account transactions, and\r\ninformation about your financial standing from your linked accounts. You may change your mind about use of this feature and unlink your\r\nconnected accounts at any time.\r\nInformation from Credit Reporting Agencies. Where permitted by law, we collect credit-related information such as outstanding and\r\nhistorical debt, repayment history, previous credit approvals, current employment relationship, and relationship with other financial\r\ninstitutions within the framework of your use of our Services.\r\nTransaction Information. Information about your order details and purchases, such as item description, quantity, price, currency, shipping\r\naddress, online shopping cart information, seller and buyer information, and Payment Information. This includes information from your\r\ntransactions where you use our Services without a PayPal account (e.g. Guest checkout).\r\nInformation related to legal requirements. Consistent with applicable law (such as anti-money laundering laws), this may include\r\ninformation from external sanction lists such as name, date of birth, place of birth, occupation, and the reason why the person is on the\r\nlist in question.\r\nThird party applications. Information from others from your use of third-party applications, such as the Apple App Store or Google Play\r\nStore, social networking sites, such as name, your social network ID, Location Information, email, device ID, browser ID, and profile picture.\r\nYour use of third-party applications is subject to the privacy notice and terms of service for such applications.\r\nCategories of Personal Data automatically collected about you, including through your access to our website or mobile app, from cookies\r\nand similar tracking technologies, and your devices:\r\nTechnical Usage Data. Information about response time for web pages, download errors and date and time when you used the service, such\r\nas your IP address, statistics regarding how pages are loaded or viewed, the websites you visited before coming to the Sites and other\r\nusage and browsing information collected through Cookies (\u201cTechnical Usage Data\u201d).\r\nInformation from your device. Information about your language settings, IP address, browser ID, device ID, cookie preferences, time zone,\r\noperating system, platform, screen resolution and similar information about your device settings, and data collected from cookies or other\r\ntracking technologies,\r\nLocation Information. Information from IP-based geolocation such as latitude and longitude data, and Global Positioning System (GPS)\r\ninformation when you give us permission through your device settings.\r\nInferred data. Inferences drawn to create a profile about you that may reflect behavior patterns and personal preferences, such as gender,\r\nincome, browsing and purchasing habits, and creditworthiness.\r\n5. What Personal Data is used and for which Legal Basis?\r\nWe may process your Personal Data for a variety of reasons that are permitted under data protection laws applicable in the UK and in\r\naccordance with the lawful bases below:\r\nWe collect the following Personal Data we consider necessary to fulfil our pre-contractual and contractual obligations to you and without\r\nwhich you will not be able to use the Services.\r\nNecessary categories of Personal Data include:\r\nRegistration and Contact Information\r\nIdentification and Signature Information\r\nPayment Information\r\nInformation related to legal requirements\r\nInformation you provide when you contact us\r\nTransaction information\r\nService-specific Personal Data\r\nInformation from credit reporting agencies and financial institutions\r\nInformation from your connected financial accounts\r\nInformation from your use of the Services\r\nTechnical usage data\r\nDevice information\r\nLocation data\r\nThese activities include:\r\nto provide our Services, to fulfil relevant agreements with you and to otherwise administer our business relationship with you.\r\nto administer your payment for products and the customer relationship.\r\nto assess your creditworthiness in connection with your application, confirm your identity and your contact information, and protect\r\nyou and others from fraud.\r\nto confirm your identity, also through the use of electronic signature, and verify your personal and contact details.\r\nto prove that transactions have been executed.\r\nto establish, exercise or defend a legal claim or collection procedures.\r\nto comply with internal procedures.\r\nto assess which payment options and services to oer you, for example by carrying out internal and external credit assessments.\r\nfor customer analysis, to administer our Services, and for internal operations, for example troubleshooting, data analysis, testing,\r\nresearch and statistical purposes.\r\nto communicate with you in relation to our Services.\r\nto comply with applicable UK laws, such as anti-money laundering and booking keeping laws and rules issued by our designated banks\r\nand relevant card networks.\r\nWe have a legitimate interest in ensuring that PayPal remains a secure financial service and continuing to oer services that are innovative\r\nand of interest to you. We do this where our legitimate interests are not outweighed by your right not to have your data processed for this\r\npurpose.\r\nThese activities include:\r\nto ensure that content is presented in the most eective way for you and your device.\r\nto prevent misuse of our Services as part of our eorts to keep our platform safe and secure.\r\nto determine your eligibility for and to communicate with you about Services for which you may qualify or that may be of interest to\r\nyou, for example by carrying out internal credit assessments.\r\nto carry out risk analysis, fraud prevention and risk management.\r\nto improve our Services and for general business development purposes, for example improving risk models to minimize fraud, develop\r\nnew products and features and explore new business opportunities.\r\nTo keep your Account and financial information up to date.\r\nfor marketing, product and customer analysis, including testing, for example to improve our product range and optimize our customer\r\noerings.\r\nto comply with applicable laws, such as anti-money laundering, bookkeeping laws, regulatory capital adequacy requirements, and rules\r\nissued by our designated banks and relevant card networks. For example, when we process Personal Data for know-your-customer\r\n(\u201cKYC\u201d) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out sanction\r\nscreening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities where we are not\r\ncompelled by UK law but where we have a good faith belief that sharing the information is necessary to comply with applicable law.\r\nto facilitate your participation in competitions, oerings, and events.\r\nto conduct financial risk management obligations such as credit performance and quality, insurance risks and compliance with capital\r\nadequacy requirements under applicable law\r\nto process information about your contacts to make it easy for you to find and connect them and improve payment accuracy. By\r\nproviding us with information about your contacts you certify that you have permission to provide that information to PayPal for the\r\npurposes described in this Privacy Statement.\r\nto provide you with information, news, and marketing about our Services, including where we partner with others to oer similar\r\nservices.\r\nto associate information about you to identify your use of Services without a PayPal account (e.g. Pay without a PayPal account) or\r\nUnbranded Payment Services (e.g. such as Braintree) and to associate such transactions with your account, if you have one or later\r\nestablish an account.\r\nto remember your preferences for the next time you use the Services, such as which of your payment methods you prefer or whether\r\nyou choose to receive digital receipts via email or text when you checkout.\r\nWe have a legal obligation under UK laws to conduct certain processing activities. We do this where it is necessary to comply with\r\napplicable laws.\r\nThese activities include:\r\nto provide our Services and products.\r\nto certify your identity, also for signature purposes, and verify your personal and contact details.\r\nto establish, exercise or defend a legal claim or collection procedures.\r\nto prevent misuse of our Services as part of our eorts to keep our platform safe and secure.\r\nto carry out risk analysis, fraud prevention and risk management.\r\nto comply with applicable laws, such as anti-money laundering and bookkeeping laws and regulatory capital adequacy requirements\r\nand rules issued by our designated banks and relevant card networks. For example, when we process Personal Data for know-yourcustomer (\u201cKYC\u201d) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out\r\nsanction screening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities.\r\nWe rely on your explicit and voluntary consent to process your Personal Data to participate in certain features that while not necessary for\r\nuse of the Services may be of interest to you, such as syncing your contact list to your account, providing biometric data, targeted\r\nadvertising, or connecting to a third-party platform. You may change your mind about use of these features at any time through your\r\naccount settings. Note that withdrawing your consent will not aect the lawfulness of any processing we have conducted prior to your\r\nwithdrawal. Please refer to Section 10 (\u201cYour data protection rights\u201d) for more information on your right to withdraw your consent.\r\n6. Do We Share Personal Data, and why?\r\nWe will share your Personal Data with third parties where there is a lawful basis to do so.\r\nThis includes:\r\nWith other PayPal Companies, in order to provide you with the Services and for our own legitimate interests in conducting our business.\r\nThese interests are described further in Section 5 (\u201cWhat Personal Data is used and for which legal basis?\u201d). The receiving PayPal\r\ncompany will process your Personal Data in accordance with this Privacy Statement.\r\nWith authorities, to the extent we are under a legal obligation to do so. Such authorities include tax authorities, police authorities,\r\nenforcement authorities and supervisory authorities in relevant countries. We may also be required to provide competent authorities\r\ninformation about your use of our Services, for example revenue or tax authorities, which may include your name, address and\r\ninformation regarding card transactions processed by us on your behalf through our Services. The legal basis for complying with\r\ndisclosure obligations under UK law is legal obligation and where acting under non-UK law, on the basis of our legitimate interest to\r\ncomply with relevant laws to deter illegal conduct.\r\nWith other financial institutions and card networks, for example to facilitate payment processing, to jointly oer a product or to add\r\ncards to your electronic wallet. The legal basis for our disclosure is performance of our contract with you. These parties may also access\r\nyour Personal Data for other legitimate purposes such as identification verification, fraud prevention and risk management. The legal\r\nbasis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.\r\nWith fraud prevention and identity verification agencies, for example to assist us in detecting activities suggestive of fraud. The legal\r\nbasis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.\r\nWith debt collection agencies, for example to collect unpaid overdue debts through a third party such as a debt collection agency. We do\r\nthis on the basis of our legitimate interest to conduct business and recover debts. Please be aware that these parties\u2019 privacy notice\r\napplies to the processing of Personal Data that you share directly with them, and they may report your unpaid debts to credit reporting\r\nagencies which may aect your creditworthiness or ability to secure future credit.\r\nWith service providers that operate at our direction and on our behalf to perform services we outsource to them, such as marketing, IT\r\ndevelopment, maintenance, hosting and support and customer service operations. The legal basis for this processing is the performance\r\nof our contractual obligations to you.\r\nWith other Users in accordance with your Account Settings. You may display or make certain information available to other Users, such\r\nas your profile photo, first and last name, username, or city in accordance with your Account Settings. The legal basis for this\r\nprocessing is your consent. Please note that you can change your profile settings at any time and at no cost to you.\r\nWith financial institutions in connection with your participation in Open Banking, for example when you initiate an Account connection\r\nwith another bank, card account, or aggregator. We do this to check if you have sucient funds or confirm your ownership of the\r\naccount. When you choose to link your Account the legal basis for accessing your account data is performance of our contractual\r\nobligations to you.\r\nWith partners and merchants, their service providers and others involved in a transaction, for example when you use the Services to\r\ninitiate online purchases, pay other Users, or return goods we may share information about you and your Account with the other\r\nparties involved in processing your transactions. The legal basis for this processing is the performance of our contractual obligations to\r\nyou and for our legitimate interests. Please note that Personal Data shared with partners and merchants (or their service providers)\r\ninvolved in a transaction is subject to the partners and merchants\u2019 own privacy policy and procedures.\r\nWith third parties that are independent data controllers, for example when we share Personal Data to credit reference agencies,\r\nacquirers and other financial institutions, or security products to prevent bots from accessing our Services. Please be aware that these\r\nparties\u2019 privacy notice applies to the processing of Personal Data that you share directly with them. For example, we use Google\u2019s\r\nreCAPTCHA to prevent misuse of our Services, when you access our mobile application. Google\u2019s Privacy Policy and Terms of Use apply\r\nto the processing of Personal Data you share with them. For more information specific to credit reference agencies we partner to assess\r\nyour creditworthiness, see Section 12, (\u201cCredit Reference Agency Information Notice\u201d).\r\nWith buyers or in connection with business transfer, for example if we sell business or assets, we may share your Personal Data to a\r\nbuyer of those business or assets. If PayPal or a significant portion of PayPal\u2019s assets are acquired by a third party, Personal Data may\r\nalso be shared. PayPal has a legitimate interest in being able to carry out these transactions.\r\n7. How long does PayPal store your Personal Data?\r\nWe retain Personal Data for as long as needed or permitted in context of the purpose for which it was collected and consistent with\r\napplicable law.\r\nThe criteria used to determine our retention period is as follows:\r\nPersonal Data used for the ongoing relationship between you and PayPal is stored for the duration of the relationship plus a period of\r\n10 years\r\nPersonal Data in relation to a legal obligation to which we are subject is retained consistent with the applicable law, such as under\r\napplicable bankruptcy laws and AML obligations.\r\nWe retain Personal Data for the least amount of time necessary where retention is advisable in light of litigation, investigations, audit\r\nand compliance practices, or to protect against legal claims.\r\n8. International Transfers of Personal Data\r\nWe operate in many countries, and we (or our service providers) may move your data and process it outside the country where you live. We\r\nuse third-party service providers to process and store your information in the United States and other countries. These countries do not\r\nalways aord an equivalent level of privacy protection. We have taken specific steps, in accordance with UK data protection laws, to protect\r\nyour Personal Data. For transfers of Personal Data from the EU within PayPal Companies, we rely on Binding Corporate Rules approved by\r\ncompetent Supervisory Authorities (available here). For transfers of personal data from the UK, these are based on the UK Addendum\r\n(approved by the Information Commissioner\u2019s Oce) to the EU standard contractual clauses, approved by the European Commission, to\r\nhelp ensure your information is aorded a high standard of protection and that your privacy rights are respected.\r\n9. How Do We Use Cookies and Tracking Technologies?\r\nWhen you interact with our Services, open email we send you, or visit a third-party website for which we provide Services, we and our\r\npartners use cookies and other tracking technologies such as pixel tags, web beacons, and widgets (collectively, \u201cCookies\u201d) to recognise you\r\nas a User, customise your online experiences and online content, including to serve you interest-based advertising, perform analytics;\r\nmitigate risk and prevent potential fraud, and promote trust and safety across our Sites and Services. Certain aspects and features of our\r\nServices and Sites are only available through the use of Cookies, so if you decline certain Cookies, your use of the Sites and Services may be\r\nlimited or not possible.\r\nWe use Cookies to collect your device information, internet activity information, and inferences as described above.\r\nCookies help us to do the following:\r\nRemember your information so you do not have to re-enter it\r\nTrack and understand how you use and interact with our online services and emails\r\nTailor our online services to your preferences\r\nMeasure how useful and eective our services and communications are to you\r\nOtherwise manage and enhance our products and services\r\nDo Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other\r\nthird parties. At this time our Sites are not designed to respond to DNT signals or similar mechanisms from browsers.\r\nPlease review our Statement on Cookies and Tracking Technologies to learn more about our use of Cookies.\r\n10. Your Data Protection Rights\r\nUnder applicable data protection law, you have certain rights to control our collection and use of your Personal Data. Your rights include:\r\nAccess, rectification, deletion, objection, portability, and restriction of your information\r\nWe recognize the importance of your ability to control use of your Personal Data and provide several ways for you to exercise your\r\nrights to access (right to know), rectification (correction or update), deletion (erasure), objection, portability (transferring), and to\r\nrestrict process in whole or in part.\r\nIf you have an Account you can exercise your data protection rights by accessing \u201cData and Privacy\u201d from Account Settings in the PayPal\r\napp. Even if you do not you have an Account (for example, where you use Payment without a PayPal account), you can submit a request\r\nfor access, modification, correction, or deletion of your information, for your Payment without a PayPal account transactions. You can\r\nsubmit a request related to someone else\u2019s information, if you are their authorized agent, by contacting us. Please note that we may\r\nrequire you to provide additional information for verification.\r\nYour right to object to the Automated Decisions and profiling\r\nIf you are not approved under the Automated Decisions described below, you will not have access to our services, such as our payment\r\nmethods. PayPal has several safety mechanisms to ensure the decisions are appropriate. These mechanisms include ongoing overviews\r\nof our decision models and random sampling in individual cases. If you have any concern about the outcome, you can contact us, and\r\nwe will determine whether the procedure was performed appropriately.\r\nYou have the right to object to an Automated Decision with legal consequences or decisions which can otherwise significantly aect you\r\n(together with the relevant profiling) by contacting us. We will then review the decision, taking into account relevant additional\r\ncircumstances.\r\nConsent\r\nGenerally, if we use your Personal Data with your consent, you have the right to withdraw your consent at any time without aecting\r\nthe lawfulness of processing based on consent before its withdrawal.\r\nWithdrawing your consent will not aect the lawfulness of any processing we conducted prior to your withdrawal, nor will it aect\r\nprocessing of your Personal Data conducted in reliance on a lawful processing ground other than consent.\r\nRight to object to Direct Marketing\r\nIf we use your Personal Data for direct marketing, you can always modify your permissions, object and opt out of future direct\r\nmarketing messages using the unsubscribe link in electronic communications or through your Account Settings.\r\nRight to object to Legitimate Interest processing\r\nIf we use your Personal Data to pursue our legitimate interests or those of a third-party, you have the right to object to our use for\r\nthat purpose. See Section 5 (\u201cWhat Personal Data is used and for which Legal Basis?\u201d)\r\nHow do you exercise your rights and how can you contact us or the data protection authority?\r\nIf you are unhappy with our processing of your Personal Data for any reason, you have the right to lodge a complaint with the\r\nsupervisory authority for data protection in your country.\r\nBy contacting our Data Protection Ocer, please see Section 18 (\u201cOur Contact Information\u201d).\r\nYou may also seek a remedy through local courts if you believe your rights have been breached.\r\nYou may also lodge a complaint with your local data protection authority, which in the UK is the Information Commissioner\u2019s Oce:\r\nwebsite: https://ico.org.uk/, address: Wyclie House, Water Lane, Wilmslow, Cheshire, SK9 5AF.\r\n11. Specific information about automated decision-making and profiling\r\n\u201cAutomated-decision making\u201d is the process of making a decision by fully automated means without human involvement. In some cases\r\nthese decisions could have a legal or similarly significant eect on you as an individual. \u201cProfiling\u201d means analysis of an individual's\r\npersonality, behaviour, interest and habits to make predictions or decisions about them. Where authorised under UK law or where\r\nnecessary for the entry into or performance of a contract, we may in some cases use automated decision-making or profiling for decisions.\r\nAn example of our use of automated decision making is evaluation of your creditworthiness to assess your suitability for certain credit\r\nproducts.\r\nWe believe that by making such decisions automatically, PayPal increases its objectivity and transparency in deciding which services to\r\noer you. We deploy several safety mechanisms to ensure the decisions are appropriate. These mechanisms include ongoing overviews of\r\nour decision models and random sampling in individual cases. You can always ask for a manual decision-making process instead, express\r\nyour opinion or contest decision making based solely on automated processing, including profiling, if such a decision would produce legal\r\neects or otherwise similarly significantly aect you. You can find out more about how to object to these decisions in Section 10 (\u201cYour\r\ndata protection rights\u201d).\r\nContact our Data Protection Ocer (DPO) Online if you require more information on our use of Automated-decision making or Profiling.\r\n12. Why do we share your Personal Data with credit reference agencies?\r\nIf you have applied for or use our credit Services, in order to process your application, we may supply your Personal Data to credit\r\nreference agencies (CRAs) and they will give us information about you, such as your financial history. We do this to assess creditworthiness\r\nand product suitability, check your identity, trace and recover debts and prevent criminal activity.\r\nThe legal bases for such transmissions are found in Article 6, paragraph 1, letter b (contractual) and Article 6, paragraph 1, letter f\r\n(legitimate interest) of the UK General Data Protection Regulation (\u201cUK GDPR\u201d).\r\nWe will also continue to exchange information about you with CRAs on an ongoing basis, including about your settled accounts and any\r\ndebts not fully repaid on time. This information may be supplied by CRAs to other organizations to perform similar checks and to trace\r\nyour whereabouts and recover debts that you owe.\r\nYour data will also be linked to the data of any joint applicants or other financial associates.\r\nHow to Find Out More\r\nContact our Data Protection Ocer (DPO) Online for details of which CRA we have used for a specific search.\r\nThe list of CRAs used in the UK and EEA, can be found here, including identities of the CRAs used in each relevant country, and a link to\r\ntheir privacy notice from which you can determine the ways in which they use and share Personal Data, including how long they will retain\r\nsuch Personal Data. You can contact the credit reference agencies operating in the country in which you live directly if you have any\r\nquestions regarding their services, your credit score or the information they have stored about you, or if you wish to exercise your data\r\nsubject rights towards them.\r\n13. How Do We Protect Your Personal Data?\r\nWe maintain technical, physical, and administrative security measures designed to provide reasonable protection for your Personal Data\r\nagainst loss, misuse, unauthorised access, disclosure, and alteration. The security measures include firewalls, data encryption, physical\r\naccess controls to our data centres, and information access authorisation controls. While we are dedicated to securing our systems and\r\nServices, you are responsible for securing and maintaining the privacy of your password(s) and Account/profile registration information\r\nand verifying that the Personal Data we maintain about you is accurate and current. We are not responsible for protecting any Personal\r\nData that we share with a third-party based on an account connection that you have authorised.\r\n14. Can Children Use Our Services?\r\nWe do not knowingly collect information, including Personal Data, from children under the age of 16 or other individuals who are not\r\nlegally able to use our Sites and Services. If we obtain actual knowledge that we have collected Personal Data from someone not allowed to\r\nuse our Services, we will promptly delete it, unless we are legally obligated to retain such data.\r\nPlease contact us if you believe that we have mistakenly or unintentionally collected information from someone not allowed to use our\r\nServices.\r\n15. Updates to this Privacy Statement.\r\nWe revise this Privacy Statement from time to time to reflect changes to our business, Services, or applicable laws. If the revised version\r\nrequires notice in accordance with applicable law, we will provide you with 30 days prior notice by posting notice of the change on the\r\n\"Policy Updates\" or \"Privacy Statement\" page of our website, otherwise the revised Privacy Statement will be eective as of the published\r\neective date.\r\n16. Users in the UK\r\nIn order to provide the PayPal Services, certain of the information we collect (as set out in this Privacy Statement) may be required to be\r\ntransferred to other PayPal related companies or other entities, including those referred to in this section in their capacity as payment\r\nproviders, payment processors or account holders (or similar capacities). You acknowledge that according to their local legislation, such\r\nentities may be subject to laws, regulations, inquiries, investigations, or orders which may require the disclosure of information to the\r\nrelevant authorities of the relevant country.\r\nSpecifically, you acknowledge that PayPal may do any and all of the following with your information:\r\na. Disclose necessary information to: the police and other law enforcement agencies; security forces; competent governmental,\r\nintergovernmental or supranational bodies; competent agencies, departments, regulatory authorities, self-regulatory authorities or\r\norganisations and other third parties, including PayPal Group companies, that (i) we are legally compelled and permitted to comply with,\r\nincluding but without limitation laws implementing the US Foreign Account Tax Compliance Act (\u201cFATCA\u201d) and OECD Common Reporting\r\nStandard (\u201cCRS\u201d); (ii) we have reason to believe it is appropriate for us to cooperate with in investigations of fraud or other illegal activity\r\nor potential illegal activity, or (iii) to conduct investigations of violations of our User Agreement (including without limitation, your\r\nfunding source or credit or debit card provider).\r\nIf you are covered by FATCA or CRS, we are required to give you notice of the information about you that we may transfer to various\r\nauthorities.\r\nWe and other organisations, including parties that accept PayPal, may also share, access and use (including from other countries) necessary\r\ninformation (including, without limitation the information recorded by fraud prevention agencies) to help us and them assess and to\r\nmanage risk (including, without limitation, to prevent fraud, money laundering and terrorist financing). Please contact us if you want to\r\nreceive further details of the relevant fraud prevention agencies.\r\nb. Disclose Account Information to intellectual property right owners if under applicable law they have a claim against PayPal for an outof-court information disclosure due to an infringement of their intellectual property rights for which PayPal Services have been used.\r\nc. Disclose necessary information in response to the requirements of the credit card associations or a civil or criminal legal process.\r\nd. Disclose your name and PayPal link in the PayPal user directory. Your details will be confirmed to other PayPal users in response to a\r\nuser searching using your name, email address or telephone number, or part of these details. This is to ensure people make payments to\r\nthe correct user. This feature can be turned o in the PayPal profile settings.\r\ne. If you as a merchant use a third party to access or integrate PayPal, we may disclose to any such partner necessary information for the\r\npurpose of facilitating and maintaining such an arrangement (including, without limitation, the status of your PayPal integration, whether\r\nyou have an active PayPal account and whether you may already be working with a dierent PayPal integration partner).\r\nf. Disclose necessary information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a\r\nguardian appointed for you).\r\ng. Disclose aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific\r\npercentage of our users live in Manchester. However, this aggregated information is not tied to Personal Data.\r\n17. Definitions\r\nDevice Information means data that can be automatically collected from any device used to access the Site or Services. Such\r\ninformation may include, but is not limited to, your device type; your device\u2019s network connections; your device\u2019s name; your device IP\r\naddress; information about your device\u2019s web browser and internet connection you use to access the Site or Services; Geolocation\r\nInformation; information about apps downloaded to your device; and biometric data.\r\nGeolocation Information means information that identifies, with precise specificity, your location by using, for instance, longitude and\r\nlatitude coordinates obtained through your GPS, or your device settings.\r\nLocation Information means information that identifies, with reasonable specificity, your approximate location by using, for instance,\r\nlongitude and latitude coordinates obtained through GPS or Wi-Fi or cell site triangulation.\r\nPartner means the merchant or business that our Users transact with for the purpose of obtaining goods or services.\r\nPay without a PayPal account means the same as in the Terms for Payments without a PayPal account.\r\nPayPal Companies means companies that are owned and operated by PayPal, and process Personal Data in accordance with their terms\r\nof service and privacy policies. PayPal Companies include Honey Science LLC, Paidy Inc., Happy Returns, LLC, HyperWallet, and\r\nBraintree.\r\nPersonal Data means information that can be associated with an identified or directly or indirectly identifiable natural person. \u201cPersonal\r\nData\u201d can include, but is not limited to, name, postal address (including billing and shipping addresses), telephone number, email\r\naddress, payment card number, other financial account information, account number, date of birth, government-issued credentials\r\n(e.g., driver\u2019s license number, national ID, passport number), and biometrics.\r\nProcessing means any method or way that we handle Personal Data or sets of Personal Data, whether by automated means, such as by\r\ncollection, recording, categorization, structuring, storage, adaptation or alteration, retrieval, and consultation, use, disclosure by\r\ntransmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal\r\nData.\r\nServices means any PayPal branded or Unbranded Payment Services, Pay without a PayPal account, credit products and services,\r\ncontent, features, technologies, or functions, and all related websites, applications and services oered to you by PayPal. Your use of\r\nthe Services includes use of our Sites.\r\nSites means the websites, mobile apps, ocial social media platforms, or other online properties through which PayPal oers the\r\nServices and which has posted or linked to this Privacy Statement.\r\nUnbranded Payment Services means you are interacting with and making payments to merchants using our card payment services that\r\ndo not carry the PayPal brand.\r\nUser is any person who uses the Services as a consumer for personal or household use. For the purposes of this Notice, \u201cUser\u201d includes\r\n\u201cyou\u201d and \u201cyour\u201d.\r\n18. Our Contact Information\r\nContact our Data Protection Ocer (DPO) Online or oine at PayPal (Europe) S.\u00e0.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449,\r\nLuxembourg, or contact PayPal UK Ltd at Whittaker House, Whittaker Avenue, Richmond-Upon-Thames, Surrey, United Kingdom, TW9 1EH.\r\nClick here to contact us about your PayPal Account or Service\r\nClick here to contact us about your Xoom Account or Service\r\nStatus disclosure\r\nPayPal UK Ltd is authorised and regulated by the Financial Conduct Authority (FCA) as an electronic money institution under the Electronic\r\nMoney Regulations 2011 for the issuance of electronic money (firm reference number 994790), in relation to its regulated consumer credit\r\nactivities under the Financial Services and Markets Act 2000 (firm reference number 996405) and for the provision of Cryptocurrency\r\nservices under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (firm\r\nreference number 1000741). Some of PayPal UK Ltd\u2019s products including PayPal Pay in 3 and PayPal Working Capital are not regulated by\r\nthe FCA. PayPal UK Ltd\u2019s company number is 14741686 and its registered address is Whittaker House, Whittaker Avenue, Richmond-UponThames, Surrey, United Kingdom, TW9 1EH.\r\n\u00a9 1999\u20132023 Accessibility Privacy Legal Complaints"
+    },
+    "annotations": [
+        {
+            "_id": "65fac1a6e56775109404d058",
+            "start": 3474,
+            "end": 3487,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Gen",
+                "Type": "Open",
+                "Ref": []
+            },
+            "text": "Personal Data"
+        },
+        {
+            "_id": "65fac1d0e56775109404d05b",
+            "start": 8861,
+            "end": 8908,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Gen",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1a6e56775109404d058"
+                ]
+            },
+            "text": "Personal Data automatically collected about you"
+        },
+        {
+            "_id": "65fac1e1e56775109404d05c",
+            "start": 6649,
+            "end": 6691,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Gen",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1a6e56775109404d058"
+                ]
+            },
+            "text": "Personal Data collected from third parties"
+        },
+        {
+            "_id": "65fac1f3e56775109404d05d",
+            "start": 3756,
+            "end": 3788,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Gen",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1a6e56775109404d058"
+                ]
+            },
+            "text": "Personal Data collected from you"
+        },
+        {
+            "_id": "65fac202e56775109404d05e",
+            "start": 3857,
+            "end": 3893,
+            "type": "Category",
+            "attributes": {
+                "Kind": "BasicAccountInfo",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Registration and Contact Information"
+        },
+        {
+            "_id": "65fac206e56775109404d05f",
+            "start": 4168,
+            "end": 4208,
+            "type": "Category",
+            "attributes": {
+                "Kind": "IdentityVerificationInfo",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Identification and Signature Information"
+        },
+        {
+            "_id": "65fac20ae56775109404d060",
+            "start": 4445,
+            "end": 4464,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Payment",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Payment Information"
+        },
+        {
+            "_id": "65fac20fe56775109404d061",
+            "start": 4727,
+            "end": 4767,
+            "type": "Category",
+            "attributes": {
+                "Kind": "ContactList",
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ]
+            },
+            "text": "Information about your imported contacts"
+        },
+        {
+            "_id": "65fac213e56775109404d062",
+            "start": 5016,
+            "end": 5051,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UserProfileInfo",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Information in your Account Profile"
+        },
+        {
+            "_id": "65fac217e56775109404d063",
+            "start": 5800,
+            "end": 5818,
+            "type": "Category",
+            "attributes": {
+                "Kind": "DeviceInfo",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Device Information"
+        },
+        {
+            "_id": "65fac21ae56775109404d064",
+            "start": 6278,
+            "end": 6291,
+            "type": "Category",
+            "attributes": {
+                "Kind": "ContentPreferences",
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ]
+            },
+            "text": "Inferred data"
+        },
+        {
+            "_id": "65fac22ce56775109404d065",
+            "start": 6880,
+            "end": 6932,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UserProfileInfo",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ]
+            },
+            "text": "Information from your connected third party accounts"
+        },
+        {
+            "_id": "65fac230e56775109404d066",
+            "start": 7469,
+            "end": 7511,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Financial",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ]
+            },
+            "text": "Information from Credit Reporting Agencies"
+        },
+        {
+            "_id": "65fac234e56775109404d067",
+            "start": 7799,
+            "end": 7822,
+            "type": "Category",
+            "attributes": {
+                "Kind": "Purchase",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ]
+            },
+            "text": "Transaction Information"
+        },
+        {
+            "_id": "65fac238e56775109404d068",
+            "start": 8163,
+            "end": 8204,
+            "type": "Category",
+            "attributes": {
+                "Kind": "CriminalRecord",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ]
+            },
+            "text": "Information related to legal requirements"
+        },
+        {
+            "_id": "65fac23ee56775109404d069",
+            "start": 9038,
+            "end": 9058,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UsageData",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1d0e56775109404d05b"
+                ]
+            },
+            "text": "Technical Usage Data"
+        },
+        {
+            "_id": "65fac241e56775109404d06a",
+            "start": 9394,
+            "end": 9422,
+            "type": "Category",
+            "attributes": {
+                "Kind": "DeviceInfo",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1d0e56775109404d05b"
+                ]
+            },
+            "text": "Information from your device"
+        },
+        {
+            "_id": "65fac243e56775109404d06b",
+            "start": 9697,
+            "end": 9717,
+            "type": "Category",
+            "attributes": {
+                "Kind": "GeoInfo",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Location Information"
+        },
+        {
+            "_id": "65fac247e56775109404d06c",
+            "start": 9902,
+            "end": 9915,
+            "type": "Category",
+            "attributes": {
+                "Kind": "ContentPreferences",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1d0e56775109404d05b"
+                ]
+            },
+            "text": "Inferred data"
+        },
+        {
+            "_id": "65fac25fe56775109404d06d",
+            "start": 3460,
+            "end": 3509,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Categories of Personal Data We Collect about You\r"
+        },
+        {
+            "_id": "65fac37be56775109404d06e",
+            "start": 3948,
+            "end": 3958,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": " your name"
+        },
+        {
+            "_id": "65fac37ee56775109404d06f",
+            "start": 3960,
+            "end": 3975,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "mailing address"
+        },
+        {
+            "_id": "65fac381e56775109404d070",
+            "start": 3977,
+            "end": 3982,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "email"
+        },
+        {
+            "_id": "65fac388e56775109404d071",
+            "start": 3984,
+            "end": 3990,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "income"
+        },
+        {
+            "_id": "65fac38ce56775109404d072",
+            "start": 3993,
+            "end": 4009,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "ContactInfo"
+            },
+            "text": "telephone number"
+        },
+        {
+            "_id": "65fac390e56775109404d073",
+            "start": 4011,
+            "end": 4017,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "tax ID"
+        },
+        {
+            "_id": "65fac393e56775109404d074",
+            "start": 4019,
+            "end": 4038,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "Payment Information"
+        },
+        {
+            "_id": "65fac396e56775109404d075",
+            "start": 4040,
+            "end": 4050,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "profession"
+        },
+        {
+            "_id": "65fac39fe56775109404d076",
+            "start": 4051,
+            "end": 4086,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "Financial"
+            },
+            "text": " employment or business information"
+        },
+        {
+            "_id": "65fac3a2e56775109404d077",
+            "start": 4092,
+            "end": 4109,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac202e56775109404d05e"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "other information"
+        },
+        {
+            "_id": "65fac3b2e56775109404d078",
+            "start": 4286,
+            "end": 4295,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "your name"
+        },
+        {
+            "_id": "65fac3b5e56775109404d079",
+            "start": 4297,
+            "end": 4304,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "address"
+        },
+        {
+            "_id": "65fac3bae56775109404d07a",
+            "start": 4307,
+            "end": 4312,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "email"
+        },
+        {
+            "_id": "65fac3bfe56775109404d07b",
+            "start": 4314,
+            "end": 4326,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "phone number"
+        },
+        {
+            "_id": "65fac3c2e56775109404d07c",
+            "start": 4328,
+            "end": 4361,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "Gov"
+            },
+            "text": "government- issued identification"
+        },
+        {
+            "_id": "65fac3c4e56775109404d07d",
+            "start": 4362,
+            "end": 4366,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": " age"
+        },
+        {
+            "_id": "65fac3c7e56775109404d07e",
+            "start": 4371,
+            "end": 4385,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "biometric data"
+        },
+        {
+            "_id": "65fac3f8e56775109404d07f",
+            "start": 4513,
+            "end": 4537,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": " your payment instrument"
+        },
+        {
+            "_id": "65fac3fae56775109404d080",
+            "start": 4539,
+            "end": 4543,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "card"
+        },
+        {
+            "_id": "65fac401e56775109404d082",
+            "start": 4548,
+            "end": 4576,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "financial or funding account"
+        },
+        {
+            "_id": "65fac40ce56775109404d083",
+            "start": 4626,
+            "end": 4637,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "issuer name"
+        },
+        {
+            "_id": "65fac416e56775109404d084",
+            "start": 4639,
+            "end": 4648,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "card type"
+        },
+        {
+            "_id": "65fac418e56775109404d085",
+            "start": 4650,
+            "end": 4662,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "country code"
+        },
+        {
+            "_id": "65fac41be56775109404d086",
+            "start": 4664,
+            "end": 4686,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "payment account number"
+        },
+        {
+            "_id": "65fac41ee56775109404d087",
+            "start": 4688,
+            "end": 4691,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "CVV"
+        },
+        {
+            "_id": "65fac424e56775109404d088",
+            "start": 4693,
+            "end": 4701,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "username"
+        },
+        {
+            "_id": "65fac428e56775109404d089",
+            "start": 4707,
+            "end": 4724,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "IBAN\r\ninformation"
+        },
+        {
+            "_id": "65fac44fe56775109404d08c",
+            "start": 4883,
+            "end": 5013,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ]
+            },
+            "text": "such as name, address, phone number, images, email address or usernames associated with the contacts you import\r\nor enter manually"
+        },
+        {
+            "_id": "65fac459e56775109404d08d",
+            "start": 4615,
+            "end": 4724,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ]
+            },
+            "text": " including issuer name, card type, country code, payment account number, CVV, username, and IBAN\r\ninformation"
+        },
+        {
+            "_id": "65fac462e56775109404d08e",
+            "start": 4891,
+            "end": 4895,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "name"
+        },
+        {
+            "_id": "65fac467e56775109404d08f",
+            "start": 4897,
+            "end": 4904,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "address"
+        },
+        {
+            "_id": "65fac46ae56775109404d090",
+            "start": 4906,
+            "end": 4918,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "phone number"
+        },
+        {
+            "_id": "65fac46de56775109404d091",
+            "start": 4920,
+            "end": 4926,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "Images"
+            },
+            "text": "images"
+        },
+        {
+            "_id": "65fac474e56775109404d093",
+            "start": 4945,
+            "end": 5013,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "usernames associated with the contacts you import\r\nor enter manually"
+        },
+        {
+            "_id": "65fac48de56775109404d094",
+            "start": 6307,
+            "end": 6340,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ],
+                "Kind": "ContentPreferences"
+            },
+            "text": "inferences from your transactions"
+        },
+        {
+            "_id": "65facacde56775109404d096",
+            "start": 5093,
+            "end": 5106,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "your username"
+        },
+        {
+            "_id": "65facad0e56775109404d097",
+            "start": 5108,
+            "end": 5113,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "email"
+        },
+        {
+            "_id": "65facad3e56775109404d098",
+            "start": 5115,
+            "end": 5128,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "mobile number"
+        },
+        {
+            "_id": "65facad9e56775109404d099",
+            "start": 5130,
+            "end": 5145,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "profile picture"
+        },
+        {
+            "_id": "65facadde56775109404d09a",
+            "start": 5148,
+            "end": 5166,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "Settings"
+            },
+            "text": "preferred language"
+        },
+        {
+            "_id": "65facb27e56775109404d09b",
+            "start": 5171,
+            "end": 5192,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "personal description "
+        },
+        {
+            "_id": "65facb3ce56775109404d09c",
+            "start": 5343,
+            "end": 5357,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "biometric data"
+        },
+        {
+            "_id": "65facb5ce56775109404d09d",
+            "start": 5411,
+            "end": 5454,
+            "type": "Category",
+            "attributes": {
+                "Kind": "CommunicationProv",
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1f3e56775109404d05d"
+                ]
+            },
+            "text": "Information you provide when you contact us"
+        },
+        {
+            "_id": "65facb7ae56775109404d09e",
+            "start": 5558,
+            "end": 5580,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "CommunicationProv"
+            },
+            "text": "Services you have used"
+        },
+        {
+            "_id": "65facb7fe56775109404d09f",
+            "start": 5582,
+            "end": 5604,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "CommunicationProv"
+            },
+            "text": "recorded conversations"
+        },
+        {
+            "_id": "65facb86e56775109404d0a0",
+            "start": 5606,
+            "end": 5624,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "CommunicationProv"
+            },
+            "text": "chat conversations"
+        },
+        {
+            "_id": "65facb8ce56775109404d0a1",
+            "start": 5634,
+            "end": 5662,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "CommunicationProv"
+            },
+            "text": "email correspondence with us"
+        },
+        {
+            "_id": "65facb90e56775109404d0a2",
+            "start": 5663,
+            "end": 5678,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": " account status"
+        },
+        {
+            "_id": "65facb98e56775109404d0a3",
+            "start": 5681,
+            "end": 5698,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "repayment history"
+        },
+        {
+            "_id": "65facb9be56775109404d0a4",
+            "start": 5700,
+            "end": 5720,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "IdentityVerificationInfo"
+            },
+            "text": "voice identification"
+        },
+        {
+            "_id": "65facbbbe56775109404d0a5",
+            "start": 5550,
+            "end": 5720,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ]
+            },
+            "text": "such as Services you have used, recorded conversations, chat conversations with us, email correspondence with us, account status,\r\nrepayment history, voice identification"
+        },
+        {
+            "_id": "65facbd3e56775109404d0a6",
+            "start": 5975,
+            "end": 5991,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "your device type"
+        },
+        {
+            "_id": "65facbd8e56775109404d0a7",
+            "start": 5993,
+            "end": 6026,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "your device\u2019s network connections"
+        },
+        {
+            "_id": "65facbe4e56775109404d0a8",
+            "start": 6027,
+            "end": 6046,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": " your device\u2019s name"
+        },
+        {
+            "_id": "65facbe8e56775109404d0a9",
+            "start": 6048,
+            "end": 6070,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "your device IP address"
+        },
+        {
+            "_id": "65facbf1e56775109404d0aa",
+            "start": 6073,
+            "end": 6116,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "information about your device\u2019s web browser"
+        },
+        {
+            "_id": "65facbfee56775109404d0ab",
+            "start": 6120,
+            "end": 6158,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": " internet connection you use to access"
+        },
+        {
+            "_id": "65facc02e56775109404d0ac",
+            "start": 6181,
+            "end": 6204,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "Geolocation Information"
+        },
+        {
+            "_id": "65facc0ce56775109404d0ad",
+            "start": 6207,
+            "end": 6241,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "information about apps downloaded "
+        },
+        {
+            "_id": "65facc10e56775109404d0ae",
+            "start": 6261,
+            "end": 6275,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "biometric data"
+        },
+        {
+            "_id": "65facc26e56775109404d0af",
+            "start": 5943,
+            "end": 6275,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ]
+            },
+            "text": "include, but is not limited to, your device type; your device\u2019s network connections; your device\u2019s name; your device IP address;\r\ninformation about your device\u2019s web browser and internet connection you use to access the Site or Services; Geolocation Information;\r\ninformation about apps downloaded to your device; and biometric data"
+        },
+        {
+            "_id": "65facc2de56775109404d0b0",
+            "start": 5820,
+            "end": 6277,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information that can be automatically collected from any device used to access the Site or Services. Such information\r\nmay include, but is not limited to, your device type; your device\u2019s network connections; your device\u2019s name; your device IP address;\r\ninformation about your device\u2019s web browser and internet connection you use to access the Site or Services; Geolocation Information;\r\ninformation about apps downloaded to your device; and biometric data.\r"
+        },
+        {
+            "_id": "65facc4fe56775109404d0b2",
+            "start": 6292,
+            "end": 6385,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": " We may derive inferences from your transactions and personal data when you use the Services."
+        },
+        {
+            "_id": "65facc54e56775109404d0b3",
+            "start": 6278,
+            "end": 6292,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Inferred data."
+        },
+        {
+            "_id": "65facea5e56775109404d0b4",
+            "start": 4486,
+            "end": 4512,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "amount you send or request"
+        },
+        {
+            "_id": "65faceb7e56775109404d0b5",
+            "start": 4478,
+            "end": 4724,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ]
+            },
+            "text": "such as amount you send or request, your payment instrument, card, or financial or funding account\r\nused in connection with the Services, including issuer name, card type, country code, payment account number, CVV, username, and IBAN\r\ninformation"
+        },
+        {
+            "_id": "65fad06ae56775109404d0b7",
+            "start": 3895,
+            "end": 4167,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Depending on the Services you choose, we will collect your name, mailing address, email, income,\r\ntelephone number, tax ID, Payment Information, profession, employment or business information, and other information necessary to\r\nestablish an account and use our Services.\r"
+        },
+        {
+            "_id": "65fae497e56775109404d0b9",
+            "start": 4209,
+            "end": 4443,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": " Depending on the Services you choose, we will collect information to verify your name, address,\r\nemail, phone number, government- issued identification, age and biometric data as well as to create and issue your electronic signature."
+        },
+        {
+            "_id": "65fae49ce56775109404d0ba",
+            "start": 4168,
+            "end": 4209,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Identification and Signature Information."
+        },
+        {
+            "_id": "65fae4d4e56775109404d0bb",
+            "start": 4445,
+            "end": 4465,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Payment Information."
+        },
+        {
+            "_id": "65faf091e56775109404d0bc",
+            "start": 4466,
+            "end": 4726,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Information such as amount you send or request, your payment instrument, card, or financial or funding account\r\nused in connection with the Services, including issuer name, card type, country code, payment account number, CVV, username, and IBAN\r\ninformation.\r"
+        },
+        {
+            "_id": "65faf0b5e56775109404d0bd",
+            "start": 4769,
+            "end": 5015,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "If you choose to import your contact lists, we will collect Information you enter or import\r\nabout your contacts, such as name, address, phone number, images, email address or usernames associated with the contacts you import\r\nor enter manually.\r"
+        },
+        {
+            "_id": "65faf0bde56775109404d0bf",
+            "start": 5016,
+            "end": 5052,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information in your Account Profile."
+        },
+        {
+            "_id": "65faf579e56775109404d0c1",
+            "start": 5053,
+            "end": 5358,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information you choose to enter such as your username, email, mobile number, profile picture,\r\npreferred language, or personal description which may include sensitive Personal Data that reveals religious beliefs, political or\r\nphilosophical views, disability, sexual orientation as well as biometric data."
+        },
+        {
+            "_id": "65faf5b1e56775109404d0c2",
+            "start": 5411,
+            "end": 5455,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Information you provide when you contact us."
+        },
+        {
+            "_id": "65faf63de56775109404d0c3",
+            "start": 5800,
+            "end": 5819,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Device Information."
+        },
+        {
+            "_id": "65fafaeae56775109404d0c4",
+            "start": 6345,
+            "end": 6384,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "personal data when you use the Services"
+        },
+        {
+            "_id": "65fafb5be56775109404d0c6",
+            "start": 7469,
+            "end": 7512,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information from Credit Reporting Agencies."
+        },
+        {
+            "_id": "65fafb5fe56775109404d0c7",
+            "start": 8163,
+            "end": 8206,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Information related to legal requirements. "
+        },
+        {
+            "_id": "65fafb62e56775109404d0c8",
+            "start": 7799,
+            "end": 7823,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Transaction Information."
+        },
+        {
+            "_id": "65fb0270e56775109404d0cb",
+            "start": 7002,
+            "end": 7022,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "your personal\r\nemail"
+        },
+        {
+            "_id": "65fb0284e56775109404d0ce",
+            "start": 7024,
+            "end": 7064,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "social media, or bank or credit accounts"
+        },
+        {
+            "_id": "65fb028ae56775109404d0cf",
+            "start": 6933,
+            "end": 7157,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": " If you choose to connect non-financial or financial account such as your personal\r\nemail, social media, or bank or credit accounts, we will collect information consistent with the disclosed purpose for which it was linked.\r"
+        },
+        {
+            "_id": "65fb028fe56775109404d0d0",
+            "start": 6994,
+            "end": 7066,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac22ce56775109404d065"
+                ]
+            },
+            "text": "such as your personal\r\nemail, social media, or bank or credit accounts, "
+        },
+        {
+            "_id": "65fb0321e56775109404d0d1",
+            "start": 7548,
+            "end": 7574,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "credit-related information"
+        },
+        {
+            "_id": "65fb0328e56775109404d0d2",
+            "start": 7583,
+            "end": 7594,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "outstanding"
+        },
+        {
+            "_id": "65fb0350e56775109404d0d3",
+            "start": 7600,
+            "end": 7615,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "historical debt"
+        },
+        {
+            "_id": "65fb0356e56775109404d0d4",
+            "start": 7617,
+            "end": 7634,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "repayment history"
+        },
+        {
+            "_id": "65fb035ae56775109404d0d5",
+            "start": 7636,
+            "end": 7661,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "previous credit approvals"
+        },
+        {
+            "_id": "65fb035ee56775109404d0d6",
+            "start": 7663,
+            "end": 7694,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "current employment relationship"
+        },
+        {
+            "_id": "65fb0375e56775109404d0d8",
+            "start": 7700,
+            "end": 7747,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "relationship with other financial\r\ninstitutions"
+        },
+        {
+            "_id": "65fb03a6e56775109404d0d9",
+            "start": 7575,
+            "end": 7796,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac230e56775109404d066"
+                ]
+            },
+            "text": "such as outstanding and\r\nhistorical debt, repayment history, previous credit approvals, current employment relationship, and relationship with other financial\r\ninstitutions within the framework of your use of our Services"
+        },
+        {
+            "_id": "65fb04ade56775109404d0da",
+            "start": 7513,
+            "end": 7798,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Where permitted by law, we collect credit-related information such as outstanding and\r\nhistorical debt, repayment history, previous credit approvals, current employment relationship, and relationship with other financial\r\ninstitutions within the framework of your use of our Services.\r"
+        },
+        {
+            "_id": "65fb04b8e56775109404d0db",
+            "start": 7824,
+            "end": 7860,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "Information about your order details"
+        },
+        {
+            "_id": "65fb04bce56775109404d0dc",
+            "start": 7865,
+            "end": 7874,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "purchases"
+        },
+        {
+            "_id": "65fb04cae56775109404d0de",
+            "start": 7883,
+            "end": 7900,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": " item description"
+        },
+        {
+            "_id": "65fb04cce56775109404d0df",
+            "start": 7902,
+            "end": 7910,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "quantity"
+        },
+        {
+            "_id": "65fb04d0e56775109404d0e0",
+            "start": 7912,
+            "end": 7917,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "price"
+        },
+        {
+            "_id": "65fb04d3e56775109404d0e1",
+            "start": 7919,
+            "end": 7927,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "currency"
+        },
+        {
+            "_id": "65fb04dee56775109404d0e4",
+            "start": 7948,
+            "end": 7980,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "online shopping cart information"
+        },
+        {
+            "_id": "65fb0fa9e56775109404d0e5",
+            "start": 7929,
+            "end": 7946,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "shipping\r\naddress"
+        },
+        {
+            "_id": "65fb112ce56775109404d0e8",
+            "start": 8342,
+            "end": 8346,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ],
+                "Kind": "CriminalRecord"
+            },
+            "text": "name"
+        },
+        {
+            "_id": "65fb1132e56775109404d0e9",
+            "start": 8348,
+            "end": 8361,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ],
+                "Kind": "CriminalRecord"
+            },
+            "text": "date of birth"
+        },
+        {
+            "_id": "65fb1136e56775109404d0ea",
+            "start": 8363,
+            "end": 8377,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ],
+                "Kind": "CriminalRecord"
+            },
+            "text": "place of birth"
+        },
+        {
+            "_id": "65fb113be56775109404d0eb",
+            "start": 8379,
+            "end": 8389,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ],
+                "Kind": "CriminalRecord"
+            },
+            "text": "occupation"
+        },
+        {
+            "_id": "65fb1142e56775109404d0ec",
+            "start": 8395,
+            "end": 8437,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ],
+                "Kind": "CriminalRecord"
+            },
+            "text": "the reason why the person is on the\r\nlist "
+        },
+        {
+            "_id": "65fb114ae56775109404d0ed",
+            "start": 8293,
+            "end": 8333,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ],
+                "Kind": "CriminalRecord"
+            },
+            "text": "information from external sanction lists"
+        },
+        {
+            "_id": "65fb130ce56775109404d0ee",
+            "start": 8334,
+            "end": 8448,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac238e56775109404d068"
+                ]
+            },
+            "text": "such as name, date of birth, place of birth, occupation, and the reason why the person is on the\r\nlist in question"
+        },
+        {
+            "_id": "65fb1310e56775109404d0ef",
+            "start": 8206,
+            "end": 8450,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Consistent with applicable law (such as anti-money laundering laws), this may include\r\ninformation from external sanction lists such as name, date of birth, place of birth, occupation, and the reason why the person is on the\r\nlist in question.\r"
+        },
+        {
+            "_id": "65fb13b8e56775109404d0f0",
+            "start": 8628,
+            "end": 8632,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "name"
+        },
+        {
+            "_id": "65fb13bce56775109404d0f1",
+            "start": 8634,
+            "end": 8656,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "your social network ID"
+        },
+        {
+            "_id": "65fb13c0e56775109404d0f2",
+            "start": 8658,
+            "end": 8678,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "Location Information"
+        },
+        {
+            "_id": "65fb13c4e56775109404d0f3",
+            "start": 8680,
+            "end": 8685,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "email"
+        },
+        {
+            "_id": "65fb13c8e56775109404d0f4",
+            "start": 8687,
+            "end": 8696,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "device ID"
+        },
+        {
+            "_id": "65fb13cbe56775109404d0f5",
+            "start": 8698,
+            "end": 8708,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "browser ID"
+        },
+        {
+            "_id": "65fb13d0e56775109404d0f6",
+            "start": 8714,
+            "end": 8729,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ],
+                "Kind": "Images"
+            },
+            "text": "profile picture"
+        },
+        {
+            "_id": "65fb13dee56775109404d0f7",
+            "start": 8619,
+            "end": 8729,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6622981ae56775109404e6a5"
+                ]
+            },
+            "text": " such as name, your social network ID, Location Information, email, device ID, browser ID, and profile picture"
+        },
+        {
+            "_id": "65fb13e1e56775109404d0f8",
+            "start": 8477,
+            "end": 8730,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information from others from your use of third-party applications, such as the Apple App Store or Google Play\r\nStore, social networking sites, such as name, your social network ID, Location Information, email, device ID, browser ID, and profile picture."
+        },
+        {
+            "_id": "65fb198fe56775109404d0f9",
+            "start": 9060,
+            "end": 9105,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "Performance"
+            },
+            "text": "Information about response time for web pages"
+        },
+        {
+            "_id": "65fb1993e56775109404d0fa",
+            "start": 9107,
+            "end": 9122,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "Performance"
+            },
+            "text": "download errors"
+        },
+        {
+            "_id": "65fb199be56775109404d0fc",
+            "start": 9177,
+            "end": 9192,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "your IP address"
+        },
+        {
+            "_id": "65fb1fc0e56775109404d0fe",
+            "start": 9394,
+            "end": 9423,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information from your device."
+        },
+        {
+            "_id": "65fb1fc5e56775109404d100",
+            "start": 9902,
+            "end": 9916,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Inferred data."
+        },
+        {
+            "_id": "65fb21bbe56775109404d101",
+            "start": 9060,
+            "end": 9393,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information about response time for web pages, download errors and date and time when you used the service, such\r\nas your IP address, statistics regarding how pages are loaded or viewed, the websites you visited before coming to the Sites and other\r\nusage and browsing information collected through Cookies (\u201cTechnical Usage Data\u201d).\r"
+        },
+        {
+            "_id": "65fb2598e56775109404d102",
+            "start": 9127,
+            "end": 9166,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "Metadata"
+            },
+            "text": "date and time when you used the service"
+        },
+        {
+            "_id": "65fb2607e56775109404d103",
+            "start": 9194,
+            "end": 9245,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "statistics regarding how pages are loaded or viewed"
+        },
+        {
+            "_id": "65fb260de56775109404d104",
+            "start": 9247,
+            "end": 9278,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "the websites you visited before"
+        },
+        {
+            "_id": "65fb261de56775109404d105",
+            "start": 9303,
+            "end": 9341,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "other\r\nusage and browsing information "
+        },
+        {
+            "_id": "65fb269fe56775109404d106",
+            "start": 9167,
+            "end": 9391,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac23ee56775109404d069"
+                ]
+            },
+            "text": " such\r\nas your IP address, statistics regarding how pages are loaded or viewed, the websites you visited before coming to the Sites and other\r\nusage and browsing information collected through Cookies (\u201cTechnical Usage Data\u201d)"
+        },
+        {
+            "_id": "65fb27d2e56775109404d107",
+            "start": 9423,
+            "end": 9464,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "Settings"
+            },
+            "text": " Information about your language settings"
+        },
+        {
+            "_id": "65fb27d5e56775109404d108",
+            "start": 9466,
+            "end": 9476,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "IP address"
+        },
+        {
+            "_id": "65fb27dce56775109404d109",
+            "start": 9478,
+            "end": 9488,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "browser ID"
+        },
+        {
+            "_id": "65fb27e0e56775109404d10a",
+            "start": 9490,
+            "end": 9499,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "device ID"
+        },
+        {
+            "_id": "65fb27e3e56775109404d10b",
+            "start": 9501,
+            "end": 9519,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "cookie preferences"
+        },
+        {
+            "_id": "65fb27e6e56775109404d10c",
+            "start": 9521,
+            "end": 9530,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "time zone"
+        },
+        {
+            "_id": "65fb27ede56775109404d10d",
+            "start": 9533,
+            "end": 9549,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "operating system"
+        },
+        {
+            "_id": "65fb27f1e56775109404d10e",
+            "start": 9551,
+            "end": 9559,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "platform"
+        },
+        {
+            "_id": "65fb2804e56775109404d10f",
+            "start": 9561,
+            "end": 9579,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "Settings"
+            },
+            "text": "screen resolution "
+        },
+        {
+            "_id": "65fb2833e56775109404d112",
+            "start": 9765,
+            "end": 9774,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac243e56775109404d06b"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "latitude "
+        },
+        {
+            "_id": "65fb2837e56775109404d113",
+            "start": 9778,
+            "end": 9792,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac243e56775109404d06b"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "longitude data"
+        },
+        {
+            "_id": "65fb283ee56775109404d114",
+            "start": 9798,
+            "end": 9829,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac243e56775109404d06b"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "Global Positioning System (GPS)"
+        },
+        {
+            "_id": "65fb2848e56775109404d115",
+            "start": 9757,
+            "end": 9830,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac243e56775109404d06b"
+                ]
+            },
+            "text": "such as latitude and longitude data, and Global Positioning System (GPS)\r"
+        },
+        {
+            "_id": "65fb2857e56775109404d116",
+            "start": 10033,
+            "end": 10039,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ],
+                "Kind": "Demographic"
+            },
+            "text": "gender"
+        },
+        {
+            "_id": "65fb285be56775109404d117",
+            "start": 10042,
+            "end": 10048,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "income"
+        },
+        {
+            "_id": "65fb286de56775109404d119",
+            "start": 10050,
+            "end": 10080,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ],
+                "Kind": "ContentPreferences"
+            },
+            "text": "browsing and purchasing habits"
+        },
+        {
+            "_id": "65fb2872e56775109404d11a",
+            "start": 10086,
+            "end": 10102,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ],
+                "Kind": "Financial"
+            },
+            "text": "creditworthiness"
+        },
+        {
+            "_id": "65fb289ae56775109404d11b",
+            "start": 9917,
+            "end": 10104,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Inferences drawn to create a profile about you that may reflect behavior patterns and personal preferences, such as gender,\r\nincome, browsing and purchasing habits, and creditworthiness.\r"
+        },
+        {
+            "_id": "65fb28a2e56775109404d11c",
+            "start": 10025,
+            "end": 10102,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac247e56775109404d06c"
+                ]
+            },
+            "text": "such as gender,\r\nincome, browsing and purchasing habits, and creditworthiness"
+        },
+        {
+            "_id": "65fb28a7e56775109404d11d",
+            "start": 9719,
+            "end": 9901,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Information from IP-based geolocation such as latitude and longitude data, and Global Positioning System (GPS)\r\ninformation when you give us permission through your device settings.\r"
+        },
+        {
+            "_id": "65fb2af4e56775109404d11e",
+            "start": 9635,
+            "end": 9694,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "UsageData"
+            },
+            "text": "data collected from cookies or other\r\ntracking technologies"
+        },
+        {
+            "_id": "65fb2dcde56775109404d120",
+            "start": 8847,
+            "end": 9060,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Categories of Personal Data automatically collected about you, including through your access to our website or mobile app, from cookies\r\nand similar tracking technologies, and your devices:\r\nTechnical Usage Data. "
+        },
+        {
+            "_id": "65fb2df2e56775109404d121",
+            "start": 3742,
+            "end": 3894,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Categories of Personal Data collected from you, including from your interactions with us and use of the Services:\r\nRegistration and Contact Information."
+        },
+        {
+            "_id": "65fb2e0ae56775109404d122",
+            "start": 6635,
+            "end": 6932,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Categories of Personal Data collected from third parties, including from identity verification vendors, data brokers, vendors that help us\r\nwith fraud detection, your bank, merchants or third party platforms you engage with using our Services:\r\nInformation from your connected third party accounts"
+        },
+        {
+            "_id": "6613ccffe56775109404e02b",
+            "start": 4928,
+            "end": 4941,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "email address"
+        },
+        {
+            "_id": "6613cf07e56775109404e02c",
+            "start": 5085,
+            "end": 5357,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ]
+            },
+            "text": "such as your username, email, mobile number, profile picture,\r\npreferred language, or personal description which may include sensitive Personal Data that reveals religious beliefs, political or\r\nphilosophical views, disability, sexual orientation as well as biometric data"
+        },
+        {
+            "_id": "6613cf5be56775109404e02d",
+            "start": 9582,
+            "end": 9629,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac241e56775109404d06a"
+                ],
+                "Kind": "Settings"
+            },
+            "text": " similar information about your device settings"
+        },
+        {
+            "_id": "6622979ce56775109404e6a0",
+            "start": 9423,
+            "end": 9696,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": " Information about your language settings, IP address, browser ID, device ID, cookie preferences, time zone,\r\noperating system, platform, screen resolution and similar information about your device settings, and data collected from cookies or other\r\ntracking technologies,\r"
+        },
+        {
+            "_id": "662297a4e56775109404e6a1",
+            "start": 9697,
+            "end": 9718,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Location Information."
+        },
+        {
+            "_id": "662297dde56775109404e6a3",
+            "start": 9719,
+            "end": 9756,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac243e56775109404d06b"
+                ],
+                "Kind": "GeoInfo"
+            },
+            "text": "Information from IP-based geolocation"
+        },
+        {
+            "_id": "6622981ae56775109404e6a5",
+            "start": 8477,
+            "end": 8542,
+            "type": "Category",
+            "attributes": {
+                "Kind": "UsageData",
+                "Type": "Open",
+                "Ref": [
+                    "65fac1e1e56775109404d05c"
+                ]
+            },
+            "text": "Information from others from your use of third-party applications"
+        },
+        {
+            "_id": "66229965e56775109404e6b2",
+            "start": 7982,
+            "end": 7989,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "seller "
+        },
+        {
+            "_id": "66229969e56775109404e6b3",
+            "start": 7993,
+            "end": 8010,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "buyer information"
+        },
+        {
+            "_id": "6622996ce56775109404e6b4",
+            "start": 8016,
+            "end": 8035,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Payment"
+            },
+            "text": "Payment Information"
+        },
+        {
+            "_id": "662299b4e56775109404e6b5",
+            "start": 7876,
+            "end": 8035,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ]
+            },
+            "text": "such as item description, quantity, price, currency, shipping\r\naddress, online shopping cart information, seller and buyer information, and Payment Information"
+        },
+        {
+            "_id": "662299cee56775109404e6b6",
+            "start": 7824,
+            "end": 8037,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Information about your order details and purchases, such as item description, quantity, price, currency, shipping\r\naddress, online shopping cart information, seller and buyer information, and Payment Information. "
+        },
+        {
+            "_id": "662299e2e56775109404e6b7",
+            "start": 8051,
+            "end": 8086,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac234e56775109404d067"
+                ],
+                "Kind": "Purchase"
+            },
+            "text": "information from your\r\ntransactions"
+        },
+        {
+            "_id": "662299fce56775109404e6b8",
+            "start": 8037,
+            "end": 8162,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "This includes information from your\r\ntransactions where you use our Services without a PayPal account (e.g. Guest checkout).\r"
+        },
+        {
+            "_id": "662b722de56775109404e8c8",
+            "start": 4264,
+            "end": 4275,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac206e56775109404d05f"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "information"
+        },
+        {
+            "_id": "662b7238e56775109404e8c9",
+            "start": 4466,
+            "end": 4478,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac20ae56775109404d060"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "Information "
+        },
+        {
+            "_id": "662b750fe56775109404e8cb",
+            "start": 4727,
+            "end": 4768,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Information about your imported contacts."
+        },
+        {
+            "_id": "662b7526e56775109404e8cc",
+            "start": 4829,
+            "end": 4881,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "Information you enter or import\r\nabout your contacts"
+        },
+        {
+            "_id": "662b7568e56775109404e8ce",
+            "start": 5053,
+            "end": 5084,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "Information you choose to enter"
+        },
+        {
+            "_id": "662b7629e56775109404e8cf",
+            "start": 5247,
+            "end": 5264,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "religious beliefs"
+        },
+        {
+            "_id": "662b762de56775109404e8d0",
+            "start": 5266,
+            "end": 5299,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "political or\r\nphilosophical views"
+        },
+        {
+            "_id": "662b762ee56775109404e8d1",
+            "start": 5301,
+            "end": 5311,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "disability"
+        },
+        {
+            "_id": "662b7631e56775109404e8d2",
+            "start": 5313,
+            "end": 5331,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "sexual orientation"
+        },
+        {
+            "_id": "662b763ce56775109404e8d3",
+            "start": 5202,
+            "end": 5357,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ]
+            },
+            "text": "include sensitive Personal Data that reveals religious beliefs, political or\r\nphilosophical views, disability, sexual orientation as well as biometric data"
+        },
+        {
+            "_id": "662b763fe56775109404e8d4",
+            "start": 5209,
+            "end": 5234,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": " sensitive Personal Data "
+        },
+        {
+            "_id": "662b7859e56775109404e8d5",
+            "start": 4793,
+            "end": 4811,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac20fe56775109404d061"
+                ],
+                "Kind": "ContactList"
+            },
+            "text": "your contact lists"
+        },
+        {
+            "_id": "662b7981e56775109404e8d6",
+            "start": 5456,
+            "end": 5508,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "UserGenerated"
+            },
+            "text": "Information you disclose when you respond to surveys"
+        },
+        {
+            "_id": "662b79e8e56775109404e8d7",
+            "start": 5456,
+            "end": 5722,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Information you disclose when you respond to surveys, or contact our customer support\r\nteams, such as Services you have used, recorded conversations, chat conversations with us, email correspondence with us, account status,\r\nrepayment history, voice identification. "
+        },
+        {
+            "_id": "662b79f1e56775109404e8d8",
+            "start": 5739,
+            "end": 5763,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65facb5ce56775109404d09d"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "information about others"
+        },
+        {
+            "_id": "662b79ffe56775109404e8d9",
+            "start": 5722,
+            "end": 5799,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "This may include information about others if you choose to share it with us.\r"
+        },
+        {
+            "_id": "662b7a0be56775109404e8da",
+            "start": 5730,
+            "end": 5797,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac213e56775109404d062"
+                ]
+            },
+            "text": " include information about others if you choose to share it with us"
+        },
+        {
+            "_id": "662b7a2de56775109404e8db",
+            "start": 5820,
+            "end": 5884,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "DeviceInfo"
+            },
+            "text": "Information that can be automatically collected from any device "
+        },
+        {
+            "_id": "662b7a39e56775109404e8dc",
+            "start": 5926,
+            "end": 5938,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac217e56775109404d063"
+                ],
+                "Kind": "Gen"
+            },
+            "text": "information\r"
+        },
+        {
+            "_id": "662b7be0e56775109404e8de",
+            "start": 6959,
+            "end": 6993,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac22ce56775109404d065"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "non-financial or financial account"
+        },
+        {
+            "_id": "662b7c38e56775109404e8e0",
+            "start": 7233,
+            "end": 7252,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Ref": [
+                    "65fac22ce56775109404d065"
+                ],
+                "Kind": "BasicAccountInfo"
+            },
+            "text": "account credentials"
+        },
+        {
+            "_id": "662b7c3de56775109404e8e1",
+            "start": 7254,
+            "end": 7270,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac22ce56775109404d065"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "account balances"
+        },
+        {
+            "_id": "662b7c40e56775109404e8e2",
+            "start": 7272,
+            "end": 7292,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac22ce56775109404d065"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "account transactions"
+        },
+        {
+            "_id": "662b7c48e56775109404e8e3",
+            "start": 7299,
+            "end": 7340,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "65fac22ce56775109404d065"
+                ],
+                "Kind": "UserProfileInfo"
+            },
+            "text": "information about your financial standing"
+        },
+        {
+            "_id": "662b7c7ae56775109404e8e4",
+            "start": 7158,
+            "end": 7366,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "For example, if you choose to participate in Open Banking, we will collect account credentials, account balances, account transactions, and\r\ninformation about your financial standing from your linked accounts"
+        }
+    ]
+}
