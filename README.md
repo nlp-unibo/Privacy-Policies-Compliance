@@ -8,7 +8,7 @@ If you use this repository, dataset, or code, please cite our work as:
 
 
 ```
-@inproceedings{DBLP:conf/jurix/GalliGFGLPRST22,
+@inproceedings{DBLP:conf/jurix/GrundlerVaguePrivacyPolicies,
   author       = {Giulia Grundler and
                   Rūta Liepiņa and
                   Mariaceleste Musicco and
