@@ -6,4 +6,29 @@ Dataset composed of 30 privacy policies of online platforms, annotated to assess
 
 If you use this repository, dataset, or code, please cite our work as:
 
-*Giulia Grundler, Rūta Liepiņa, Mariaceleste Musicco, Francesca Lagioia, Andrea Galassi, Giovanni Sartor and Paolo Torroni, Detecting Vague Clauses in Privacy Policies: the Analysis of Data Categories using BERT Models and LLMs, accepted at Jurix 2024*
+
+```
+@inproceedings{DBLP:conf/jurix/GalliGFGLPRST22,
+  author       = {Giulia Grundler and
+                  Rūta Liepiņa and
+                  Mariaceleste Musicco and
+                  Francesca Lagioia and
+                  Andrea Galassi and
+                  Giovanni Sartor and
+                  Paolo Torroni},
+  editor       = {Jaromir Savelka and
+                  Jakub Harasta and
+                  Tereza Novotna and
+                  Jakub Misek},
+  title        = {Detecting Vague Clauses in Privacy Policies: the Analysis of Data Categories using BERT Models and LLMs},
+  booktitle    = {Legal Knowledge and Information Systems - {JURIX} 2024: The Thirty-seventh Annual Conference, Brno, Czech Republic, 11-13 December 2024},
+  series       = {Frontiers in Artificial Intelligence and Applications},
+  volume       = {395},
+  pages        = {72--83},
+  publisher    = {{IOS} Press},
+  year         = {2024},
+  url          = {https://doi.org/10.3233/FAIA241235},
+  doi          = {10.3233/FAIA220465}
+}
+
+```
