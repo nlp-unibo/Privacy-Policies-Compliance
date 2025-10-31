@@ -1,0 +1,3280 @@
+{
+    "document": {
+        "_id": "66eb2776e56775109405277e",
+        "name": "Fitbit_ita.txt",
+        "plainText": "Informativa sulla privacy di Fitbit\r\n\r\nUltimo aggiornamento: 6 giugno 2023\r\n(Le versioni precedenti possono essere consultate nel nostro archivio.)\r\n\r\nNota: Se si utilizzano i dispositivi e servizi Fitbit con un account Google, i dati saranno trattati come descritto nell'Informativa sulla privacy di Google, e come spiegato in maggiore dettaglio in queste FAQ sulla privacy.\r\n\r\n\r\nCrediamo fermamente che la trasparenza sia alla base di qualsiasi rapporto che possa definirsi \u201cin salute\u201d. E per Fitbit, la salute \u00e8 tutto. Ti siamo grati per la fiducia che riponi nei nostri confronti e nelle informazioni che ti forniamo. Desideriamo applicare la massima trasparenza sulle modalit\u00e0 di utilizzo di queste stesse informazioni da parte nostra.\r\n\r\nLa presente informativa descrive le pratiche di rispetto della privacy per dispositivi, applicazioni, software, siti web, API, prodotti e servizi Fitbit (i \u201cServizi\u201d). Inoltre, fornisce informazioni sul tipo di dati che raccogliamo, su come li utilizziamo, sul controllo che puoi esercitare sulle tue informazioni e sulle misure che applichiamo per garantire la riservatezza dei tuoi dati.\r\n\r\nNello specifico:\r\n\u2022 Tipologia di informazioni raccolte\r\n\u2022 Modalit\u00e0 di utilizzo delle informazioni\r\n\u2022 Modalit\u00e0 di condivisione delle informazioni\r\n\u2022 I diritti dell\u2019utente di accedere e controllare i propri dati personali\r\n\u2022 Conservazione dei dati\r\n\u2022 Servizi promozionali e di analisi dei dati forniti da terzi\r\n\u2022 Informativa per i minori\r\n\u2022 Sicurezza delle informazioni\r\n\u2022 Sedi operative internazionali e trasferimento dati\r\n\u2022 Informativa sulla privacy europea\r\n\u2022 Informativa sulla privacy californiana\r\n\u2022 Modifiche alla presente informativa\r\n\u2022 Chi siamo e come contattarci\r\n\r\n\r\nTIPOLOGIA DI INFORMAZIONI RACCOLTE\r\n\r\nQuando utilizzi i nostri Servizi, raccogliamo le seguenti tipologie di informazioni.\r\n\r\n\r\nINFORMAZIONI INVIATE DALL'UTENTE\r\n\r\nINFORMAZIONI DELL'ACCOUNT\r\nPer creare un account e accedere ai nostri Servizi, sono necessarie alcune informazioni: nome, indirizzo e-mail, password, data di nascita, sesso, altezza, peso e, in alcuni casi, il numero di cellulare. Queste sono le sole informazioni che l\u2019utente deve fornire per creare un account presso di noi. L\u2019utente pu\u00f2 anche scegliere di fornire altri tipi di informazioni, come una foto del profilo, una biografia, le informazioni sul proprio Paese e il nome utente nella community.\r\n\r\nULTERIORI INFORMAZIONI\r\nPer contribuire a migliorare la sua esperienza o abilitare determinate funzionalit\u00e0 dei Servizi, l\u2019utente pu\u00f2 scegliere di fornirci ulteriori informazioni, come le sue registrazioni per il monitoraggio di cibo, peso, sonno, acqua o salute femminile; un allarme; e i messaggi nei forum di discussione o ai suoi amici sui Servizi.\r\n\r\nAd esempio, l\u2019utente pu\u00f2 connettersi con gli amici iscritti ai Servizi oppure invitare gli amici che non si sono ancora uniti, fornendo i loro indirizzi e-mail, accedendo agli account sui social network oppure utilizzando l\u2019elenco dei contatti sul suo dispositivo mobile. Non conserviamo l\u2019elenco dei contatti dell\u2019utente e lo eliminiamo dopo che \u00e8 stato utilizzato per l\u2019aggiunta dei contatti come amici.\r\n\r\nSe ci contatti o partecipi a un sondaggio, concorso o ad una promozione, raccogliamo le informazioni che ci invii, come il tuo nome, le informazioni di contatto e il messaggio.\r\n\r\nINFORMAZIONI DI PAGAMENTO\r\nAlcuni dispositivi Fitbit supportano pagamenti e transazioni con terze parti. Se attivi questa funzionalit\u00e0, \u00e8 necessario fornire determinate informazioni per l\u2019identificazione e la verifica, come il nome, il numero di carta di credito/debito, la data di scadenza della carta e il codice CVV. Queste informazioni vengono crittografate e inviate al circuito di appartenenza della tua carta, che, previa approvazione, invia al tuo dispositivo un token, cio\u00e8 un insieme di cifre casuali che ti permette di eseguire transazioni senza dover utilizzare (e quindi esporre) il numero della tua carta. Per la tua comodit\u00e0, memorizziamo le ultime quattro cifre del numero della carta, il nome dell'istituto emittente della carta e le informazioni di contatto. Nelle impostazioni account \u00e8 possibile rimuovere il token dal proprio account. Non memorizziamo la cronologia delle tue transazioni.\r\n\r\nSe l\u2019utente acquista prodotti Fitbit dal nostro sito Web, \u00e8 necessario che fornisca le informazioni di pagamento, tra cui il suo nome, il numero di carta di credito/debito, la data di scadenza della carta, il codice CVV e l\u2019indirizzo di fatturazione. Non memorizziamo le informazioni di pagamento. Memorizziamo il suo indirizzo di spedizione per completare l\u2019ordine. Si noti che i processori di pagamento terze parti possono conservare queste informazioni in conformit\u00e0 con le proprie informative e condizioni sulla privacy.\r\n\r\nSERVIZI LIVE COACHING\r\nI nostri servizi live coaching si presentano su una piattaforma che l'utente ha a disposizione per comunicare con un coach su argomenti di salute, fitness o benessere (\"Servizi Live Coaching\"). I coach potrebbero essere forniti da terze parti, quali il datore di lavoro o la compagnia assicurativa dell'utente, o dai nostri fornitori di servizi di coaching di terze parti. Se l'utente utilizza i nostri servizi Live Coaching, raccoglieremo informazioni sull'utilizzo incluso il piano, gli obbiettivi e le azioni che vengono registrati con il proprio coach, il calendario degli eventi, le comunicazioni con il coach, gli appunti che il coach prende sull'utente, e ancora altre informazioni fornite dall'utente o dal coach.\r\n\r\n \r\nINFORMAZIONI RICEVUTE DALL'UTILIZZO DEI SERVIZI DA PARTE DELL'UTENTE\r\n\r\nINFORMAZIONI DAL DISPOSITIVO\r\nIl dispositivo dell\u2019utente raccoglie dati per stimare diverse misurazioni, come il numero di passi effettuati, la distanza percorsa, le calorie bruciate, il peso, la frequenza cardiaca, le fasi del sonno, i minuti di attivit\u00e0 e la posizione geografica. I tipo di dati raccolti dipende dal dispositivo utilizzato. Ulteriori informazioni sulle funzionalit\u00e0 dei nostri diversi dispositivi e come l\u2019utente pu\u00f2 usare MobileTrack. Quando l\u2019utente sincronizza il suo dispositivo con il nostro software o con le nostre applicazioni, i dati registrati sul dispositivo sono trasferiti ai nostri server.\r\n\r\nINFORMAZIONI DI GEOLOCALIZZAZIONE\r\nI Servizi ricevono dati di geolocalizzazione precisi da diverse fonti: i segnali GPS, i sensori del dispositivo, i punti di accesso Wi-Fi e gli ID del ripetitore di telefonia mobile. Questi dati sono raccolti solo se autorizzi l\u2019accesso alla tua posizione geografica. L\u2019autorizzazione per l\u2019accesso alla posizione pu\u00f2 essere rimossa in qualsiasi momento dal dispositivo Fitbit o dalle impostazioni del dispositivo mobile. Possiamo anche identificare la tua posizione approssimativa tramite il tuo indirizzo IP.\r\n\r\nINFORMAZIONI SULL'UTILIZZO\r\nQuando l'utente accede ai nostri Servizi o mentre li utilizza, riceviamo determinati dati di utilizzo o relativi all'attivit\u00e0 di rete. Tali dati riguardano l\u2019interazione dell\u2019utente con i Servizi, ad esempio quando visualizza o cerca i contenuti, installa le applicazioni o il software, crea o acceda al proprio account, associa il suo dispositivo al proprio account, apre o interagisce con un\u2019applicazione sul suo dispositivo Fitbit.\r\n\r\nRaccogliamo inoltre i dati relativi ai dispositivi e ai computer che utilizzi per accedere ai Servizi, inclusi gli indirizzi IP, il tipo di browser, la lingua, il sistema operativo, le informazioni del dispositivo Fitbit o dei dispositivi mobili (inclusi gli identificatori di periferiche e applicazioni), la pagina Web di riferimento, le pagine visitate, la posizione (a seconda delle autorizzazioni che hai concesso) e le informazioni sui cookie.\r\n\r\n\r\nINFORMAZIONI RICEVUTE DA TERZE PARTI\r\nSe scegli di connettere l'account creato per i nostri Servizi ad un tuo account di un altro servizio, potremmo ricevere informazioni dall\u2019altro servizio. Ad esempio, se ti connetti a Facebook o Google, potremmo ricevere informazioni come il tuo nome, l\u2019immagine del profilo, la fascia di et\u00e0, la lingua, l\u2019indirizzo e-mail e l\u2019elenco degli amici. Puoi anche scegliere di autorizzare l\u2019accesso ai dati del tuo allenamento o attivit\u00e0 fisica da un altro servizio. Puoi sempre interrompere la condivisione delle informazioni dell\u2019altro servizio con noi, rimuovendo l'autorizzazione per il nostro accesso all\u2019altro servizio.\r\n\r\nPotremmo avvalerci di terze parti, quali datori di lavoro e compagnie assicurative che offrono servizi Fitbit ai loro dipendenti e clienti. In tali casi, queste compagnie potrebbero fornirci nome, indirizzo email o altre informazioni simili (quali numero di telefono o ID abbonato) in modo da invitare l'utente a partecipare a o stabilire la sua eleggibilit\u00e0 per particolari benefici quali sconti o servizi gratuiti.\r\n\r\n \r\nCOME USIAMO LE INFORMAZIONI\r\n\r\nPossiamo utilizzare i dati che raccogliamo per le seguenti finalit\u00e0.\r\n\r\nFORNITURA E MANTENIMENTO DEI SERVIZI\r\nUtilizzando le informazioni che raccogliamo, siamo in grado di fornire i Servizi e di ottemperare al nostro accordo sui Termini di servizio con l\u2019utente. Ad esempio, abbiamo bisogno di utilizzare le informazioni dell\u2019utente per fornirgli la sua dashboard Fitbit che tiene traccia dei suoi esercizi, attivit\u00e0 e altre tendenze; per abilitare le funzionalit\u00e0 dei Servizi relative alla community; e per fornire supporto al cliente.\r\n\r\nPer le caratteristiche dei Servizi attinenti alla community, possiamo anche utilizzare le informazioni dell\u2019utente per aiutarlo a cercare altri utenti e connettersi con loro e per consentire agli altri utenti di trovare l\u2019utente e connettersi con lo stesso nell\u2019ambito dei Servizi. Ad esempio, le informazioni di contatto del suo account consentono agli altri utenti di aggiungere l\u2019utente come amico. Se un altro utente ha il numero di cellulare dell\u2019utente o l\u2019indirizzo e-mail nell\u2019elenco dei contatti o nella rete di amici di un servizio connesso, tale utente verr\u00e0 suggerito come potenziale amico nell\u2019ambito dei Servizi.\r\n\r\nSe l'utente utilizza i servizi Live Coaching, utilizzeremo le informazioni per collegare l'utente con i coach, consentirne la comunicazione con gli stessi attraverso i nostri Servizi e aiutare l'utente a raggiungere i propri obbiettivi per condurre una vita pi\u00f9 sana e pi\u00f9 attiva. Per esempio, gli obbiettivi forniti dall'utente consentono di sviluppare un piano personale e una serie di azioni durante la consultazione con il proprio coach.\r\n\r\n \r\nMIGLIORAMENTO, PERSONALIZZAZIONE E SVILUPPO DEI SERVIZI\r\nUtilizziamo le informazioni che raccogliamo per migliorare e personalizzare i Servizi e svilupparne di nuovi. Ad esempio, utilizziamo le informazioni per la risoluzione dei problemi e la protezione da errori; per eseguire analisi dei dati e test, per condurre ricerche e indagini e per sviluppare nuove funzionalit\u00e0 e Servizi.\r\n\r\nPrevia autorizzazione dell'utente alla raccolta delle informazioni di localizzazione precise, utilizziamo queste informazioni per fornire le funzionalit\u00e0 dei Servizi e migliorarle, come la registrazione della localit\u00e0 in cui si svolge un allenamento o la mappatura di un'attivit\u00e0.\r\n\r\nUsiamo anche le informazioni dell\u2019utente per fare inferenze e mostrare allo stesso i contenuti pi\u00f9 pertinenti. Ecco alcuni esempi:\r\n\u2022 Informazioni come l\u2019altezza, il peso, il sesso e l\u2019et\u00e0 dell\u2019utente ci consentono di migliorare la precisione delle statistiche quotidiane di esercizi e attivit\u00e0, come il numero di calorie che l\u2019utente ha bruciato e la distanza percorsa.\r\n\u2022 In base ai tuoi dati del sonno, possiamo trarre conclusioni sui tuoi modelli di sonno e fornirti approfondimenti personalizzati per aiutarti a dormire meglio.\r\n\u2022 Possiamo fornirti obiettivi personalizzati per gli esercizi e le attivit\u00e0, in base agli obiettivi che hai impostato in precedenza e alla cronologia dei tuoi esercizi o delle tue attivit\u00e0.\r\n\r\n \r\nCOMUNICARE CON L'UTENTE\r\nUtilizziamo le informazioni dell\u2019utente quando necessario per inviargli notifiche di servizio e rispondere quando ci contatta. Utilizziamo inoltre le informazioni dell\u2019utente per promuovere nuove funzionalit\u00e0 o nuovi prodotti a cui potrebbe essere interessato. L'utente pu\u00f2 controllare le comunicazioni promozionali e la maggior parte delle notifiche di Servizio tramite le preferenze per le notifiche nelle impostazioni account oppure utilizzando il link \u201cAnnulla iscrizione\u201d presente nelle e-mail.\r\n\r\n\r\nPROMUOVERE LA SICUREZZA E LA PROTEZIONE \r\nLe informazioni che raccogliamo sono utilizzate per promuovere la sicurezza e la protezione dei Servizi, dei nostri utenti e dei nostri partner. Ad esempio, possiamo utilizzare le informazioni per autenticare gli utenti, agevolare pagamenti sicuri, impedire frodi e abusi, rispondere a una richiesta o un reclamo legale, eseguire controlli e applicare i nostri termini e le nostre politiche.\r\n\r\nUtilizziamo i cookie e tecnologie simili per gli scopi sopra descritti. Per ulteriori informazioni, consultare la nostra Informativa sull' utilizzo dei cookie.\r\n\r\n \r\nCOME VENGONO CONDIVISE LE INFORMAZIONI\r\n\r\nNon vendiamo mai i dati personali dei nostri utenti. Le informazioni personali dell'utente non saranno condivise, fatta eccezione per i casi indicati di seguito.\r\n\r\nQUANDO L'UTENTE ACCONSENTE O CI AUTORIZZA A CONDIVIDERLE\r\nL\u2019utente ci pu\u00f2 autorizzare a divulgare le proprie informazioni ad altri, ad esempio quando utilizza le funzionalit\u00e0 della nostra community, come i forum, le classifiche settimanali e altri strumenti social. Per determinate informazioni, l\u2019utente pu\u00f2 utilizzare le preferenze sulla privacy nelle impostazioni account e ulteriori strumenti per controllare in che modo altri utenti dei Servizi possono accedere alle sue informazioni. L\u2019utente deve tenere presente che se sceglie di partecipare a una gara, informazioni come la foto del suo profilo, i messaggi inviati, il totale dei passi fatti per la gara, le statistiche personali e i risultati non sono gestiti dalle sue preferenze sulla privacy e saranno visibili a tutti gli altri partecipanti.\r\n\r\nL'utente pu\u00f2 anche autorizzarci a condividere le sue informazioni in altri modi, ad esempio tramite un'applicazione di terze parti a cui ha consentito l\u2019accesso al suo account, o con il suo datore di lavoro, se sceglie di partecipare a un programma di benessere per i dipendenti. Occorre tenere presente che, in questi casi, l\u2019utilizzo delle informazioni sar\u00e0 regolamentato dalla loro normativa sulla privacy. L'utente pu\u00f2 revocare il consenso alla condivisione delle sue informazioni con applicazioni di terze parti o con programmi di benessere per i dipendenti utilizzando le impostazioni account.\r\n\r\n \r\nPER IL TRATTAMENTO ESTERNO\r\nTrasferiamo informazioni alle nostre affiliate aziendali, ai nostri fornitori di servizi e ad altri partner che le trattano per noi, in base alle nostre istruzioni e in conformit\u00e0 con la presente informativa e con qualsiasi altra misura di riservatezza e sicurezza. Questi partner ci forniscono servizi globali, tra cui l'assistenza clienti, le tecnologie informatiche, la gestione dei pagamenti e delle vendite, e i servizi di marketing, analisi dei dati, ricerca e indagine.\r\n\r\n\r\nPER MOTIVI LEGALI O PER PREVENIRE DANNI\r\nPossiamo conservare o divulgare le tue informazioni personali in conformit\u00e0 con le norme di legge, i regolamenti, le disposizioni di processo legale o su richiesta governativa, per l\u2019esercizio di diritti legali o per la difesa contro denunce legali oppure per prevenire, individuare o indagare su attivit\u00e0 illegali, frodi, abusi, violazioni dei nostri termini o minacce alla sicurezza dei Servizi o alla sicurezza fisica di qualsiasi persona.\r\n\r\nNota: in base alle nostra normativa, siamo tenuti ad informarti in caso di processi legali che richiedano l'accesso alle tue informazioni, quali mandati di perquisizione, ordini giudiziari o ingiunzioni, se non diversamente stabilito per legge. Nel caso in cui un ordine giudiziario indichi un periodo di non divulgazione, la notifica sar\u00e0 trasmessa dopo la scadenza di tale periodo. Le eccezioni alla nostra normativa sulle notifiche comprendono circostanze legate alla necessit\u00e0 o controproducenti, come, ad esempio, in caso di un'emergenza che implichi il pericolo di morte o gravi danni fisici per una persona.\r\n\r\nCi riserviamo il diritto di condividere informazioni non personali, aggregate o non identificabili, che non possono quindi essere utilizzate per risalire all'identit\u00e0 di una persona specifica. Possiamo divulgare tali informazioni pubblicamente o a terze parti, ad esempio nell'ambito di report pubblici su esercizi e attivit\u00e0, ai partner che hanno stipulato un contratto con noi o come parte delle analisi comparative della community che forniamo agli utenti dei nostri Servizi in abbonamento.\r\n\r\nNel caso fossimo coinvolti in una fusione aziendale, acquisizione o vendita di beni, continueremo a prendere tutte le misure necessarie per proteggere la riservatezza delle informazioni personali e forniremo notifica agli utenti interessati prima di trasferire qualsiasi informazione personale a una nuova entit\u00e0.\r\n\r\n \r\nPER IL TRATTAMENTO CONGIUNTO DELLE INFORMAZIONI DEL PROFILO\r\nDal 6 giugno 2023, gli utenti di Fitbit avranno la possibilit\u00e0 di spostare i loro account su Google. Ci\u00f2 significa che alcuni utenti Fitbit faranno parte del servizio Google, mentre altri potrebbero rimanere nel servizio Fitbit. Di conseguenza, per garantire che i nostri utenti possano continuare a visualizzare le loro liste di amici (anche nel caso in cui i loro amici spostino il loro servizio su Google), Fitbit e Google condivideranno tra loro informazioni limitate del profilo riguardi ai loro utenti Fitbit, in particolare il nome, la foto e la lista di amici dell'utente. Per maggiori informazioni, consultare la sezione TRATTAMENTO CONGIUNTO DELLE INFORMAZIONI DEL PROFILO di seguito.\r\n\r\n \r\n \r\nI DIRITTI DELL'UTENTE DI ACCEDERE E CONTROLLARE I PROPRI DATI PERSONALI\r\n\r\nForniamo all'utente le impostazioni account e gli strumenti utili per accedere e controllare i propri dati personali, come descritto di seguito, indipendentemente da dove l\u2019utente risieda. Se risiede in determinate giurisdizioni ha un certo numero di diritti legali rispetto alle proprie informazioni, che pu\u00f2 esercitare tramite le impostazioni account e gli strumenti, come descritto di seguito.\r\n\r\nAccesso ed esportazione di dati. Accedendo al proprio account, l\u2019utente ha accesso a gran parte delle sue informazioni personali, inclusa la propria dashboard con le sue attivit\u00e0 quotidiane e le statistiche sulle attivit\u00e0. Mediante le impostazioni account, \u00e8 anche possibile scaricare alcune informazioni in un file di formato di uso comune, compresi i dati relativi alle attivit\u00e0, al proprio corpo, al regime alimentare e al sonno. Maggiori informazioni sono disponibili qui.\r\n\r\nModifica ed eliminazione dei dati. Accedendo all'account e utilizzando le impostazioni account, l'utente pu\u00f2 modificare ed eliminare le sue informazioni personali. Ad esempio, pu\u00f2 modificare o eliminare i dati del profilo che ha fornito ed eliminare il proprio account, se lo desidera. Maggiori informazioni sono disponibili qui.\r\nSe sceglie di eliminare il suo account, deve tenere presente che, anche se la maggior parte delle sue informazioni verr\u00e0 cancellata entro 30 giorni, potrebbero essere necessari fino a 90 giorni per eliminare tutte le sue informazioni, come i dati registrati dal suo dispositivo Fitbit e altri dati memorizzati nei nostri sistemi di backup. Ci\u00f2 \u00e8 dovuto alla dimensione e alla complessit\u00e0 dei sistemi che utilizziamo per archiviare i dati. Per motivi legali o per prevenire danni, come descritto, tra l\u2019altro, nella sezione Come vengono condivise le informazioni, potremmo conservare tali informazioni evitandone la cancellazione.\r\n\r\nOpposizione all'utilizzo dei dati. Forniamo all'utente impostazioni account e strumenti per controllare il nostro utilizzo dei dati. Ad esempio, attraverso le impostazioni della privacy, l\u2019utente pu\u00f2 limitare il modo in cui le sue informazioni sono visibili agli altri utenti dei Servizi; usando le proprie impostazioni di notifica, pu\u00f2 limitare le notifiche che riceve da noi; e con le impostazioni dell'applicazione, pu\u00f2 revocare l\u2019accesso ad applicazioni terze che ha precedentemente collegato al suo account Fitbit. Pu\u00f2 anche utilizzare l\u2019applicazione Fitbit per annullare l\u2019associazione del suo dispositivo al suo account in qualsiasi momento.\r\n\r\n \r\nCONSERVAZIONE DEI DATI\r\nConserviamo le informazioni dell\u2019account dell\u2019utente, come il suo nome, l\u2019indirizzo e-mail e la password, per tutto il tempo in cui il suo account \u00e8 attivo perch\u00e9 ne abbiamo bisogno ai fini della gestione dello stesso. In alcuni casi, quando l\u2019utente ci fornisce informazioni su una funzionalit\u00e0 dei Servizi, eliminiamo i dati dopo che non sono pi\u00f9 necessari per la funzionalit\u00e0. Ad esempio, quando ci fornisce il suo elenco di contatti per trovare amici sui Servizi, cancelliamo l\u2019elenco dopo che \u00e8 stato utilizzato per aggiungere contatti come amici. Conserviamo altre informazioni, come i dati sugli esercizi o le attivit\u00e0, finch\u00e9 non sono usate le proprie impostazioni account o gli strumenti per cancellare i dati o l\u2019account perch\u00e9 utilizziamo questi dati per fornire all\u2019utente le sue statistiche personali e altri aspetti dei Servizi. Conserviamo inoltre informazioni sull\u2019utente e sul suo utilizzo dei Servizi per tutto il tempo necessario per i nostri legittimi interessi commerciali, per motivi legali e per prevenire danni, incluso come descritto nelle sezioni Come usiamo le informazioni eCome vengono condivise le informazioni.\r\n\r\n \r\nSTATISTICHE E SERVIZI PROMOZIONALI FORNITI DA TERZI\r\nLavoriamo con partner che ci forniscono statistiche e servizi promozionali. Ci\u00f2 ci permette di comprendere come gli utenti interagiscono con i Servizi e di pubblicare inserzioni pubblicitarie su Internet, misurandone le prestazioni. Queste aziende partner potrebbero utilizzare cookie e tecnologie simili per raccogliere informazioni sull'interazione dell'utente con i Servizi e con altri siti Web e applicazioni. Per saperne di pi\u00f9 sulle opzioni per la privacy, consultare la nostra Informativa sull' utilizzo dei cookie.\r\n\r\n \r\nLE NOSTRE POLITICHE RIGUARDO AI MINORI\r\nDiamo grande importanza all\u2019utilizzo di misure speciali per la tutela della privacy dei minori.\r\n\r\nFitbit permette ai genitori di istituire account per i loro figli, da usare con dispositivi Fitbit selezionati (\u201cAccount dei minori\u201d). Gli Account dei minori sono soggetti a una distinta Informativa sulla privacy degli Account dei minori che illustra il tipo di informazioni che raccogliamo per costituire tali account, quali informazioni raccogliamo con l\u2019uso dei nostri Servizi da parte di un minore e come usiamo e condividiamo tali informazioni. I genitori o i tutori devono consentire l\u2019uso dei dati dei loro figli minori in conformit\u00e0 con l' Informativa sulla privacy per gli account dei minori per creare un account di questo tipo.\r\n\r\nLe persone di et\u00e0 inferiore ai 13 anni, o a un\u2019et\u00e0 minima pi\u00f9 elevata nella giurisdizione in cui risiede tale persona, non sono autorizzate a creare account salvo qualora il genitore non vi abbia acconsentito in conformit\u00e0 con la legge applicabile. Se ci rendiamo conto di aver raccolto informazioni personali relative ad un minore sotto il limite minimo di et\u00e0 e senza il consenso dei genitori, prendiamo tutte le misure necessarie per eliminare tali informazioni nel pi\u00f9 breve tempo possibile. I genitori che ritengono che il/la loro figlio/a minore ci abbia inviato informazioni personali di cui desiderano l\u2019eliminazione, possono contattarci all\u2019indirizzo privacy@fitbit.com.\r\n\r\n \r\nSICUREZZA DELLE INFORMAZIONI\r\nFacciamo tutto il possibile per garantire la sicurezza dei dati dell'utente. Mettiamo in atto una serie di controlli tecnici, amministrativi e fisici per mantenere i dati dell'utente riservati e sicuri. Ci\u00f2 comprende l'utilizzo di TLS (Transport Layer Security) per crittografare molti dei nostri Servizi. Tuttavia, nessun metodo di trasmissione o di archiviazione dei dati \u00e8 completamente sicuro. Per qualsiasi informazione relativa alla sicurezza, contattare l\u2019 Assistenza clienti.\r\n\r\n \r\nLE NOSTRE OPERAZIONI E I TRASFERIMENTI INTERNAZIONALI DI DATI\r\nOperiamo a livello internazionale e trasferiamo informazioni negli Stati Uniti e in altri paesi per gli scopi descritti in questa Informativa.\r\n\r\nCi avvaliamo di molteplici basi giuridiche per trasferire legalmente i dati personali in tutto il mondo. Questi includono il consenso dell\u2019utente e le clausole contrattuali tipo approvate dalla Commissione europea, che richiedono determinate salvaguardie per la privacy e la sicurezza. L\u2019utente pu\u00f2 ottenere copie delle clausole contrattuali tipo contattandoci. \r\n\r\nSi noti che i Paesi in cui operiamo possono avere leggi sulla privacy e sulla protezione dei dati che differiscono e sono potenzialmente meno protettive rispetto alle leggi del paese in cui risiede l\u2019utente. L\u2019utente accetta questo rischio quando crea un account Fitbit e fa clic su \u201cAccetto\u201d per i trasferimenti dei dati, indipendentemente dal paese in cui risiede. Per un elenco dei luoghi in cui abbiamo degli uffici, consultare le informazioni sulla nostra societ\u00e0 qui. Se in seguito l\u2019utente desidera ritirare il suo consenso, pu\u00f2 eliminare il suo account Fitbit come descritto nella sezione I diritti dell\u2019utente di accedere e controllare i propri dati personali.\r\n\r\nPur non facendovi affidamento per i trasferimenti internazionali di dati, Fitbit LLC \u00e8 conforme ai principi del Privacy Shield UE-USA e Svizzera-USA relativi alla raccolta, all\u2019utilizzo, alla condivisione e al mantenimento di informazioni personali secondo quanto indicato nella nostra certificazione Privacy Shield. Ulteriori informazioni sul Privacy Shield sono disponibili qui. Fitbit LLC \u00e8 soggetta alla vigilanza della US Federal Trade Commission ed \u00e8 responsabile delle informazioni personali che trasferisce a entit\u00e0 terze che le trattano per suo conto, come descritto nella sezione Come vengono condivise le informazioni. Per eventuali reclami sulla nostra conformit\u00e0 al Privacy Shield, invitiamo l'utente a contattarci. Puoi anche inviare un reclamo alla tua autorit\u00e0 locale per la protezione dei dati e, in alcune circostanze, invocare un arbitrato vincolante per risolvere i reclami non risolti con altri mezzi, come descritto nell'Allegato I ai Principi di Privacy Shield.\r\n\r\n \r\nINFORMATIVA SULLA PRIVACY EUROPEA\r\nSe l'utente risiede nello Spazio economico europeo (SEE), nel Regno Unito o in Svizzera, pu\u00f2 consultare queste ulteriori informazioni sulla privacy ai sensi del regolamento generale dell'Unione europea sulla protezione dei dati (\"GDPR\").\r\n\r\nIL TITOLARE DEL TRATTAMENTO\r\nFitbit International Limited, una societ\u00e0 irlandese, \u00e8 il titolare del trattamento dei dati e fornisce i Servizi agli utenti che risiedono nel SEE, nel Regno Unito o in Svizzera. Le nostre informazioni di contatto sono disponibili nella sezione Chi siamo e come contattarci.\r\n\r\nTRATTAMENTO CONGIUNTO DELLE INFORMAZIONI DEL PROFILO\r\nDal 6 giugno 2023, gli utenti di Fitbit avranno la possibilit\u00e0 di spostare i loro account su Google. Ci\u00f2 significa che alcuni utenti Fitbit faranno parte del servizio Google, mentre altri potrebbero rimanere nel servizio Fitbit.\r\n\r\nDi conseguenza, per garantire che i nostri utenti possano continuare a visualizzare le loro liste di amici (anche nel caso in cui i loro amici spostino il loro servizio su Google), Fitbit e Google condivideranno tra loro informazioni limitate del profilo riguardanti i loro utenti Fitbit, in particolare il nome, la foto e la lista di amici dell'utente (\"Trattamento congiunto\").\r\n\r\n(1) Fitbit International Limited e Google Ireland Limited (per gli utenti nello SEE o in Svizzera) e (2) Fitbit International Limited e Google LLC (per gli utenti nel Regno Unito) sono contitolari del trattamento in relazione al Trattamento congiunto, mentre Fitbit e Google rimangono responsabili dei rispettivi obblighi ai sensi della normativa sulla protezione dei dati. Per esercitare i propri diritti in relazione al Trattamento congiunto, compreso il diritto di opposizione (si veda la sezione COME ESERCITARE I DIRITTI LEGALI), gli utenti possono contattare Fitbit ai recapiti elencati di seguito. [\u00c8 anche possibile visualizzare le FAQ sulla privacy di Google qui.]\r\n\r\n\r\nSALUTE E ALTRE CATEGORIE PARTICOLARI DI DATI PERSONALI\r\nQualora le informazioni che raccogliamo sono dati sulla salute o un\u2019altra categoria speciale di dati personali soggetti al Regolamento generale sulla protezione dei dati dell\u2019Unione Europea (\u201cGDPR\u201d), chiediamo l\u2019esplicito consenso dell\u2019utente al trattamento dei dati. Otteniamo questo consenso separatamente quando l\u2019utente intraprende azioni che ci consentano di ottene i suoi dati, ad esempio, quando associa il suo dispositivo al suo account, ci concede l\u2019accesso ai dati del suo esercizio o della sua attivit\u00e0 da un altro servizio, o quando utilizza la funzione di tracciamento della salute femminile. L\u2019utente pu\u00f2 usare i propri strumenti e le impostazioni account per revocare il consenso in qualsiasi momento, anche interrompendo l\u2019utilizzo di una funzione, rimuovendo il nostro accesso a un servizio di terze parti, annullando l\u2019associazione del dispositivo o eliminando i propri dati o il proprio account.\r\n\r\n \r\nLE NOSTRE BASI LEGALI PER IL TRATTAMENTO DEI DATI PERSONALI\r\nPer i dati personali soggetti al GDPR, ci affidiamo a diverse basi giuridiche per il trattamento, tra cui:\r\n\u2022 Quando l'utente ha dato il proprio consenso, che pu\u00f2 ritirare in qualsiasi momento tramite le impostazioni account e altri strumenti; \r\n\u2022 Quando il trattamento \u00e8 necessario per l'esecuzione di un contratto con l'utente, come i Termini del servizio; e\r\n\u2022 I nostri legittimi interessi commerciali, come il miglioramento, la personalizzazione e lo sviluppo dei Servizi, la commercializzazione di nuove funzionalit\u00e0 o prodotti che possono essere di interesse e la promozione della sicurezza come descritto nella sezione Come utilizziamo le informazioni.\r\n\r\n\r\nCOME ESERCITARE I DIRITTI LEGALI\r\nConsultare la sezione I diritti dell\u2019utente di accedere e controllare i propri dati personali per scoprire come gli strumenti e le impostazioni account consentono all'utente di esercitare i propri diritti ai sensi del GDPR e di accedere e controllare i dati personali.\r\n\r\nOltre ai vari controlli che offriamo, in determinate circostanze, l'utente pu\u00f2 opporsi al nostro trattamento dei suoi dati in base ai nostri interessi legittimi, compreso come descritto nella sezione Come utilizziamo le informazioni. Ai sensi del GDPR, l\u2019utente ha il diritto generale di opporsi all\u2019uso delle proprie informazioni per scopi di marketing diretto. Invitiamo l\u2019utente a controllare le sue impostazioni di notifica per seguire le nostre comunicazioni di marketing sui prodotti Fitbit. La nostra politica sull\u2019uso dei cookie illustra le opzioni di cui l'utente dispone per controllare le modalit\u00e0 in cui noi e i nostri partner utilizziamo i cookie e le tecnologie simili per la pubblicit\u00e0. L'utente pu\u00f2 cancellare il proprio account in qualsiasi momento.\r\n\r\nSe l'utente ha bisogno di ulteriore assistenza in merito ai propri diritti, pu\u00f2 contattare il nostro Responsabile della protezione dei dati all\u2019indirizzo data-protection-office@fitbit.com e prenderemo in considerazione la richiesta in conformit\u00e0 con le leggi applicabili. L'utente ha anche il diritto di sporgere denuncia presso la sua locale autorit\u00e0 di protezione dei dati o presso il Data Protection Commissioner in Irlanda, la nostra autorit\u00e0 di vigilanza principale, le cui informazioni di contatto sono disponibili qui.\r\n\r\n \r\nINFORMATIVA SULLA PRIVACY CALIFORNIANA\r\nSe l'utente risiede in California, pu\u00f2 consultare le seguenti informazioni aggiuntive sulla privacy ai sensi del California Consumer Privacy Act (\"CCPA\").\r\n\r\nCOME ESERCITARE I DIRITTI LEGALI\r\nL'utente ha il diritto di comprendere come raccogliamo, utilizziamo e divulghiamo le sue informazioni personali, di accedere alle sue informazioni, di richiedere la cancellazione di alcune informazioni e di non essere discriminato per aver esercitato il suo diritto alla privacy. L'utente pu\u00f2 esercitare questi diritti mediante gli strumenti e le impostazioni account come descritto nella sezione I diritti dell\u2019utente di accedere e controllare i propri dati personali, ad esempio:\r\n\u2022 Accedendo al proprio account e servendosi delle impostazioni account, l'utente pu\u00f2 esercitare il diritto di accesso ai propri dati personali e di comprendere come raccogliamo, utilizziamo e divulghiamo i dati personali. Maggiori informazioni sono disponibili qui.\r\n\u2022 Le impostazioni account permettono anche di esercitare il diritto a cancellare i dati personali. Maggiori informazioni sono disponibili qui.\r\n\r\nSe l'utente ha bisogno di ulteriore assistenza in merito ai propri diritti, pu\u00f2 contattare il nostro Responsabile della protezione dei dati all\u2019indirizzo data-protection-office@fitbit.com e prenderemo in considerazione la richiesta in conformit\u00e0 con le leggi applicabili.\r\n\r\n\r\nCATEGORIE DI INFORMAZIONI CHE RACCOGLIAMO, UTILIZZIAMO E DIVULGHIAMO PER SCOPI COMMERCIALI\r\nCome illustrato nella sezione Tipologia di informazioni raccolte, raccogliamo le categorie di dati personali indicate di seguito. Riceviamo queste informazioni dall'utente, dal suo dispositivo, dall'utilizzo dei Servizi, dal suo coach se utilizza i nostri Servizi di Live Coaching, da terzi (come gli altri servizi collegati al conto Fitbit dell'utente o dal suo datore di lavoro o dalla compagnia assicurativa se questi offrono i Servizi Fitbit a dipendenti o clienti) e come altrimenti descritto nella presente politica. Utilizziamo e divulghiamo queste categorie di dati per gli scopi commerciali descritti rispettivamente nelle sezioni Come utilizziamo le informazioni e Modalit\u00e0 di condivisione delle informazioni. Le categorie sono:\r\n\u2022 Identificatori, come il nome o il nome utente, l'indirizzo e-mail, l'indirizzo postale, il numero di telefono, l'indirizzo IP, l'ID account, l'ID dispositivo, l'ID cookie e altri identificatori simili dell'utente.\r\n\u2022 Informazioni demografiche, come il sesso, l'et\u00e0, le informazioni sullo stato di salute e le caratteristiche fisiche o la descrizione, che possono essere protette dalla legge.\r\n\u2022 Informazioni commerciali, comprese le informazioni sul pagamento e le registrazioni dei Servizi o dei dispositivi acquistati, ottenuti o presi in considerazione (ad esempio, se sono stati aggiunti al carrello della spesa sul negozio online Fitbit ma non acquistati).\r\n\u2022 Informazioni biometriche, come i dati relativi all'esercizio fisico, all'attivit\u00e0, al sonno o alla salute, compreso il numero di passi compiuti, la distanza percorsa, le calorie bruciate, il peso, il battito cardiaco, le fasi del sonno, i minuti attivi, i dati sulla salute femminile, i dati dei servizi di Live Coaching e qualsiasi altra informazione simile a cui l'utente ci concede l'accesso da un altro servizio.\r\n\u2022 Informazioni sulle attivit\u00e0 Internet o di rete, come i dati di utilizzo che riceviamo quando l'utente accede o utilizza i nostri servizi. Ci\u00f2 include informazioni sulle interazioni dell'utente con i Servizi e sui dispositivi e computer utilizzati per accedere ai Servizi.\r\n\u2022 Dati di geolocalizzazionecompresi i segnali GPS, i sensori del dispositivo, i punti di accesso Wi-Fi e gli ID dei ripetitori, se l'utente ci ha concesso l'accesso a tali informazioni.\r\n\u2022 Informazioni elettroniche, visive o simili, come la foto del profilo dell'utente o altre foto.\r\n\u2022 Informazioni professionali o relative all'occupazione, comprese tutte le informazioni (come il nome, l'indirizzo e-mail o informazioni simili) che il datore di lavoro ci fornisce per invitare l'utente a partecipare o determinare la sua idoneit\u00e0 ai Servizi Fitbit che offrono ai loro dipendenti.\r\n\u2022 Altre informazioni che l'utente fornisce, incluse informazioni sull'account come la biografia o il paese; informazioni sulle caratteristiche dei Servizi, ad esempio, un allarme, informazioni sui propri amici e registri relativi a cibo, peso, sonno, acqua o monitoraggio della salute femminile; dati sui Servizi di Live Coaching (forniti dall'utente o dal coach); messaggi sui Servizi e informazioni registrate dal dispositivo che possono variare a seconda del dispositivo utilizzato.\r\n\u2022 Informazioni derivate tratte da uno qualsiasi degli elementi di cui sopra, compreso il numero di calorie bruciate, la distanza percorsa, le informazioni sul sonno e gli obiettivi personalizzati di esercizio e di attivit\u00e0 fisica.\r\n\r\nNon vendiamo mai i dati personali dei nostri utenti. Collaboriamo con partner che ci forniscono servizi pubblicitari come descritto nella sezione Servizi promozionali e di analisi dei dati forniti da terzi. Per saperne di pi\u00f9 su come questi partner raccolgono i dati, nonch\u00e9 sulle opzioni a disposizione dell'utente per controllare l'uso delle informazioni per la pubblicit\u00e0 basata sugli interessi, leggere l'informativa sull'uso dei cookie.\r\n\r\n\r\nMODIFICHE ALLA PRESENTE POLITICA\r\nPrima di apportare modifiche materiali alla presente informativa, ne daremo comunicazione all'utente offrendogli l'opportunit\u00e0 di consultare l\u2019informativa aggiornata prima di decidere se continuare ad utilizzare i Servizi. Nel nostro archivio sono disponibili le versioni precedenti della presente informativa.\r\n\r\n \r\nCHI SIAMO E COME CONTATTARCI\r\nIn caso di domande sulla presente politica, o per assistenza nell'esercizio dei diritti sulla privacy, contattare il nostro responsabile per la protezione dei dati all'indirizzo data-protection-office@fitbit.com.\r\n\r\nSe l'utente risiede nel SEE, nel Regno Unito o in Svizzera, pu\u00f2 contattarci al seguente indirizzo:\r\n\r\nFitbit International Limited\r\nAll\u2019att.: Ufficio legale (Informativa sulla privacy)\r\n76 Lower Baggot Street\r\nDublin 2, Ireland\r\n\r\nSe l'utente risiede altrove, pu\u00f2 contattarci all'indirizzo:\r\n\r\nFitbit LLC\r\nAll\u2019att.: Ufficio legale (Informativa sulla privacy)\r\n199 Fremont Street, 14th Floor\r\nSan Francisco, California 94105\r\nU.S.A."
+    },
+    "annotations": [
+        {
+            "_id": "6730c57fe567751094054baf",
+            "start": 1715,
+            "end": 1749,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": []
+            },
+            "text": "TIPOLOGIA DI INFORMAZIONI RACCOLTE"
+        },
+        {
+            "_id": "6730c58be567751094054bb0",
+            "start": 1715,
+            "end": 1749,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "TIPOLOGIA DI INFORMAZIONI RACCOLTE"
+        },
+        {
+            "_id": "6730c597e567751094054bb1",
+            "start": 1843,
+            "end": 1875,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "INFORMAZIONI INVIATE DALL'UTENTE"
+        },
+        {
+            "_id": "6730c5abe567751094054bb2",
+            "start": 1843,
+            "end": 1875,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "INFORMAZIONI INVIATE DALL'UTENTE"
+        },
+        {
+            "_id": "6730c5b9e567751094054bb3",
+            "start": 1879,
+            "end": 1904,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c597e567751094054bb1"
+                ]
+            },
+            "text": "INFORMAZIONI DELL'ACCOUNT"
+        },
+        {
+            "_id": "6730c5d0e567751094054bb5",
+            "start": 1879,
+            "end": 1904,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "INFORMAZIONI DELL'ACCOUNT"
+        },
+        {
+            "_id": "6730c5e1e567751094054bb6",
+            "start": 1974,
+            "end": 1993,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c5b9e567751094054bb3"
+                ]
+            },
+            "text": "alcune informazioni"
+        },
+        {
+            "_id": "6730c600e567751094054bb7",
+            "start": 1995,
+            "end": 1999,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "nome"
+        },
+        {
+            "_id": "6730c63de567751094054bb8",
+            "start": 2001,
+            "end": 2017,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "indirizzo e-mail"
+        },
+        {
+            "_id": "6730c65ae567751094054bb9",
+            "start": 2019,
+            "end": 2027,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "password"
+        },
+        {
+            "_id": "6730c677e567751094054bba",
+            "start": 2029,
+            "end": 2044,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "data di nascita"
+        },
+        {
+            "_id": "6730c6a6e567751094054bbb",
+            "start": 2046,
+            "end": 2051,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "sesso"
+        },
+        {
+            "_id": "6730c888e567751094054bbc",
+            "start": 2053,
+            "end": 2060,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "altezza"
+        },
+        {
+            "_id": "6730c8a7e567751094054bbd",
+            "start": 2062,
+            "end": 2066,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "peso"
+        },
+        {
+            "_id": "6730c8e7e567751094054bbe",
+            "start": 2086,
+            "end": 2108,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "il numero di cellulare"
+        },
+        {
+            "_id": "6730c923e567751094054bbf",
+            "start": 1906,
+            "end": 2110,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Per creare un account e accedere ai nostri Servizi, sono necessarie alcune informazioni: nome, indirizzo e-mail, password, data di nascita, sesso, altezza, peso e, in alcuni casi, il numero di cellulare. "
+        },
+        {
+            "_id": "6730c982e567751094054bc0",
+            "start": 2246,
+            "end": 2272,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "altri tipi di informazioni"
+        },
+        {
+            "_id": "6730c9ade567751094054bc1",
+            "start": 2279,
+            "end": 2299,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "una foto del profilo"
+        },
+        {
+            "_id": "6730c9b2e567751094054bc2",
+            "start": 2301,
+            "end": 2314,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "una biografia"
+        },
+        {
+            "_id": "6730c9b6e567751094054bc3",
+            "start": 2316,
+            "end": 2349,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "le informazioni sul proprio Paese"
+        },
+        {
+            "_id": "6730c9bae567751094054bc4",
+            "start": 2352,
+            "end": 2382,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "il nome utente nella community"
+        },
+        {
+            "_id": "6730ca75e567751094054bc5",
+            "start": 2274,
+            "end": 2382,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730c5e1e567751094054bb6"
+                ]
+            },
+            "text": "come una foto del profilo, una biografia, le informazioni sul proprio Paese e il nome utente nella community"
+        },
+        {
+            "_id": "6730ca8ae567751094054bc6",
+            "start": 2206,
+            "end": 2383,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "L\u2019utente pu\u00f2 anche scegliere di fornire altri tipi di informazioni, come una foto del profilo, una biografia, le informazioni sul proprio Paese e il nome utente nella community."
+        },
+        {
+            "_id": "6730caace567751094054bc7",
+            "start": 2387,
+            "end": 2409,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c597e567751094054bb1"
+                ]
+            },
+            "text": "ULTERIORI INFORMAZIONI"
+        },
+        {
+            "_id": "6730cae8e567751094054bc8",
+            "start": 2387,
+            "end": 2409,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "ULTERIORI INFORMAZIONI"
+        },
+        {
+            "_id": "6730cb0ae567751094054bc9",
+            "start": 2543,
+            "end": 2565,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730caace567751094054bc7"
+                ]
+            },
+            "text": "ulteriori informazioni"
+        },
+        {
+            "_id": "6730cb7de567751094054bca",
+            "start": 2572,
+            "end": 2640,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "le sue registrazioni per il monitoraggio di cibo, peso, sonno, acqua"
+        },
+        {
+            "_id": "6730cb99e567751094054bcb",
+            "start": 2643,
+            "end": 2659,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "salute femminile"
+        },
+        {
+            "_id": "6730cbe5e567751094054bcc",
+            "start": 2567,
+            "end": 2659,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "come le sue registrazioni per il monitoraggio di cibo, peso, sonno, acqua o salute femminile"
+        },
+        {
+            "_id": "6730cc12e567751094054bcd",
+            "start": 2675,
+            "end": 2685,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "i messaggi"
+        },
+        {
+            "_id": "6730cc4ae567751094054bce",
+            "start": 2411,
+            "end": 2739,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Per contribuire a migliorare la sua esperienza o abilitare determinate funzionalit\u00e0 dei Servizi, l\u2019utente pu\u00f2 scegliere di fornirci ulteriori informazioni, come le sue registrazioni per il monitoraggio di cibo, peso, sonno, acqua o salute femminile; un allarme; e i messaggi nei forum di discussione o ai suoi amici sui Servizi."
+        },
+        {
+            "_id": "6730ccfde567751094054bd0",
+            "start": 2879,
+            "end": 2902,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "i loro indirizzi e-mail"
+        },
+        {
+            "_id": "6730e0c2e567751094054bd1",
+            "start": 2904,
+            "end": 2945,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ListFriendsInfo",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "accedendo agli account sui social network"
+        },
+        {
+            "_id": "6730e0f0e567751094054bd3",
+            "start": 2953,
+            "end": 3013,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "ContactList",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "utilizzando l\u2019elenco dei contatti sul suo dispositivo mobile"
+        },
+        {
+            "_id": "6730e11fe567751094054bd4",
+            "start": 2743,
+            "end": 3014,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Ad esempio, l\u2019utente pu\u00f2 connettersi con gli amici iscritti ai Servizi oppure invitare gli amici che non si sono ancora uniti, fornendo i loro indirizzi e-mail, accedendo agli account sui social network oppure utilizzando l\u2019elenco dei contatti sul suo dispositivo mobile."
+        },
+        {
+            "_id": "6730e132e567751094054bd5",
+            "start": 3237,
+            "end": 3265,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730cb0ae567751094054bc9"
+                ]
+            },
+            "text": "le informazioni che ci invii"
+        },
+        {
+            "_id": "6730e15ae567751094054bd6",
+            "start": 3272,
+            "end": 3283,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6730e132e567751094054bd5"
+                ]
+            },
+            "text": "il tuo nome"
+        },
+        {
+            "_id": "6730e16fe567751094054bd7",
+            "start": 3285,
+            "end": 3312,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6730e132e567751094054bd5"
+                ]
+            },
+            "text": "le informazioni di contatto"
+        },
+        {
+            "_id": "6730e183e567751094054bd8",
+            "start": 3315,
+            "end": 3327,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e132e567751094054bd5"
+                ]
+            },
+            "text": "il messaggio"
+        },
+        {
+            "_id": "6730e19de567751094054bd9",
+            "start": 3267,
+            "end": 3327,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730e132e567751094054bd5"
+                ]
+            },
+            "text": "come il tuo nome, le informazioni di contatto e il messaggio"
+        },
+        {
+            "_id": "6730e1a9e567751094054bda",
+            "start": 3152,
+            "end": 3328,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Se ci contatti o partecipi a un sondaggio, concorso o ad una promozione, raccogliamo le informazioni che ci invii, come il tuo nome, le informazioni di contatto e il messaggio."
+        },
+        {
+            "_id": "6730e1d0e567751094054bdb",
+            "start": 3332,
+            "end": 3357,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730c597e567751094054bb1"
+                ]
+            },
+            "text": "INFORMAZIONI DI PAGAMENTO"
+        },
+        {
+            "_id": "6730e1f1e567751094054bdc",
+            "start": 3332,
+            "end": 3357,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "INFORMAZIONI DI PAGAMENTO"
+        },
+        {
+            "_id": "6730e203e567751094054bdd",
+            "start": 3489,
+            "end": 3549,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e1d0e567751094054bdb"
+                ]
+            },
+            "text": "determinate informazioni per l\u2019identificazione e la verifica"
+        },
+        {
+            "_id": "6730e21de567751094054bde",
+            "start": 3556,
+            "end": 3563,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "il nome"
+        },
+        {
+            "_id": "6730e23ae567751094054bdf",
+            "start": 3565,
+            "end": 3601,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "il numero di carta di credito/debito"
+        },
+        {
+            "_id": "6730e24de567751094054be0",
+            "start": 3603,
+            "end": 3634,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "la data di scadenza della carta"
+        },
+        {
+            "_id": "6730e25de567751094054be1",
+            "start": 3637,
+            "end": 3650,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "il codice CVV"
+        },
+        {
+            "_id": "6730e270e567751094054be2",
+            "start": 3551,
+            "end": 3650,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "come il nome, il numero di carta di credito/debito, la data di scadenza della carta e il codice CVV"
+        },
+        {
+            "_id": "6730e27fe567751094054be3",
+            "start": 3437,
+            "end": 3651,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Se attivi questa funzionalit\u00e0, \u00e8 necessario fornire determinate informazioni per l\u2019identificazione e la verifica, come il nome, il numero di carta di credito/debito, la data di scadenza della carta e il codice CVV."
+        },
+        {
+            "_id": "6730e310e567751094054be4",
+            "start": 3986,
+            "end": 4032,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "le ultime quattro cifre del numero della carta"
+        },
+        {
+            "_id": "6730e330e567751094054be5",
+            "start": 4034,
+            "end": 4078,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "il nome dell'istituto emittente della carta "
+        },
+        {
+            "_id": "6730e343e567751094054be6",
+            "start": 4080,
+            "end": 4107,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "le informazioni di contatto"
+        },
+        {
+            "_id": "6730e355e567751094054be7",
+            "start": 3952,
+            "end": 4108,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Per la tua comodit\u00e0, memorizziamo le ultime quattro cifre del numero della carta, il nome dell'istituto emittente della carta e le informazioni di contatto."
+        },
+        {
+            "_id": "6730e36ae567751094054be8",
+            "start": 4329,
+            "end": 4357,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e203e567751094054bdd"
+                ]
+            },
+            "text": "le informazioni di pagamento"
+        },
+        {
+            "_id": "6730e3bee567751094054be9",
+            "start": 4367,
+            "end": 4378,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "il suo nome"
+        },
+        {
+            "_id": "6730e3fae567751094054bea",
+            "start": 4380,
+            "end": 4416,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "il numero di carta di credito/debito"
+        },
+        {
+            "_id": "6730e40be567751094054beb",
+            "start": 4418,
+            "end": 4449,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "la data di scadenza della carta"
+        },
+        {
+            "_id": "6730e420e567751094054bec",
+            "start": 4451,
+            "end": 4464,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "il codice CVV"
+        },
+        {
+            "_id": "6730e439e567751094054bed",
+            "start": 4467,
+            "end": 4494,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "l\u2019indirizzo di fatturazione"
+        },
+        {
+            "_id": "6730e826e567751094054bee",
+            "start": 4245,
+            "end": 4496,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Se l\u2019utente acquista prodotti Fitbit dal nostro sito Web, \u00e8 necessario che fornisca le informazioni di pagamento, tra cui il suo nome, il numero di carta di credito/debito, la data di scadenza della carta, il codice CVV e l\u2019indirizzo di fatturazione. "
+        },
+        {
+            "_id": "6730e835e567751094054bef",
+            "start": 4556,
+            "end": 4586,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "il suo indirizzo di spedizione"
+        },
+        {
+            "_id": "6730e845e567751094054bf0",
+            "start": 4543,
+            "end": 4611,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Memorizziamo il suo indirizzo di spedizione per completare l\u2019ordine."
+        },
+        {
+            "_id": "6730e852e567751094054bf1",
+            "start": 4773,
+            "end": 4794,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c597e567751094054bb1"
+                ]
+            },
+            "text": "SERVIZI LIVE COACHING"
+        },
+        {
+            "_id": "6730e86ae567751094054bf2",
+            "start": 4773,
+            "end": 4794,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "SERVIZI LIVE COACHING"
+        },
+        {
+            "_id": "6730e882e567751094054bf3",
+            "start": 5236,
+            "end": 5263,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6730e852e567751094054bf1"
+                ]
+            },
+            "text": "informazioni sull'utilizzo "
+        },
+        {
+            "_id": "6730e897e567751094054bf4",
+            "start": 5271,
+            "end": 5279,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "il piano"
+        },
+        {
+            "_id": "6730e8ade567751094054bf5",
+            "start": 5281,
+            "end": 5295,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "gli obbiettivi"
+        },
+        {
+            "_id": "6730e8d1e567751094054bf6",
+            "start": 5298,
+            "end": 5351,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "le azioni che vengono registrati con il proprio coach"
+        },
+        {
+            "_id": "6730e901e567751094054bf7",
+            "start": 5353,
+            "end": 5379,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "il calendario degli eventi"
+        },
+        {
+            "_id": "6730e917e567751094054bf8",
+            "start": 5380,
+            "end": 5410,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": " le comunicazioni con il coach"
+        },
+        {
+            "_id": "6730e92ee567751094054bf9",
+            "start": 5412,
+            "end": 5455,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "gli appunti che il coach prende sull'utente"
+        },
+        {
+            "_id": "6730e941e567751094054bfa",
+            "start": 5466,
+            "end": 5516,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "altre informazioni fornite dall'utente o dal coach"
+        },
+        {
+            "_id": "6730e956e567751094054bfb",
+            "start": 5263,
+            "end": 5516,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730e882e567751094054bf3"
+                ]
+            },
+            "text": "incluso il piano, gli obbiettivi e le azioni che vengono registrati con il proprio coach, il calendario degli eventi, le comunicazioni con il coach, gli appunti che il coach prende sull'utente, e ancora altre informazioni fornite dall'utente o dal coach"
+        },
+        {
+            "_id": "6730e961e567751094054bfc",
+            "start": 5169,
+            "end": 5517,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Se l'utente utilizza i nostri servizi Live Coaching, raccoglieremo informazioni sull'utilizzo incluso il piano, gli obbiettivi e le azioni che vengono registrati con il proprio coach, il calendario degli eventi, le comunicazioni con il coach, gli appunti che il coach prende sull'utente, e ancora altre informazioni fornite dall'utente o dal coach."
+        },
+        {
+            "_id": "6730f056e567751094054bfd",
+            "start": 5524,
+            "end": 5592,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "INFORMAZIONI RICEVUTE DALL'UTILIZZO DEI SERVIZI DA PARTE DELL'UTENTE"
+        },
+        {
+            "_id": "6730f074e567751094054bfe",
+            "start": 5524,
+            "end": 5592,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "INFORMAZIONI RICEVUTE DALL'UTILIZZO DEI SERVIZI DA PARTE DELL'UTENTE"
+        },
+        {
+            "_id": "6730f080e567751094054bff",
+            "start": 5596,
+            "end": 5624,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6730f056e567751094054bfd"
+                ]
+            },
+            "text": "INFORMAZIONI DAL DISPOSITIVO"
+        },
+        {
+            "_id": "6730f094e567751094054c00",
+            "start": 5596,
+            "end": 5624,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "INFORMAZIONI DAL DISPOSITIVO"
+        },
+        {
+            "_id": "6730f0a3e567751094054c01",
+            "start": 5663,
+            "end": 5699,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730f080e567751094054bff"
+                ]
+            },
+            "text": "dati per stimare diverse misurazioni"
+        },
+        {
+            "_id": "6730f0b5e567751094054c02",
+            "start": 5706,
+            "end": 5735,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "il numero di passi effettuati"
+        },
+        {
+            "_id": "6730f0cae567751094054c03",
+            "start": 5737,
+            "end": 5757,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "la distanza percorsa"
+        },
+        {
+            "_id": "6730f0f7e567751094054c04",
+            "start": 5759,
+            "end": 5778,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "le calorie bruciate"
+        },
+        {
+            "_id": "6730f110e567751094054c05",
+            "start": 5780,
+            "end": 5787,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "il peso"
+        },
+        {
+            "_id": "6730f128e567751094054c06",
+            "start": 5789,
+            "end": 5810,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "la frequenza cardiaca"
+        },
+        {
+            "_id": "6730f145e567751094054c07",
+            "start": 5812,
+            "end": 5829,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "le fasi del sonno"
+        },
+        {
+            "_id": "6730f1a1e567751094054c08",
+            "start": 5831,
+            "end": 5851,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "i minuti di attivit\u00e0"
+        },
+        {
+            "_id": "6730f1bfe567751094054c09",
+            "start": 5854,
+            "end": 5877,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "la posizione geografica"
+        },
+        {
+            "_id": "6730f1d9e567751094054c0a",
+            "start": 5701,
+            "end": 5877,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730f0a3e567751094054c01"
+                ]
+            },
+            "text": "come il numero di passi effettuati, la distanza percorsa, le calorie bruciate, il peso, la frequenza cardiaca, le fasi del sonno, i minuti di attivit\u00e0 e la posizione geografica"
+        },
+        {
+            "_id": "6730f1e6e567751094054c0b",
+            "start": 5626,
+            "end": 5878,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Il dispositivo dell\u2019utente raccoglie dati per stimare diverse misurazioni, come il numero di passi effettuati, la distanza percorsa, le calorie bruciate, il peso, la frequenza cardiaca, le fasi del sonno, i minuti di attivit\u00e0 e la posizione geografica."
+        },
+        {
+            "_id": "6731bfc5e567751094054c0c",
+            "start": 6222,
+            "end": 6255,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6730f056e567751094054bfd"
+                ]
+            },
+            "text": "INFORMAZIONI DI GEOLOCALIZZAZIONE"
+        },
+        {
+            "_id": "6731bfeae567751094054c0d",
+            "start": 6276,
+            "end": 6301,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6731bfc5e567751094054c0c"
+                ]
+            },
+            "text": "dati di geolocalizzazione"
+        },
+        {
+            "_id": "6731c003e567751094054c0e",
+            "start": 6328,
+            "end": 6341,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6731bfeae567751094054c0d"
+                ]
+            },
+            "text": "i segnali GPS"
+        },
+        {
+            "_id": "6731c009e567751094054c0f",
+            "start": 6343,
+            "end": 6368,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731bfeae567751094054c0d"
+                ]
+            },
+            "text": "i sensori del dispositivo"
+        },
+        {
+            "_id": "6731c00ee567751094054c10",
+            "start": 6370,
+            "end": 6394,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6731bfeae567751094054c0d"
+                ]
+            },
+            "text": "i punti di accesso Wi-Fi"
+        },
+        {
+            "_id": "6731c012e567751094054c11",
+            "start": 6397,
+            "end": 6438,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6731bfeae567751094054c0d"
+                ]
+            },
+            "text": "gli ID del ripetitore di telefonia mobile"
+        },
+        {
+            "_id": "6731c45fe567751094054c12",
+            "start": 6257,
+            "end": 6440,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "I Servizi ricevono dati di geolocalizzazione precisi da diverse fonti: i segnali GPS, i sensori del dispositivo, i punti di accesso Wi-Fi e gli ID del ripetitore di telefonia mobile. "
+        },
+        {
+            "_id": "6731c478e567751094054c13",
+            "start": 6747,
+            "end": 6766,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731bfeae567751094054c0d"
+                ]
+            },
+            "text": "il tuo indirizzo IP"
+        },
+        {
+            "_id": "6731c51ee567751094054c14",
+            "start": 6679,
+            "end": 6767,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Possiamo anche identificare la tua posizione approssimativa tramite il tuo indirizzo IP."
+        },
+        {
+            "_id": "6731c533e567751094054c15",
+            "start": 6771,
+            "end": 6797,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6730f056e567751094054bfd"
+                ]
+            },
+            "text": "INFORMAZIONI SULL'UTILIZZO"
+        },
+        {
+            "_id": "6731c54fe567751094054c16",
+            "start": 6771,
+            "end": 6797,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "INFORMAZIONI SULL'UTILIZZO"
+        },
+        {
+            "_id": "6731c573e567751094054c17",
+            "start": 6884,
+            "end": 6932,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c533e567751094054c15"
+                ]
+            },
+            "text": "dati di utilizzo o relativi all'attivit\u00e0 di rete"
+        },
+        {
+            "_id": "6731c58be567751094054c18",
+            "start": 6799,
+            "end": 6933,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Quando l'utente accede ai nostri Servizi o mentre li utilizza, riceviamo determinati dati di utilizzo o relativi all'attivit\u00e0 di rete."
+        },
+        {
+            "_id": "6731c5b6e567751094054c19",
+            "start": 6955,
+            "end": 6994,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "l\u2019interazione dell\u2019utente con i Servizi"
+        },
+        {
+            "_id": "6731c5cde567751094054c1a",
+            "start": 7007,
+            "end": 7044,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "quando visualizza o cerca i contenuti"
+        },
+        {
+            "_id": "6731c5e9e567751094054c1b",
+            "start": 7046,
+            "end": 7084,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "installa le applicazioni o il software"
+        },
+        {
+            "_id": "6731c603e567751094054c1c",
+            "start": 7086,
+            "end": 7118,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "crea o acceda al proprio account"
+        },
+        {
+            "_id": "6731c61ae567751094054c1d",
+            "start": 7120,
+            "end": 7165,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "associa il suo dispositivo al proprio account"
+        },
+        {
+            "_id": "6731c631e567751094054c1e",
+            "start": 7167,
+            "end": 7232,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "apre o interagisce con un\u2019applicazione sul suo dispositivo Fitbit"
+        },
+        {
+            "_id": "6731c64ce567751094054c1f",
+            "start": 6996,
+            "end": 7232,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731c573e567751094054c17"
+                ]
+            },
+            "text": "ad esempio quando visualizza o cerca i contenuti, installa le applicazioni o il software, crea o acceda al proprio account, associa il suo dispositivo al proprio account, apre o interagisce con un\u2019applicazione sul suo dispositivo Fitbit"
+        },
+        {
+            "_id": "6731c659e567751094054c20",
+            "start": 6934,
+            "end": 7233,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Tali dati riguardano l\u2019interazione dell\u2019utente con i Servizi, ad esempio quando visualizza o cerca i contenuti, installa le applicazioni o il software, crea o acceda al proprio account, associa il suo dispositivo al proprio account, apre o interagisce con un\u2019applicazione sul suo dispositivo Fitbit."
+        },
+        {
+            "_id": "6731c67be567751094054c21",
+            "start": 7257,
+            "end": 7314,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c533e567751094054c15"
+                ]
+            },
+            "text": "i dati relativi ai dispositivi e ai computer che utilizzi"
+        },
+        {
+            "_id": "6731c69ee567751094054c22",
+            "start": 7348,
+            "end": 7364,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "gli indirizzi IP"
+        },
+        {
+            "_id": "6731c6b4e567751094054c23",
+            "start": 7366,
+            "end": 7384,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "il tipo di browser"
+        },
+        {
+            "_id": "6731c6c6e567751094054c24",
+            "start": 7386,
+            "end": 7395,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "la lingua"
+        },
+        {
+            "_id": "6731c6d9e567751094054c25",
+            "start": 7397,
+            "end": 7417,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "il sistema operativo"
+        },
+        {
+            "_id": "6731c6f8e567751094054c26",
+            "start": 7419,
+            "end": 7482,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "le informazioni del dispositivo Fitbit o dei dispositivi mobili"
+        },
+        {
+            "_id": "6731c711e567751094054c27",
+            "start": 7492,
+            "end": 7540,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "gli identificatori di periferiche e applicazioni"
+        },
+        {
+            "_id": "6731c725e567751094054c28",
+            "start": 7543,
+            "end": 7571,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "InternetHistory",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "la pagina Web di riferimento"
+        },
+        {
+            "_id": "6731c738e567751094054c29",
+            "start": 7573,
+            "end": 7591,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "InternetHistory",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "le pagine visitate"
+        },
+        {
+            "_id": "6731c7dbe567751094054c2a",
+            "start": 7593,
+            "end": 7605,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "la posizione"
+        },
+        {
+            "_id": "6731c7f0e567751094054c2b",
+            "start": 7658,
+            "end": 7684,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "le informazioni sui cookie"
+        },
+        {
+            "_id": "6731c80de567751094054c2c",
+            "start": 7484,
+            "end": 7540,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "inclusi gli identificatori di periferiche e applicazioni"
+        },
+        {
+            "_id": "6731c81de567751094054c2d",
+            "start": 7340,
+            "end": 7684,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731c67be567751094054c21"
+                ]
+            },
+            "text": "inclusi gli indirizzi IP, il tipo di browser, la lingua, il sistema operativo, le informazioni del dispositivo Fitbit o dei dispositivi mobili (inclusi gli identificatori di periferiche e applicazioni), la pagina Web di riferimento, le pagine visitate, la posizione (a seconda delle autorizzazioni che hai concesso) e le informazioni sui cookie"
+        },
+        {
+            "_id": "6731c829e567751094054c2e",
+            "start": 7237,
+            "end": 7685,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Raccogliamo inoltre i dati relativi ai dispositivi e ai computer che utilizzi per accedere ai Servizi, inclusi gli indirizzi IP, il tipo di browser, la lingua, il sistema operativo, le informazioni del dispositivo Fitbit o dei dispositivi mobili (inclusi gli identificatori di periferiche e applicazioni), la pagina Web di riferimento, le pagine visitate, la posizione (a seconda delle autorizzazioni che hai concesso) e le informazioni sui cookie."
+        },
+        {
+            "_id": "6731c842e567751094054c2f",
+            "start": 7691,
+            "end": 7727,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "INFORMAZIONI RICEVUTE DA TERZE PARTI"
+        },
+        {
+            "_id": "6731c859e567751094054c30",
+            "start": 7691,
+            "end": 7727,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "INFORMAZIONI RICEVUTE DA TERZE PARTI"
+        },
+        {
+            "_id": "6731c868e567751094054c31",
+            "start": 7849,
+            "end": 7881,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6731c842e567751094054c2f"
+                ]
+            },
+            "text": "informazioni dall\u2019altro servizio"
+        },
+        {
+            "_id": "6731c87ee567751094054c32",
+            "start": 7729,
+            "end": 7882,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Se scegli di connettere l'account creato per i nostri Servizi ad un tuo account di un altro servizio, potremmo ricevere informazioni dall\u2019altro servizio."
+        },
+        {
+            "_id": "6731c8a0e567751094054c33",
+            "start": 7949,
+            "end": 7961,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "informazioni"
+        },
+        {
+            "_id": "6731c8b3e567751094054c34",
+            "start": 7967,
+            "end": 7978,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "il tuo nome"
+        },
+        {
+            "_id": "6731c8d0e567751094054c35",
+            "start": 7980,
+            "end": 8002,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "l\u2019immagine del profilo"
+        },
+        {
+            "_id": "6731c8e0e567751094054c36",
+            "start": 8004,
+            "end": 8020,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "la fascia di et\u00e0"
+        },
+        {
+            "_id": "6731c8f5e567751094054c37",
+            "start": 8022,
+            "end": 8031,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "la lingua"
+        },
+        {
+            "_id": "6731c90ce567751094054c38",
+            "start": 8033,
+            "end": 8051,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "l\u2019indirizzo e-mail"
+        },
+        {
+            "_id": "6731c921e567751094054c39",
+            "start": 8054,
+            "end": 8074,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ListFriendsInfo",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "l\u2019elenco degli amici"
+        },
+        {
+            "_id": "6731c934e567751094054c3a",
+            "start": 7962,
+            "end": 8074,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "come il tuo nome, l\u2019immagine del profilo, la fascia di et\u00e0, la lingua, l\u2019indirizzo e-mail e l\u2019elenco degli amici"
+        },
+        {
+            "_id": "6731c942e567751094054c3b",
+            "start": 7883,
+            "end": 8075,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Ad esempio, se ti connetti a Facebook o Google, potremmo ricevere informazioni come il tuo nome, l\u2019immagine del profilo, la fascia di et\u00e0, la lingua, l\u2019indirizzo e-mail e l\u2019elenco degli amici."
+        },
+        {
+            "_id": "6731ca0ce567751094054c3d",
+            "start": 8112,
+            "end": 8149,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "l\u2019accesso ai dati del tuo allenamento"
+        },
+        {
+            "_id": "6731ca2ae567751094054c3e",
+            "start": 8152,
+            "end": 8167,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "attivit\u00e0 fisica"
+        },
+        {
+            "_id": "6731ca3ae567751094054c3f",
+            "start": 8076,
+            "end": 8189,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Puoi anche scegliere di autorizzare l\u2019accesso ai dati del tuo allenamento o attivit\u00e0 fisica da un altro servizio."
+        },
+        {
+            "_id": "6731ca4be567751094054c40",
+            "start": 8543,
+            "end": 8547,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "nome"
+        },
+        {
+            "_id": "6731ca72e567751094054c41",
+            "start": 8549,
+            "end": 8564,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "indirizzo email"
+        },
+        {
+            "_id": "6731ca88e567751094054c42",
+            "start": 8567,
+            "end": 8592,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "altre informazioni simili"
+        },
+        {
+            "_id": "6731ca9de567751094054c43",
+            "start": 8600,
+            "end": 8618,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "numero di telefono"
+        },
+        {
+            "_id": "6731caafe567751094054c44",
+            "start": 8621,
+            "end": 8632,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "ID abbonato"
+        },
+        {
+            "_id": "6731cac1e567751094054c45",
+            "start": 8594,
+            "end": 8632,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731c868e567751094054c31"
+                ]
+            },
+            "text": "quali numero di telefono o ID abbonato"
+        },
+        {
+            "_id": "6731cad2e567751094054c46",
+            "start": 8492,
+            "end": 8768,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "In tali casi, queste compagnie potrebbero fornirci nome, indirizzo email o altre informazioni simili (quali numero di telefono o ID abbonato) in modo da invitare l'utente a partecipare a o stabilire la sua eleggibilit\u00e0 per particolari benefici quali sconti o servizi gratuiti."
+        },
+        {
+            "_id": "6731cb10e567751094054c47",
+            "start": 33149,
+            "end": 33179,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "le categorie di dati personali"
+        },
+        {
+            "_id": "6731d090e567751094054c48",
+            "start": 33071,
+            "end": 33200,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Come illustrato nella sezione Tipologia di informazioni raccolte, raccogliamo le categorie di dati personali indicate di seguito."
+        },
+        {
+            "_id": "6731d09ee567751094054c49",
+            "start": 33813,
+            "end": 33827,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Identificatori"
+        },
+        {
+            "_id": "6731d0d6e567751094054c4a",
+            "start": 33834,
+            "end": 33841,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "il nome"
+        },
+        {
+            "_id": "6731d0e9e567751094054c4b",
+            "start": 33844,
+            "end": 33858,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "il nome utente"
+        },
+        {
+            "_id": "6731d0ffe567751094054c4c",
+            "start": 33860,
+            "end": 33878,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "l'indirizzo e-mail"
+        },
+        {
+            "_id": "6731d122e567751094054c4d",
+            "start": 33880,
+            "end": 33899,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "l'indirizzo postale"
+        },
+        {
+            "_id": "6731d137e567751094054c4e",
+            "start": 33901,
+            "end": 33922,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "il numero di telefono"
+        },
+        {
+            "_id": "6731d14be567751094054c4f",
+            "start": 33924,
+            "end": 33938,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "l'indirizzo IP"
+        },
+        {
+            "_id": "6731d17fe567751094054c50",
+            "start": 33940,
+            "end": 33952,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "l'ID account"
+        },
+        {
+            "_id": "6731d196e567751094054c51",
+            "start": 33954,
+            "end": 33970,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "l'ID dispositivo"
+        },
+        {
+            "_id": "6731d1aae567751094054c52",
+            "start": 33972,
+            "end": 33983,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "l'ID cookie"
+        },
+        {
+            "_id": "6731d1dee567751094054c54",
+            "start": 33986,
+            "end": 34025,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "altri identificatori simili dell'utente"
+        },
+        {
+            "_id": "6731d1eee567751094054c55",
+            "start": 33829,
+            "end": 34025,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731d09ee567751094054c49"
+                ]
+            },
+            "text": "come il nome o il nome utente, l'indirizzo e-mail, l'indirizzo postale, il numero di telefono, l'indirizzo IP, l'ID account, l'ID dispositivo, l'ID cookie e altri identificatori simili dell'utente"
+        },
+        {
+            "_id": "6731d21de567751094054c56",
+            "start": 33811,
+            "end": 34026,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "\u2022 Identificatori, come il nome o il nome utente, l'indirizzo e-mail, l'indirizzo postale, il numero di telefono, l'indirizzo IP, l'ID account, l'ID dispositivo, l'ID cookie e altri identificatori simili dell'utente."
+        },
+        {
+            "_id": "6731d233e567751094054c57",
+            "start": 34030,
+            "end": 34055,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Informazioni demografiche"
+        },
+        {
+            "_id": "6731d251e567751094054c58",
+            "start": 34062,
+            "end": 34070,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6731d233e567751094054c57"
+                ]
+            },
+            "text": "il sesso"
+        },
+        {
+            "_id": "6731d265e567751094054c59",
+            "start": 34072,
+            "end": 34077,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6731d233e567751094054c57"
+                ]
+            },
+            "text": "l'et\u00e0"
+        },
+        {
+            "_id": "6731e0ade567751094054c5a",
+            "start": 34079,
+            "end": 34116,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731d233e567751094054c57"
+                ]
+            },
+            "text": "le informazioni sullo stato di salute"
+        },
+        {
+            "_id": "6731e0c8e567751094054c5b",
+            "start": 34119,
+            "end": 34162,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6731d233e567751094054c57"
+                ]
+            },
+            "text": "le caratteristiche fisiche o la descrizione"
+        },
+        {
+            "_id": "6731e0e3e567751094054c5c",
+            "start": 34028,
+            "end": 34204,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Informazioni demografiche, come il sesso, l'et\u00e0, le informazioni sullo stato di salute e le caratteristiche fisiche o la descrizione, che possono essere protette dalla legge."
+        },
+        {
+            "_id": "6731e0f8e567751094054c5d",
+            "start": 34208,
+            "end": 34232,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Informazioni commerciali"
+        },
+        {
+            "_id": "6731e118e567751094054c5e",
+            "start": 34243,
+            "end": 34272,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "6731e0f8e567751094054c5d"
+                ]
+            },
+            "text": "le informazioni sul pagamento"
+        },
+        {
+            "_id": "6731e61de567751094054c6e",
+            "start": 34275,
+            "end": 34304,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "6731e0f8e567751094054c5d"
+                ]
+            },
+            "text": "le registrazioni dei Servizi "
+        },
+        {
+            "_id": "6731e63de567751094054c70",
+            "start": 34305,
+            "end": 34368,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "6731e0f8e567751094054c5d"
+                ]
+            },
+            "text": " dei dispositivi acquistati, ottenuti o presi in considerazione"
+        },
+        {
+            "_id": "6731e65ce567751094054c72",
+            "start": 34206,
+            "end": 34474,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "\u2022 Informazioni commerciali, comprese le informazioni sul pagamento e le registrazioni dei Servizi o dei dispositivi acquistati, ottenuti o presi in considerazione (ad esempio, se sono stati aggiunti al carrello della spesa sul negozio online Fitbit ma non acquistati)."
+        },
+        {
+            "_id": "6731e66ae567751094054c73",
+            "start": 34478,
+            "end": 34502,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Informazioni biometriche"
+        },
+        {
+            "_id": "6731e685e567751094054c74",
+            "start": 34509,
+            "end": 34545,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "i dati relativi all'esercizio fisico"
+        },
+        {
+            "_id": "6731e99be567751094054c75",
+            "start": 34547,
+            "end": 34559,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "all'attivit\u00e0"
+        },
+        {
+            "_id": "6731e9b3e567751094054c76",
+            "start": 34561,
+            "end": 34569,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "al sonno"
+        },
+        {
+            "_id": "6731e9cfe567751094054c77",
+            "start": 34572,
+            "end": 34583,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "alla salute"
+        },
+        {
+            "_id": "6731e9eae567751094054c78",
+            "start": 34594,
+            "end": 34621,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "il numero di passi compiuti"
+        },
+        {
+            "_id": "6731ea00e567751094054c79",
+            "start": 34623,
+            "end": 34643,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "la distanza percorsa"
+        },
+        {
+            "_id": "6731ea46e567751094054c7a",
+            "start": 34645,
+            "end": 34664,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "le calorie bruciate"
+        },
+        {
+            "_id": "6731ea60e567751094054c7b",
+            "start": 34666,
+            "end": 34673,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "il peso"
+        },
+        {
+            "_id": "6731ea77e567751094054c7c",
+            "start": 34675,
+            "end": 34694,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "il battito cardiaco"
+        },
+        {
+            "_id": "6731eac3e567751094054c7d",
+            "start": 34696,
+            "end": 34713,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "le fasi del sonno"
+        },
+        {
+            "_id": "6731ee16e567751094054c7e",
+            "start": 34715,
+            "end": 34730,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "i minuti attivi"
+        },
+        {
+            "_id": "6731ee3ae567751094054c7f",
+            "start": 34732,
+            "end": 34761,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "i dati sulla salute femminile"
+        },
+        {
+            "_id": "6731ee7de567751094054c80",
+            "start": 34763,
+            "end": 34798,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "i dati dei servizi di Live Coaching"
+        },
+        {
+            "_id": "6731ee93e567751094054c81",
+            "start": 34801,
+            "end": 34836,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "qualsiasi altra informazione simile"
+        },
+        {
+            "_id": "6731eebbe567751094054c83",
+            "start": 34476,
+            "end": 34894,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Informazioni biometriche, come i dati relativi all'esercizio fisico, all'attivit\u00e0, al sonno o alla salute, compreso il numero di passi compiuti, la distanza percorsa, le calorie bruciate, il peso, il battito cardiaco, le fasi del sonno, i minuti attivi, i dati sulla salute femminile, i dati dei servizi di Live Coaching e qualsiasi altra informazione simile a cui l'utente ci concede l'accesso da un altro servizio."
+        },
+        {
+            "_id": "6731eecde567751094054c84",
+            "start": 34898,
+            "end": 34944,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Informazioni sulle attivit\u00e0 Internet o di rete"
+        },
+        {
+            "_id": "6731eef7e567751094054c85",
+            "start": 34951,
+            "end": 34969,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731eecde567751094054c84"
+                ]
+            },
+            "text": "i dati di utilizzo"
+        },
+        {
+            "_id": "67320811e567751094054cad",
+            "start": 34946,
+            "end": 35034,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731eecde567751094054c84"
+                ]
+            },
+            "text": "come i dati di utilizzo che riceviamo quando l'utente accede o utilizza i nostri servizi"
+        },
+        {
+            "_id": "67320822e567751094054cae",
+            "start": 34896,
+            "end": 35035,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Informazioni sulle attivit\u00e0 Internet o di rete, come i dati di utilizzo che riceviamo quando l'utente accede o utilizza i nostri servizi."
+        },
+        {
+            "_id": "67320830e567751094054caf",
+            "start": 35048,
+            "end": 35104,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731eecde567751094054c84"
+                ]
+            },
+            "text": "informazioni sulle interazioni dell'utente con i Servizi"
+        },
+        {
+            "_id": "67320849e567751094054cb0",
+            "start": 35107,
+            "end": 35144,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6731eecde567751094054c84"
+                ]
+            },
+            "text": "sui dispositivi e computer utilizzati"
+        },
+        {
+            "_id": "6732085de567751094054cb1",
+            "start": 35040,
+            "end": 35168,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731eecde567751094054c84"
+                ]
+            },
+            "text": "include informazioni sulle interazioni dell'utente con i Servizi e sui dispositivi e computer utilizzati per accedere ai Servizi"
+        },
+        {
+            "_id": "67320868e567751094054cb2",
+            "start": 35036,
+            "end": 35169,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Ci\u00f2 include informazioni sulle interazioni dell'utente con i Servizi e sui dispositivi e computer utilizzati per accedere ai Servizi."
+        },
+        {
+            "_id": "67320872e567751094054cb3",
+            "start": 35173,
+            "end": 35198,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "6731eecde567751094054c84"
+                ]
+            },
+            "text": "Dati di geolocalizzazione"
+        },
+        {
+            "_id": "67320887e567751094054cb4",
+            "start": 35207,
+            "end": 35220,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "67320872e567751094054cb3"
+                ]
+            },
+            "text": "i segnali GPS"
+        },
+        {
+            "_id": "673208cee567751094054cb5",
+            "start": 35222,
+            "end": 35247,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "67320872e567751094054cb3"
+                ]
+            },
+            "text": "i sensori del dispositivo"
+        },
+        {
+            "_id": "673208e7e567751094054cb6",
+            "start": 35249,
+            "end": 35274,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "67320872e567751094054cb3"
+                ]
+            },
+            "text": "i punti di accesso Wi-Fi "
+        },
+        {
+            "_id": "673208f9e567751094054cb7",
+            "start": 35276,
+            "end": 35297,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "67320872e567751094054cb3"
+                ]
+            },
+            "text": "gli ID dei ripetitori"
+        },
+        {
+            "_id": "67320910e567751094054cb8",
+            "start": 35198,
+            "end": 35355,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "67320872e567751094054cb3"
+                ]
+            },
+            "text": "compresi i segnali GPS, i sensori del dispositivo, i punti di accesso Wi-Fi e gli ID dei ripetitori, se l'utente ci ha concesso l'accesso a tali informazioni"
+        },
+        {
+            "_id": "6732091ee567751094054cb9",
+            "start": 35171,
+            "end": 35356,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "\u2022 Dati di geolocalizzazionecompresi i segnali GPS, i sensori del dispositivo, i punti di accesso Wi-Fi e gli ID dei ripetitori, se l'utente ci ha concesso l'accesso a tali informazioni."
+        },
+        {
+            "_id": "67320956e567751094054cbb",
+            "start": 35360,
+            "end": 35402,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Informazioni elettroniche, visive o simili"
+        },
+        {
+            "_id": "67320965e567751094054cbc",
+            "start": 35409,
+            "end": 35440,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Images",
+                "Ref": [
+                    "67320956e567751094054cbb"
+                ]
+            },
+            "text": "la foto del profilo dell'utente"
+        },
+        {
+            "_id": "67320979e567751094054cbd",
+            "start": 35443,
+            "end": 35453,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Images",
+                "Ref": [
+                    "67320956e567751094054cbb"
+                ]
+            },
+            "text": "altre foto"
+        },
+        {
+            "_id": "6732098ce567751094054cbe",
+            "start": 35404,
+            "end": 35453,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "67320956e567751094054cbb"
+                ]
+            },
+            "text": "come la foto del profilo dell'utente o altre foto"
+        },
+        {
+            "_id": "67320999e567751094054cbf",
+            "start": 35358,
+            "end": 35454,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Informazioni elettroniche, visive o simili, come la foto del profilo dell'utente o altre foto."
+        },
+        {
+            "_id": "673209b3e567751094054cc0",
+            "start": 35458,
+            "end": 35511,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": "Informazioni professionali o relative all'occupazione"
+        },
+        {
+            "_id": "673209f4e567751094054cc1",
+            "start": 35522,
+            "end": 35543,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "tutte le informazioni"
+        },
+        {
+            "_id": "67320a05e567751094054cc2",
+            "start": 35550,
+            "end": 35557,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "il nome"
+        },
+        {
+            "_id": "67320a39e567751094054cc3",
+            "start": 35559,
+            "end": 35577,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "l'indirizzo e-mail"
+        },
+        {
+            "_id": "67320a49e567751094054cc4",
+            "start": 35580,
+            "end": 35599,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "informazioni simili"
+        },
+        {
+            "_id": "67320a5be567751094054cc5",
+            "start": 35545,
+            "end": 35599,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "come il nome, l'indirizzo e-mail o informazioni simili"
+        },
+        {
+            "_id": "67320a6ce567751094054cc6",
+            "start": 35513,
+            "end": 35751,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "comprese tutte le informazioni (come il nome, l'indirizzo e-mail o informazioni simili) che il datore di lavoro ci fornisce per invitare l'utente a partecipare o determinare la sua idoneit\u00e0 ai Servizi Fitbit che offrono ai loro dipendenti"
+        },
+        {
+            "_id": "67320a7be567751094054cc7",
+            "start": 35456,
+            "end": 35752,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Informazioni professionali o relative all'occupazione, comprese tutte le informazioni (come il nome, l'indirizzo e-mail o informazioni simili) che il datore di lavoro ci fornisce per invitare l'utente a partecipare o determinare la sua idoneit\u00e0 ai Servizi Fitbit che offrono ai loro dipendenti."
+        },
+        {
+            "_id": "67320a89e567751094054cc8",
+            "start": 35756,
+            "end": 35774,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673209b3e567751094054cc0"
+                ]
+            },
+            "text": "Altre informazioni"
+        },
+        {
+            "_id": "67320abfe567751094054cc9",
+            "start": 35806,
+            "end": 35831,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "informazioni sull'account"
+        },
+        {
+            "_id": "67320ae0e567751094054cca",
+            "start": 35837,
+            "end": 35849,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "la biografia"
+        },
+        {
+            "_id": "67320af6e567751094054ccb",
+            "start": 35852,
+            "end": 35860,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "il paese"
+        },
+        {
+            "_id": "67320b06e567751094054ccc",
+            "start": 35832,
+            "end": 35860,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "come la biografia o il paese"
+        },
+        {
+            "_id": "67320b3ce567751094054cce",
+            "start": 35862,
+            "end": 35908,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "informazioni sulle caratteristiche dei Servizi"
+        },
+        {
+            "_id": "67320c89e567751094054ccf",
+            "start": 35922,
+            "end": 35932,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "un allarme"
+        },
+        {
+            "_id": "67320c9be567751094054cd0",
+            "start": 35934,
+            "end": 35963,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "SocialInteraction",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "informazioni sui propri amici"
+        },
+        {
+            "_id": "67320cd0e567751094054cd1",
+            "start": 35966,
+            "end": 36010,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "registri relativi a cibo, peso, sonno, acqua"
+        },
+        {
+            "_id": "67320cfde567751094054cd2",
+            "start": 36013,
+            "end": 36048,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "monitoraggio della salute femminile"
+        },
+        {
+            "_id": "67320d19e567751094054cd3",
+            "start": 35910,
+            "end": 36048,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "ad esempio, un allarme, informazioni sui propri amici e registri relativi a cibo, peso, sonno, acqua o monitoraggio della salute femminile"
+        },
+        {
+            "_id": "67320d2ae567751094054cd4",
+            "start": 36050,
+            "end": 36083,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "dati sui Servizi di Live Coaching"
+        },
+        {
+            "_id": "67320de2e567751094054cd5",
+            "start": 36119,
+            "end": 36139,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "messaggi sui Servizi"
+        },
+        {
+            "_id": "67320dfce567751094054cd6",
+            "start": 36142,
+            "end": 36181,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "informazioni registrate dal dispositivo"
+        },
+        {
+            "_id": "67320e15e567751094054cd7",
+            "start": 35798,
+            "end": 36238,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "67320a89e567751094054cc8"
+                ]
+            },
+            "text": "incluse informazioni sull'account come la biografia o il paese; informazioni sulle caratteristiche dei Servizi, ad esempio, un allarme, informazioni sui propri amici e registri relativi a cibo, peso, sonno, acqua o monitoraggio della salute femminile; dati sui Servizi di Live Coaching (forniti dall'utente o dal coach); messaggi sui Servizi e informazioni registrate dal dispositivo che possono variare a seconda del dispositivo utilizzato"
+        },
+        {
+            "_id": "67320e27e567751094054cd9",
+            "start": 35754,
+            "end": 36239,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Altre informazioni che l'utente fornisce, incluse informazioni sull'account come la biografia o il paese; informazioni sulle caratteristiche dei Servizi, ad esempio, un allarme, informazioni sui propri amici e registri relativi a cibo, peso, sonno, acqua o monitoraggio della salute femminile; dati sui Servizi di Live Coaching (forniti dall'utente o dal coach); messaggi sui Servizi e informazioni registrate dal dispositivo che possono variare a seconda del dispositivo utilizzato."
+        },
+        {
+            "_id": "67320e38e567751094054cda",
+            "start": 36242,
+            "end": 36264,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6730c57fe567751094054baf"
+                ]
+            },
+            "text": " Informazioni derivate"
+        },
+        {
+            "_id": "67320e48e567751094054cdb",
+            "start": 36327,
+            "end": 36356,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "67320e38e567751094054cda"
+                ]
+            },
+            "text": "il numero di calorie bruciate"
+        },
+        {
+            "_id": "67320e65e567751094054cdc",
+            "start": 36358,
+            "end": 36378,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "67320e38e567751094054cda"
+                ]
+            },
+            "text": "la distanza percorsa"
+        },
+        {
+            "_id": "67320e7ae567751094054cdd",
+            "start": 36380,
+            "end": 36405,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "67320e38e567751094054cda"
+                ]
+            },
+            "text": "le informazioni sul sonno"
+        },
+        {
+            "_id": "67320eaee567751094054cde",
+            "start": 36408,
+            "end": 36449,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "67320e38e567751094054cda"
+                ]
+            },
+            "text": "gli obiettivi personalizzati di esercizio"
+        },
+        {
+            "_id": "67320ed1e567751094054cdf",
+            "start": 36452,
+            "end": 36470,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "67320e38e567751094054cda"
+                ]
+            },
+            "text": "di attivit\u00e0 fisica"
+        },
+        {
+            "_id": "67320ee3e567751094054ce0",
+            "start": 36318,
+            "end": 36470,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "67320e38e567751094054cda"
+                ]
+            },
+            "text": "compreso il numero di calorie bruciate, la distanza percorsa, le informazioni sul sonno e gli obiettivi personalizzati di esercizio e di attivit\u00e0 fisica"
+        },
+        {
+            "_id": "67320ef8e567751094054ce1",
+            "start": 36241,
+            "end": 36471,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Informazioni derivate tratte da uno qualsiasi degli elementi di cui sopra, compreso il numero di calorie bruciate, la distanza percorsa, le informazioni sul sonno e gli obiettivi personalizzati di esercizio e di attivit\u00e0 fisica."
+        },
+        {
+            "_id": "67320f5ae567751094054ce2",
+            "start": 6222,
+            "end": 6255,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "INFORMAZIONI DI GEOLOCALIZZAZIONE"
+        },
+        {
+            "_id": "673210c1e567751094054ce3",
+            "start": 4359,
+            "end": 4494,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6730e36ae567751094054be8"
+                ]
+            },
+            "text": "tra cui il suo nome, il numero di carta di credito/debito, la data di scadenza della carta, il codice CVV e l\u2019indirizzo di fatturazione"
+        },
+        {
+            "_id": "6732121ee567751094054ce4",
+            "start": 34057,
+            "end": 34203,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731d233e567751094054c57"
+                ]
+            },
+            "text": "come il sesso, l'et\u00e0, le informazioni sullo stato di salute e le caratteristiche fisiche o la descrizione, che possono essere protette dalla legge"
+        },
+        {
+            "_id": "673212b6e567751094054ce5",
+            "start": 34234,
+            "end": 34473,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731e0f8e567751094054c5d"
+                ]
+            },
+            "text": "comprese le informazioni sul pagamento e le registrazioni dei Servizi o dei dispositivi acquistati, ottenuti o presi in considerazione (ad esempio, se sono stati aggiunti al carrello della spesa sul negozio online Fitbit ma non acquistati)"
+        },
+        {
+            "_id": "673212cfe567751094054ce6",
+            "start": 34504,
+            "end": 34583,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "come i dati relativi all'esercizio fisico, all'attivit\u00e0, al sonno o alla salute"
+        },
+        {
+            "_id": "67321344e567751094054ce7",
+            "start": 34585,
+            "end": 34893,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6731e66ae567751094054c73"
+                ]
+            },
+            "text": "compreso il numero di passi compiuti, la distanza percorsa, le calorie bruciate, il peso, il battito cardiaco, le fasi del sonno, i minuti attivi, i dati sulla salute femminile, i dati dei servizi di Live Coaching e qualsiasi altra informazione simile a cui l'utente ci concede l'accesso da un altro servizio"
+        }
+    ]
+}

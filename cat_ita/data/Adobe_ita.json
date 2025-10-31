@@ -1,0 +1,2687 @@
+{
+    "document": {
+        "_id": "66eb2769e567751094052775",
+        "name": "Adobe_ita.txt",
+        "plainText": "Informativa sulla privacy di Adobe\r\n \r\nUltimo aggiornamento: mercoled\u00ec 14 novembre 2023\r\n\r\nL'Informativa sulla privacy di Adobe descrive le pratiche relative alla privacy dei Servizi e dei Software di Adobe (come definito nelle nostre Condizioni d'uso generali) e ovunque presentiamo o facciamo riferimento a questa informativa.\r\n\r\nSe l'utente risiede nel Nord America, la sua relazione \u00e8 con Adobe Inc. (Adobe U.S.) ed \u00e8 soggetta alle leggi della California e degli Stati Uniti.\r\n\r\nSe risiede al di fuori del Nord America, il rapporto dell'utente \u00e8 con Adobe Systems Software Ireland Limited (Adobe Ireland), che \u00e8 il responsabile relativamente alle informazioni personali dell'utente raccolte da Adobe, e si applicano le leggi dell'Irlanda. \r\n\r\nNota: per utilizzare i nostri Servizi e Software si autorizza Adobe a trasferire le informazioni personali oltre confine e in altri Paesi in cui Adobe e i suoi partner e fornitori operano, inclusi gli Stati Uniti. Le misure di protezione della privacy e i diritti delle autorit\u00e0 ad accedere ai dati dell'utente in questi Paesi potrebbero non essere gli stessi validi nel Paese dell'utente. Trasferiremo in questi Paesi i dati personali dell'utente solo ove concesso dalle leggi e faremo il necessario per assicurare che i dati personali ricevano sempre le misure di protezione appropriate. Per ulteriori informazioni, fare riferimento alla sezione \u201cAdobe trasferisce le informazioni personali oltre confine?\u201d\r\n\r\nSe i contenuti o le informazioni che l\u2019utente memorizza nei Servizi e nei Software di Adobe contengono informazioni personali di altri individui, l\u2019utente deve essere legalmente autorizzato a divulgare tali informazioni personali ad Adobe.\r\n\r\nRiepilogo dei punti chiave\r\n\u2022 Laddove \u00e8 richiesto il consenso dell'utente, otterremo la sua autorizzazione prima di (i) inviare notizie e materiale promozionale su Adobe; (ii) accedere alle informazioni memorizzate sul suo dispositivo in relazione all'uso e alla fruizione dell'utente di Servizi e Software (ad esempio, riunioni Adobe Connect) e segnalazioni sugli arresti anomali; (iii) analizzare i contenuti dell'utente. L'utente pu\u00f2 revocare il proprio consenso a tali attivit\u00e0 in qualsiasi momento.  Ulteriori informazioni.\r\n\u2022 Questa informativa fornisce spiegazioni sulle occasioni in cui trattiamo le informazioni personali per i nostri interessi legittimi. L'utente pu\u00f2 chiederci di interrompere il trattamento di queste informazioni. L'utente \u00e8 invitato ad acquisire maggiori informazioni sui propri diritti e su come pu\u00f2 esercitarli.\r\n\u2022 Utilizziamo le informazioni personali dell'utente per consentire la registrazione ad Adobe e per fornire all'utente i nostri Servizi e i nostri Software, oltre ad altri prodotti o servizi richiesti. Ulteriori informazioni.\r\n\u2022 Forniamo funzionalit\u00e0 interattive che interagiscono con siti di social network come Facebook. Se si utilizzano tali funzionalit\u00e0, questi siti ci invieranno informazioni personali sull'utente. Ulteriori informazioni.\r\n\u2022 Utilizziamo i cookie e altre tecnologie per monitorare l'utilizzo dei nostri Servizi e dei nostri Software. Per informazioni sulle opportunit\u00e0 di scelta di non consentire i cookie, fare clic qui. Se l'utente sta utilizzando il nostro sito Web in un browser, questa informazione \u00e8 disponibile anche nella nostra Politica dei cookie.\r\n\u2022 Esistono diversi spazi all'interno dei Servizi e dei Software di Adobe che consentono di pubblicare commenti, caricare immagini o inviare contenuti, che saranno disponibili pubblicamente se si sceglie di partecipare a tali attivit\u00e0. Divulghiamo anche informazioni personali ad altre aziende della famiglia Adobe e verso partner pubblicitari e di vendita coerenti con le scelte dell'utente. Divulghiamo le informazioni a terze parti che sono da noi coinvolte al fine di trattare le informazioni personali per nostro conto qualora tale divulgazione sia richiesta dalla legge o in ulteriori determinate situazioni. Ulteriori informazioni.\r\n\u2022 Trasferiamo le informazioni personali dell'utente negli Stati Uniti e in altri paesi, che potrebbero trovarsi al di fuori del paese in cui l'utente vive. Utilizziamo clausole contrattuali approvate dai governi, come le clausole contrattuali standard approvate dalla Commissione europea, per proteggere le informazioni personali dell\u2019utente. Ulteriori informazioni.\r\n\r\nCosa rientra nell'ambito dell'informativa sulla privacy?\r\nQuali dati personali vengono raccolti da Adobe?\r\nIn che modo Adobe usa le informazioni che raccoglie sull'utente e quali sono le basi legali per questi usi?\r\nAdobe divulga le informazioni personali dell\u2019utente ad altri?\r\nLe informazioni personali dell\u2019utente sono visualizzate ovunque all\u2019interno delle app o dei siti Web di Adobe?\r\nLe informazioni personali dell\u2019utente sono protette?\r\nDove sono conservate le informazioni personali dell\u2019utente?\r\nAdobe trasferisce le informazioni personali oltre confine?\r\nQuali diritti ha l\u2019utente in merito alle proprie informazioni personali e come pu\u00f2 esercitarli?\r\nQuali diritti ha l\u2019utente nel proprio Stato?\r\nRevoca del consenso o altra contestazione del marketing diretto\r\nQuali informazioni vengono raccolte dalle aziende che utilizzano le soluzioni Adobe Experience Cloud?\r\nPer quanto tempo Adobe conserva le informazioni dell\u2019utente?\r\nI bambini possono utilizzare i siti Web e le app di Adobe?\r\nLa presente informativa sulla privacy subir\u00e0 modifiche?\r\nA chi pu\u00f2 rivolgersi l\u2019utente in caso di domande o dubbi?\r\n\r\n\r\nCosa rientra nell\u2019ambito dell\u2019informativa sulla privacy?\r\n\r\nQuesta informativa sulla privacy descrive in che modo Adobe (indicata anche come \u201cnoi\u201d o \u201cnostro\u201d) utilizzer\u00e0 le informazioni dell'utente nel contesto di:\r\n\u2022 Siti Web di Adobe; servizi basati sul Web come Behance; nonch\u00e9 aspetti basati sul Web di Creative Cloud, Document Cloud ed Experience Cloud (insieme denominati \u201csiti Web\u201d);\r\n\u2022 Servizi che presentano o includono un riferimento alla presente informativa;\r\n\u2022 Pratiche di Adobe relative al marketing, alle vendite e alla pubblicit\u00e0; e\r\n\u2022 Pratiche relative alla privacy delle societ\u00e0 precedentemente acquisite, se non diversamente specificato qui.\r\n\r\nSi noti che i siti Web e le app fornite da alcune aziende acquisite da Adobe possono operare in base alle proprie informative sulla privacy fino a quando tali informative non saranno integrate con le informative sulla privacy di Adobe. Per un elenco aggiornato di queste aziende, fare clic qui. Ulteriori informazioni relative alla privacy per determinati Servizi e Software Adobe sono disponibili nella seguente tabella:\r\n\r\nAdobe\u00ae Digital Editions\r\nAcrobat Sign\r\nAdobe Stock\r\nAdobe Fonts\r\nFlash\u00ae Player\r\nAdobe Express Local Ambassador Program\r\nAcrobat\r\n\t\t\r\nConsultare inoltre le Condizioni d'uso di Adobe ed eventuali ulteriori Condizioni d'uso o Accordi di licenza del prodotto applicabili ai Servizi o ai Software utilizzati.\r\n\r\n \r\nQuali informazioni personali dell\u2019utente vengono raccolte da Adobe?\r\n\r\nAdobe ID, iscrizione e assistenza clienti\r\nQuando l\u2019utente si iscrive per utilizzare un Servizio Adobe, crea un Adobe ID, acquista una licenza dei nostri Servizi e Software oppure ci contatta per richiedere assistenza o essere informato sulle offerte, Adobe raccoglie informazioni che identificano l\u2019utente. tra cui:\r\n\r\nInformazioni di contatto e identificativi, come:\r\n\u2022 Nome;\r\n\u2022 Indirizzo e-mail;\r\n\u2022 Numero di telefono;\r\n\u2022 Recapito postale o indirizzo;\r\n\u2022 Paese.\r\n\r\nInformazioni commerciali e sulle transazioni, come:\r\n\u2022 Informazioni di pagamento/fatturazione (dove una app o un sito Web sia a pagamento);\r\n\u2022 Licenze acquistate;\r\n\u2022 Informazioni sull\u2019ammissibilit\u00e0 (ad esempio gli identificativi di studenti e docenti per le edizioni di app dedicate a studenti e docenti);\r\n\u2022 Contenuto e informazioni fornite attraverso l\u2019assistenza clienti e altre comunicazioni (ad esempio, chiamate registrate dell\u2019assistenza tecnica e dell\u2019assistenza clienti e contenuto memorizzato relativo alle comunicazioni con Adobe tramite il nostro sito Web, le funzionalit\u00e0 di chat, chiamate telefoniche, videochiamate, e-mail e altri canali);\r\n\u2022 Tipi di Servizi e Software di interesse.\r\n\r\nInformazioni su professione, istruzione e altre informazioni demografiche, come:\r\n\u2022 Data di nascita;\r\n\u2022 Nome dell\u2019azienda o della scuola;\r\n\u2022 Titolo;\r\n\u2022 Occupazione;\r\n\u2022 Ruolo professionale;\r\n\u2022 Competenza;\r\n\u2022 Dettagli dell'azienda, come dimensioni, settore e altre informazioni sull'azienda in cui un utente pu\u00f2 lavorare (nel caso in cui l'utente abbia fornito il nome dell'azienda).\r\n\r\nAnalisi o altre attivit\u00e0 di rete elettroniche, come: \r\n\u2022 Indirizzo IP;\r\n\u2022 Browser;\r\n\u2022 ID dispositivo mobile;\r\n\u2022 Estensioni del browser collegate agli account Adobe dell\u2019utente.\r\n\r\n\r\nInformazioni dedotte\r\nPer aiutare a mantenere aggiornati i nostri database e fornire all\u2019utente i contenuti e le esperienze pi\u00f9 pertinenti, potremmo dedurre o generare informazioni sulla base di informazioni fornite dall\u2019utente o combinandole con quelle provenienti da fonti di terze parti, ai sensi delle leggi vigenti. Ad esempio, le dimensioni, il settore e altre informazioni sull\u2019azienda per cui l\u2019utente lavora (laddove l\u2019utente abbia fornito il nome dell\u2019azienda) saranno ottenute da fonti che includono siti di network professionali e fornitori di servizi di informazioni. Potremmo anche dedurre, generare o raccogliere e ricevere informazioni da terze parti, inclusi partner, e da fonti accessibili pubblicamente, per scopi che includono la rilevazione, la prevenzione o altro trattamento di attivit\u00e0 fraudolente, ingannevoli o illegali, dell\u2019uso improprio dei nostri Servizi e Software, di problemi tecnici o di sicurezza, nonch\u00e9 la tutela dai danni ai diritti, propriet\u00e0 o protezione di Adobe e dei nostri dipendenti, dei nostri utenti, dei bambini o del pubblico.\r\n \r\n\r\nServizi e Software di Adobe\r\nRaccogliamo le informazioni che l\u2019utente fornisce per l\u2019utilizzo (ad esempio, quando accede e utilizza i nostri Servizi e Software) o che l\u2019utente ci permette di raccogliere (ad esempio, come parte di un\u2019integrazione di terze parti). Raccogliamo o generiamo inoltre informazioni su come i nostri Servizi e i nostri Software vengono utilizzati, incluso l\u2019utilizzo di una funzionalit\u00e0 di una app desktop o mobile che indirizza l\u2019utente online (come ad esempio una funzionalit\u00e0 di sincronizzazione delle fotografie). A seconda dei Servizi e Software a cui l\u2019utente accede e che utilizza, queste informazioni possono essere associate al dispositivo o al browser o possono essere associate all\u2019account Adobe dell\u2019utente o al suo contenuto. Le informazioni includono:\r\n\r\nAnalisi o altre attivit\u00e0 di rete elettroniche, come:\r\n\u2022 Indirizzo IP;\r\n\u2022 Informazioni sul browser e sul dispositivo, inclusi tipo di browser e dispositivo, impostazioni, identificatori univoci, versione, impostazioni della lingua e configurazione;\r\n\u2022 Pagina Web che conduce a un sito Web di Adobe;\r\n\u2022 I termini di ricerca inseriti in un motore di ricerca che conducono a un sito Web di Adobe;\r\n\u2022 Utilizzo e navigazione di Servizi e Software, incluso il modo in cui l\u2019utente interagisce con i siti Web di Adobe (informazioni raccolte tramite cookie e tecnologie simili o dai server Adobe quando l\u2019utente effettua l\u2019accesso all\u2019app o al sito Web);\r\n\u2022 Analisi dell\u2019utilizzo e navigazione dei Servizi e Software nonch\u00e9 dei contenuti.\r\n\r\nInformazioni su professione, istruzione e altre informazioni demografiche, come:\r\n\u2022 Informazioni sul profilo (ad esempio, profilo account, profilo pubblico, profilo Behance).\r\n\r\nInformazioni commerciali e sulle transazioni, come:\r\n\u2022 Contenuto che include informazioni personali inviate o ricevute utilizzando una funzionalit\u00e0 online dei servizi e del software Adobe o archiviate sui server Adobe, come documenti, foto, video, registri delle attivit\u00e0, feedback diretto da parte dell'utente, metadati sui contenuti, richieste generate dall'utente, come termini di ricerca, suggerimenti (ad esempio testo, immagini, video, audio e cos\u00ec via), richieste, feedback e altre informazioni che potrebbero essere divulgate quando si accede o si utilizzano i nostri Servizi e Software, nonch\u00e9 qualsiasi informazione che i Servizi e Il Software restituiscono in risposta a tali richieste.\r\n\r\nInformazioni personali sensibili, come:\r\n\u2022 Identificatori biometrici o informazioni delineate dalle leggi degli Stati Uniti (ad esempio, impronte facciali e impronte vocali dal Contenuto dell\u2019utente, come definito nelle Condizioni d\u2019uso generali di Adobe) e geolocalizzazione precisa. Ove richiesto dalla legge, chiederemo all\u2019utente tutte le autorizzazioni necessarie prima di tale raccolta. Per ulteriori informazioni consultare le seguenti sezioni: \u201cAzioni di Adobe per conto dell\u2019utente\u201d e \u201cCome analizziamo i tuoi contenuti per fornire le funzionalit\u00e0 da te richieste\u201d. \r\n\r\nI seguenti collegamenti forniscono ulteriori informazioni su:\r\n\u2022 Programma di perfezionamento prodotti Adobe;\r\n\u2022 Domande frequenti relative alle informazioni sulla diagnostica e sull'utilizzo delle app Creative Cloud, Document Cloud e Substance\r\n\u2022 Domande frequenti sull\u2019utilizzo di Experience Cloud;\r\n\u2022 Software originale Adobe;\r\n\u2022 Opzioni sulla privacy dell'utente relative al modo in cui tali informazioni vengono utilizzate;\r\n\u2022 Prodotti e servizi Adobe concessi in licenza da istituzioni educative;\r\n\u2022 Come Adobe usa i cookie e tecnologie simili; e\r\n\u2022 Come Adobe analizza i contenuti degli utenti mediante tecniche quali l'apprendimento automatico al fine di migliorare i propri Servizi e i propri Software e come revocare il consenso.\r\n     \r\n\r\nAttivazione e aggiornamento automatico del Software Adobe\r\n\u2022 Quando l\u2019utente attiva il Software Adobe o quando installa gli aggiornamenti del Software, raccogliamo analisi o altre informazioni sull\u2019attivit\u00e0 di rete elettroniche, come: il dispositivo dell\u2019utente (produttore, modello, indirizzo IP);\r\n\u2022 il Software Adobe (versione, data di attivazione, aggiornamenti riusciti e non riusciti);\r\n\u2022 il numero di serie del prodotto (laddove sia necessario prima di poter iniziare a utilizzare il prodotto).\r\n\r\nL'utente pu\u00f2 trovare maggiori informazioni sull'attivazione dell'app qui.\r\n\r\n\r\nE-mail di Adobe\r\nLe e-mail che inviamo agli utenti possono includere una tecnologia (denominata Web beacon) che raccoglie analisi o altre attivit\u00e0 di rete elettroniche per indicare ad Adobe se il messaggio \u00e8 stato ricevuto o aperto o se \u00e8 stato fatto clic sul collegamento contenuto nell\u2019e-mail. Se non si desidera che Adobe raccolga queste informazioni dalle e-mail di marketing \u00e8 possibile rifiutare esplicitamente di ricevere le e-mail di marketing di Adobe.\r\n\r\n\r\nPubblicit\u00e0 online di Adobe\r\nAdobe pubblicizza online in vari modi, ad esempio mostrando all\u2019utente annunci Adobe su siti Web e app di altre aziende e su piattaforme di social network, come Facebook e LinkedIn. I siti Web di Adobe utilizzano cookie, pixel e tecnologie simili fornite dalla nostra azienda (Adobe Experience Cloud) e da altre aziende che ci consentono di raccogliere ulteriori informazioni per misurare e migliorare l'efficacia della nostra pubblicit\u00e0. Raccogliamo analisi o altre attivit\u00e0 di rete elettroniche quali:\r\n\u2022 Quali annunci vengono visualizzati\r\n\u2022 Su quali annunci \u00e8 stato fatto clic \r\n\u2022 Dove \u00e8 stato visualizzato l'annuncio \r\n\r\nUlteriori informazioni sulle pratiche pubblicitarie di Adobe.\r\n \r\n\r\nPulsanti, strumenti e contenuti da altre aziende\r\nI Servizi e i Software di Adobe possono includere pulsanti, strumenti o contenuti che rimandano ai servizi di altre aziende (ad esempio un pulsante \u201cMi piace\u201d di Facebook). Potremmo raccogliere informazioni sull'utilizzo da parte dell'utente di queste funzionalit\u00e0, come, ad esempio, i contenuti che ricevono i \u201cMi piace\u201d e le informazioni sugli indirizzi in Google Maps. Inoltre, quando si visualizza o si interagisce con questi pulsanti, strumenti o contenuti, o si visualizza una pagina Web o una app di Adobe che li contiene, alcune informazioni potrebbero essere inviate automaticamente dal browser all'altra azienda. Per ulteriori informazioni si rimanda all'informativa sulla privacy dell'altra azienda. \r\n\r\nI siti Web Adobe possono implementare Google reCAPTCHA Enterprise per aiutare a prevenire spam e utilizzi illeciti. reCAPTCHA Enterprise raccoglie informazioni sull\u2019hardware e sul software, come dati di dispositivi e applicazioni, e le invia a Google allo scopo di fornire, mantenere e migliorare reCAPTCHA Enterprise e per finalit\u00e0 di sicurezza generale. L\u2019utilizzo di reCAPTCHA Enterprise \u00e8 soggetto all\u2019Informativa sulla privacy e ai Termini di servizio di Google.\r\n\r\n\r\nPagine Adobe sui social network e servizi di accesso social\r\nL\u2019utente pu\u00f2 accedere ad alcuni Servizi o Software di Adobe utilizzando l\u2019account di un social network, ad esempio un account Facebook. Laddove l\u2019utente fornisca le autorizzazioni necessarie, riceveremo informazioni sull\u2019utente dal suo account di social network, come il nome, il Paese e dati demografici di base.\r\n\r\nAdobe mantiene pagine proprie su diversi siti di social networking (ad esempio la pagina su Facebook del team Adobe\u00ae Photoshop\u00ae). Raccoglieremo informazioni che l'utente ha reso disponibili pubblicamente sul proprio account di social network, ad esempio nome e interessi nei nostri prodotti e servizi, quando l'utente interagisce con le nostre pagine di social network. I siti di social networking forniscono ad Adobe statistiche e informazioni dettagliate che ci aiutano a comprendere i tipi di azioni eseguiti dagli utenti sulle nostre pagine. Ove applicabile, Adobe e i siti dei social network hanno stipulato un accordo che determina le rispettive responsabilit\u00e0.\r\n\r\nL'utente pu\u00f2 trovare maggiori informazioni sulle pratiche di Adobe relative alle pagine di social networking e ai servizi di accesso agli account qui. \r\n\r\n \r\nAzioni di Adobe per conto dell'utente\r\nIn determinati casi, Adobe agisce solo per conto dell\u2019utente per le informazioni personali raccolte ed elaborate dai nostri servizi (ad esempio, per i contatti della rubrica condivisi dagli utenti durante l\u2019immissione delle informazioni del destinatario). In tali casi, Adobe agisce esclusivamente sulla base delle indicazioni dell\u2019utente al fine di facilitare il servizio richiesto, e l\u2019utente sar\u00e0 responsabile delle informazioni condivise. In tali occasioni, informeremo l'utente tramite notifiche in-app o altre comunicazioni tempestive. Qualora l'utente invii informazioni relative ad altre persone a noi o ai nostri fornitori di servizi in relazione all'uso di app e siti Web di Adobe, lo stesso dichiara in tal modo di avere l'autorit\u00e0 per farlo e per consentirci di utilizzare le informazioni in conformit\u00e0 con questa informativa.\r\n\r\n\r\nCome analizziamo i tuoi contenuti per fornire le funzionalit\u00e0 da te richieste\r\nAdobe offre alcune funzionalit\u00e0 che consentono all'utente di modificare e organizzare fotografie, video e altri tipi di contenuto utilizzando caratteristiche come il volto e la voce (ad esempio, \u00e8 possibile raggruppare volti, luoghi e caratteristiche di immagine simili all'interno di una raccolta) e tali caratteristiche potrebbero essere considerate identificatori biometrici o dati biometrici ai sensi di alcune leggi statunitensi o altre leggi sulla privacy applicabili. Quando l'utente decide di utilizzare queste funzionalit\u00e0, Adobe agisce esclusivamente sulla base delle indicazioni dell'utente al fine di facilitare il servizio richiesto da quest'ultimo, il quale avr\u00e0 la responsabilit\u00e0 delle informazioni condivise. Queste funzionalit\u00e0 sono disattivate per impostazione predefinita e qualora l\u2019utente decida di abilitarle, ha sempre la possibilit\u00e0 di disabilitarle. Laddove vengano elaborati identificatori biometrici o informazioni biometriche per fornire una funzionalit\u00e0 richiesta dall\u2019utente, tali informazioni saranno eliminate una volta disattivata la funzionalit\u00e0, se non diversamente specificato nel Software o nei Servizi. \r\n\r\n\r\nVisite presso i nostri uffici fisici\r\nQuando l\u2019utente visita un ufficio Adobe, raccogliamo identificatori e informazioni di contatto come nome, ragione sociale e indirizzo e-mail, oltre a informazioni audio, elettroniche, visive o simili, comprese immagini facciali e informazioni vocali come video CCTV o registrazioni vocali e foto.\r\n\r\n\r\nIn che modo Adobe utilizza le informazioni che raccoglie sull\u2019utente e quali sono le basi legali per questi utilizzi?\r\n\r\nAdobe utilizza le informazioni che raccoglie sull'utente per i seguenti scopi:\r\n\u2022 Adempiere a un contratto o adottare misure collegate a un contratto: ci\u00f2 \u00e8 rilevante nel caso in cui l'utente si registri per utilizzare un'app o un sito Web Adobe (a pagamento o come versione di prova gratuita). Questo include:\r\n    \u25e6 Fornire i Servizi e i Software di Adobe per i quali l'utente si \u00e8 registrato, nonch\u00e9 qualsiasi ulteriore servizio o prodotto richiesto dall'utente;\r\n    \u25e6 Fornire corsi su competenze/conoscenza relativa a prodotti o piattaforme e altri contenuti, inclusi test e certificazioni (a seconda dei casi);\r\n    \u25e6 Verificare l'identit\u00e0 dell'utente;\r\n    \u25e6 Elaborare i pagamenti;\r\n    \u25e6 Inviare all'utente comunicazioni necessarie (ad esempio, relative ai pagamenti o alla scadenza dell'abbonamento);\r\n    \u25e6 Fornire assistenza o supporto ai clienti.\r\n\u2022 Come richesto da Adobe per condurre la nostra attivit\u00e0 e perseguire i nostri legittimi interessi, in particolare:\r\n    \u25e6 Fornire i Servizi e i Software di Adobe per i quali l'utente si \u00e8 registrato, nonch\u00e9 qualsiasi ulteriore prodotto o servizio richiesto dall'utente;\r\n    \u25e6 Analizzare l'utilizzo e misurare l'efficacia dei nostri Servizi e Software, incluse le registrazioni, per una migliore comprensione di come vengono utilizzati al fine di migliorarli e coinvolgere e fidelizzare gli utenti;\r\n    \u25e6 Inviare all'utente informazioni su prodotti e servizi di Adobe, offerte speciali e informazioni simili e condividere le informazioni dell'utente con terze parti per i loro scopi di marketing (se il consenso dell'utente non \u00e8 richiesto);\r\n    \u25e6 Analizzare l\u2019utilizzo dell\u2019utente e la navigazione dei nostri Servizi e Software, i contenuti dell\u2019utente, le informazioni di profilo e la sua interazione con le nostre comunicazioni mediante metodi automatici (ad esempio l'apprendimento automatico) e manuali per personalizzare, realizzare su misura e migliorare i Servizi e i Software e le comunicazioni di marketing (ulteriori informazioni) (laddove non \u00e8 richiesto il consenso dell\u2019utente);\r\n    \u25e6 Analizzare l'utilizzo e la navigazione dei nostri Servizi e Software, nonch\u00e9 i contenuti dell'utente e i metadati relativi ai contenuti dell'utente attraverso metodi automatici (ad esempio, l'apprendimento automatico) e manuali per:\r\n        - Rilevare e prevenire attivit\u00e0 fraudolente, ingannevoli o illegali o l'uso improprio dei nostri Servizi e Software (laddove non \u00e8 richiesto il consenso dell\u2019utente)\r\n        - Migliorare i nostri Servizi e Software e l'esperienza dell'utente (laddove non \u00e8 richiesto il consenso dell\u2019utente e in base alle impostazioni che potremmo fornire, comprese quelle descritte qui);\r\n    \u25e6 Diagnosticare problemi nei nostri Servizi e nei nostri Software;\r\n    \u25e6 Rilevare, prevenire o altrimenti affrontare attivit\u00e0 fraudolente, ingannevoli o illegali e l\u2019uso improprio dei Servizi e Software, problemi di sicurezza o di natura tecnica, nonch\u00e9 proteggere da danni ai diritti, alla propriet\u00e0 o alla sicurezza di Adobe, dei nostri utenti o del pubblico;\r\n    \u25e6 Condurre sondaggi e ricerche di mercato sui nostri clienti, i loro interessi, l'efficacia delle nostre campagne di marketing e la soddisfazione del cliente (a meno che non sia necessario ottenere il consenso per condurre tali sondaggi, nel qual caso lo faremo solo con il permesso dell'utente);\r\n    \u25e6 Indagare e rispondere a qualsiasi commento o reclamo che l'utente possa inviarci;\r\n    \u25e6 Verificare la validit\u00e0 del codice di avviamento bancario, del numero di conto e del numero di carta che l\u2019utente invia se il pagamento viene effettuato tramite carta di credito o di debito, al fine di prevenire frodi o altre pratiche di pagamento illegali o ingannevoli (per questi servizi ci serviamo di terze parti; vedere \u201cAdobe divulga le informazioni personali dell\u2019utente ad altri?\u201d di seguito); \r\n    \u25e6 Condividere i dati dell'account registrato con un indirizzo e-mail aziendale con i datori di lavoro ai fini della migrazione dell'account;\r\n    \u25e6 Combinare altri dati che potremmo avere riguardo alle interazioni dell\u2019utente con i nostri prodotti e servizi quando questi sia disconnesso o connesso, al fine di fornire un\u2019esperienza pi\u00f9 fluida, mostrare i contenuti e i servizi pi\u00f9 pertinenti e per scopi di marketing, con il debito consenso ove necessario;\r\n    \u25e6 In caso di fusione o acquisizione da parte un\u2019altra azienda, di vendita di un sito Web, una app o una business unit di Adobe, oppure se tutte o una parte sostanziale delle nostre risorse dovessero venire acquisite da un\u2019altra azienda, le informazioni dell\u2019utente verrebbero divulgate ai potenziali acquirenti, ai nostri consulenti e ai consulenti di ogni altro potenziale acquirente e costituirebbero parte delle risorse trasferite al nuovo proprietario; e\r\n    \u25e6 In connessione con rivendicazioni legali, conformit\u00e0, scopi normativi e investigativi, se necessario (compresa la divulgazione di informazioni in relazione a richieste governative, procedimenti legali o contenziosi).\r\n\r\nLaddove elaboriamo le informazioni dell'utente sulla base di interessi legittimi, l'interessato, in determinate circostanze, pu\u00f2 opporsi a tale elaborazione. In tali casi, cesseremo di elaborare le informazioni salvo la presenza di motivi legittimi per continuare o laddove sia reso necessario da motivi legali.\r\n\r\nSe l'interesse legittimo non \u00e8 una base giuridica disponibile in una determinata giurisdizione, svolgeremo le attivit\u00e0 di trattamento sopra descritte su una base giuridica disponibile in quella particolare giurisdizione.\r\n\r\n\u2022 Laddove richiesto. quando l\u2019utente fornisca ad Adobe il suo consenso o in altro modo coerente con le scelte dell\u2019utente:\r\n    \u25e6 Inviare all\u2019utente informazioni su prodotti e servizi Adobe, offerte speciali e informazioni simili e condividere le informazioni dell\u2019utente con terze parti per i propri scopi di marketing;\r\n    \u25e6 Inserire cookie e utilizzare tecnologie simili nei nostri Servizi o Software e nelle comunicazioni via e-mail, in conformit\u00e0 con la nostra Politica dei cookie e con le informazioni fornite all'utente quando tali tecnologie vengono utilizzate;\r\n    \u25e6 Accedere alle informazioni memorizzate sul dispositivo in relazione all'utilizzo e la fruizione da parte dell'utente di Servizi e Software (ad esempio, riunioni Adobe Connect) e segnalazioni sugli arresti anomali;\r\n    \u25e6 Accedere alle informazioni memorizzate sul dispositivo dell'utente, che l'utente ci consente di ricevere attraverso le impostazioni del dispositivo (ad esempio foto, posizione e fotocamera) al fine di fornire determinate funzionalit\u00e0 all'interno dei nostri Servizi e Software;\r\n    \u25e6 Analizzare l\u2019utilizzo dell\u2019utente e la navigazione dei Servizi e Software, nonch\u00e9 i contenuti e metadati sui contenuti attraverso tecniche come l\u2019apprendimento automatico, al fine di rilevare e prevenire attivit\u00e0 fraudolente, ingannevoli o illegali o l\u2019uso improprio dei nostri Servizi e Software e migliorare i nostri servizi e l\u2019esperienza dell\u2019utente; e\r\n    \u25e6 Consentire all'utente di partecipare a lotterie, concorsi e promozioni simili e di gestire tali attivit\u00e0.\r\n\r\nIn altre occasioni in cui chiediamo il consenso dell'utente, useremo le informazioni per gli scopi definiti in tali occasioni. Laddove ci basiamo sul consenso all\u2019elaborazione delle informazioni, l\u2019utente pu\u00f2 ritirare il consenso a tali attivit\u00e0 in qualsiasi momento.\r\n\r\n\u2022 Per motivi legali:\r\n    \u25e6 Rispondere alle richieste del governo o delle forze dell'ordine che conducono un'indagine;\r\n    \u25e6 Utilizzare o divulgare informazioni secondo ragionevole necessit\u00e0 al fine di rilevare, prevenire o altrimenti affrontare frodi, problemi di sicurezza, attivit\u00e0 potenzialmente illegali o ingannevoli, l\u2019uso improprio dei Servizi e Software o problemi tecnici e pirateria software (ad esempio, per confermare che il software sia originale e debitamente autorizzato), contribuendo a proteggere l\u2019utente e Adobe.\r\n\r\nLaddove questo trattamento e queste informazioni non siano strettamente richiesti dalla legge, Adobe pu\u00f2 basarsi sui propri interessi legittimi, laddove disponibili, e su quelli di terzi sopra descritti.\r\n\r\n \r\nAdobe divulga le informazioni personali dell\u2019utente ad altri?\r\n\r\nDivulgazione ad altri titolari del trattamento dei dati\r\nLe informazioni personali dell\u2019utente saranno divulgate all\u2019interno della famiglia di aziende Adobe per gli scopi sopra identificati (consultare un elenco delle entit\u00e0 Adobe e delle societ\u00e0 acquisite).\r\n\r\nLe informazioni personali dell\u2019utente saranno inoltre divulgate a terze parti titolari del trattamento dei dati con il consenso (ove necessario) dell\u2019utente o per fornire qualsiasi prodotto o servizio da questi richiesto (ad esempio, integrazioni di terze parti). le terze parti a cui possono essere divulgati i dati dell\u2019utente includono: i nostri concessionari e altri partner commerciali e pubblicitari, rivenditori, pubblicitari, agenzie di pubblicit\u00e0, reti e piattaforme pubblicitarie, fornitori di servizi informativi, fornitori di prevenzione e monitoraggio delle frodi, editori. In alcuni casi, al fine di mostrare all\u2019utente annunci pi\u00f9 pertinenti, possono essere divulgate informazioni a piattaforme di social media e altri partner pubblicitari riguardo ad azioni che l\u2019utente intraprende sui nostri siti Web e app, come ad esempio quali pagine visita e quali annunci ha visto. Tali soggetti possono essere contitolari del trattamento dei dati. Ulteriori informazioni sono disponibili qui.\r\n\r\nI responsabili di dati di terze parti possono inoltre utilizzare prodotti e servizi Adobe per raccogliere ed elaborare le informazioni personali dell'utente. Se l'utente utilizza un indirizzo e-mail associato a un dominio aziendale (ad esempio nome@indirizzoaziendale.com) per accedere ai Servizi e ai Software di Adobe o se \u00e8 invitato a utilizzare i Servizi e i Software di Adobe da un'azienda, \u00e8 possibile che Adobe fornisca a quell'azienda le informazioni personali dell'utente.\r\n \r\n\r\nCondivisione a scopo di prevenzione, sicurezza e protezione\r\nDivulgheremo le informazioni personali alle societ\u00e0 che ci aiutano a gestire la nostra attivit\u00e0 per rilevare, prevenire o altrimenti affrontare frodi, attivit\u00e0 ingannevoli o illegali, uso improprio dei Servizi e Software Adobe e problemi tecnici o di sicurezza.\r\n\r\nSaranno inoltre divulgate le informazioni personali ad aziende, organizzazioni, autorit\u00e0 governative o soggetti esterni ad Adobe qualora Adobe ritenga in buona fede che l\u2019accesso, l\u2019uso, la conservazione o la divulgazione delle informazioni sia ragionevolmente necessaria per rilevare, prevenire o tutelare da attivit\u00e0 fraudolente, ingannevoli o illegali, dall\u2019uso improprio dei nostri Servizi e Software o problemi tecnici o di sicurezza, o laddove tale divulgazione sia ragionevolmente necessaria per proteggere dai danni ai diritti, propriet\u00e0 o per la protezione di Adobe e dei nostri dipendenti, utenti, i bambini o il pubblico, come richiesto o consentito dalla legge.\r\n \r\n\r\nDivulgazione ai responsabili del trattamento\r\nSaranno inoltre divulgate le informazioni personali dell\u2019utente ad aziende che ci aiutano a gestire la nostra attivit\u00e0 elaborando informazioni personali per conto di Adobe per gli scopi sopra identificati. Tali societ\u00e0 (comprese quelle che possono registrare o archiviare comunicazioni) includono fornitori di servizi di assistenza clienti, chatbot, partner di riproduzione di sessioni che forniscono servizi che ricreano una sessione Web o app mostrando informazioni significative sull'esperienza di un visitatore, fornitori di tecnologie di analisi che registrano e analizzano l'interazione dell'utente con i nostri siti Web per aiutarci a migliorare l'esperienza d'uso, fornitori di tecnologie di intelligenza artificiale che registrano e analizzano i contenuti o le comunicazioni dell'utente, servizi di elaborazione dei pagamenti, monitoraggio e prevenzione delle frodi, rilevamento e prevenzione di attivit\u00e0 ingannevoli o illegali o uso improprio dei nostri Servizi e Software, e-mail, social media e altre piattaforme di marketing, fornitori di servizi e servizi di hosting. Richiediamo a queste aziende di proteggere le informazioni personali dell\u2019utente in conformit\u00e0 con la presente Informativa sulla privacy.\r\n\r\n\r\nDivulgazione di altre informazioni\r\nAdobe pu\u00f2 inoltre divulgare le informazioni personali dell\u2019utente:\r\n\u2022 Quando l\u2019utente acconsente alla divulgazione;\r\n\u2022 Quando riteniamo in buona fede di essere tenuti a fornire informazioni in risposta a una citazione, un\u2019ordinanza del tribunale o altra legge applicabile o procedimento legale (ulteriori informazioni) o per rispondere a un\u2019emergenza che comporti pericolo di morte o gravi lesioni personali;\r\n\u2022 In caso di fusione o acquisizione da parte un\u2019altra azienda, di vendita di un sito Web, un\u2019app o una business unit di Adobe, oppure se tutte o una parte sostanziale delle nostre risorse dovessero venire acquisite da un\u2019altra azienda, le informazioni dell\u2019utente verrebbero divulgate ai potenziali acquirenti, ai nostri consulenti e ai consulenti di ogni altro potenziale acquirente e costituirebbero parte delle risorse trasferite al nuovo proprietario.\r\n\r\nPotremmo condividere o pubblicare in forma aggregata informazioni che non identificano specificamente l\u2019utente, come informazioni statistiche sui visitatori dei nostri siti Web o informazioni statistiche su come i clienti utilizzano Adobe Experience Cloud.\r\n \r\n\r\nLe informazioni personali dell\u2019utente sono pubblicate sui siti Web e sulle applicazioni di Adobe?\r\nEsistono diversi spazi all'interno dei Servizi e dei Software di Adobe che consentono di pubblicare commenti, caricare immagini, partecipare a bacheche o chat, interagire con blog, condividere informazioni tecniche o inviare altri contenuti affinch\u00e9 altri possano visualizzarli. Talvolta \u00e8 possibile limitare la visualizzazione del materiale condiviso, tuttavia vi sono situazioni in cui ci\u00f2 che si condivide pu\u00f2 essere visualizzato dal pubblico o da altri utenti del servizio. Tali informazioni possono apparire nei risultati dei motori di ricerca o tramite altre piattaforme disponibili pubblicamente e possono essere \u201csottoposte a ricerca per indicizzazione\u201d o cercate da terze parti. Ad esempio, quando gli utenti pubblicano contenuti su bacheche, chat online, blog e forum della community, le informazioni pubblicate dall'utente diventano pubbliche. Alcuni contenuti online possono rimanere accessibili pubblicamente anche dopo che Adobe ha soddisfatto la richiesta di eliminare le informazioni personali dell'autore.\r\n\r\nOccorre prestare attenzione quando si condividono i dati personali. Non condividere ci\u00f2 che non si desidera rivelare pubblicamente a meno che non si sia sicuri che il sito Web o la app su cui si effettua la pubblicazione permetta di controllare chi pu\u00f2 visualizzare il materiale pubblicato. Notare che quando si pubblicano messaggi in determinati forum utenti sui nostri siti Web e le nostre app, l'indirizzo e-mail, il nome e/o la foto del profilo dell'utente possono essere inclusi e visualizzati con il messaggio. \u00c8 possibile ottenere ulteriori informazioni sulla gestione del profilo pubblico dell'utente qui. Per rimuovere contenuti gi\u00e0 condivisi sui nostri Servizi o Software, utilizzare la stessa funzionalit\u00e0 utilizzata per condividere i contenuti. Avendo ricevuto un invito, da un altro utente, a condividere la visione, la modifica o l\u2019inserimento di commenti riguardanti dei contenuti, sebbene possa essere possibile cancellare i propri contributi, di solito l\u2019utente che ha inoltrato l\u2019invito ha il completo controllo sugli stessi. Nel caso di domande o dubbi l'utente \u00e8 pregato di contattarci.\r\n\r\n \r\nLe informazioni personali dell\u2019utente sono protette?\r\nCi impegniamo a fondo per proteggere le informazioni personali degli utenti. Ove necessario, adottiamo controlli di sicurezza amministrativi, tecnici e fisici, come crittografia, verifica in due passaggi e adeguati obblighi contrattuali di riservatezza per dipendenti e appaltatori.\r\n\r\n\r\nDove Adobe conserva le informazioni personali sull\u2019utente?\r\nI dati personali e i file dell\u2019utente sono memorizzati sui server di Adobe e sui server di aziende cui deleghiamo la fornitura di servizi al nostro posto.\r\n\r\n \r\nAdobe trasferisce le informazioni personali oltre confine?\r\nI luoghi principali in cui elaboriamo le informazioni personali dell'utente sono gli Stati Uniti e l'India, ma trasferiamo anche le informazioni personali in tutti gli altri Paesi in cui Adobe o le sue affiliate, i suoi fornitori e i suoi partner operano. Eseguiamo tali trasferimenti in conformit\u00e0 con le leggi applicabili, ad esempio mettendo in atto accordi di trasferimento dei dati per proteggere le informazioni personali dell'utente.\r\n\r\nSe risiede al di fuori del Nord America, il rapporto dell'utente \u00e8 con Adobe Ireland. Quando Adobe Ireland trasferisce le informazioni personali dell'utente in un paese che non rientra nello EEA e non \u00e8 soggetto a una decisione di adeguatezza da parte della Commissione UE, ci basiamo su uno o pi\u00f9 dei seguenti meccanismi legali: clausole contrattuali standard approvate dalla Commissione Europea e/o consenso dell'utente in determinate circostanze. Una copia del meccanismo pertinente pu\u00f2 essere fornita per la revisione dell\u2019utente su richiesta, utilizzando i dati di contatto forniti alla fine di questa Informativa sulla privacy. Per ulteriori informazioni su come Adobe Ireland trasferisce le informazioni personali degli utenti europei, vedere Trasferimenti di dati transfrontalieri.\r\n\r\nAdobe e le sue filiali statunitensi Marketo Inc, Magento (X-commerce, Inc) e Workfront Inc. sono conformi alla normativa UE-USA. Data Privacy Framework (EU-U.S. DPF), l'estensione del Regno Unito all'UE-U.S. DPF e Svizzera-USA. Data Privacy Framework (Swiss-U.S. DPF) come stabilito dal Dipartimento del Commercio degli Stati Uniti. Adobe ha inoltre certificato al Dipartimento del Commercio degli Stati Uniti l'adesione ai principi del quadro UE-USA sulla privacy dei dati (principi DPF UE-USA) per quanto riguarda il trattamento dei dati personali ricevuti dall'Unione Europea in base al DPF UE-USA e dal Regno Unito (e Gibilterra) sulla base dell\u2019estensione del Regno Unito al DPF UE-USA (e le sue filiali statunitensi Marketo Inc, Magento (X-commerce, Inc) e Workfront Inc). Adobe ha inoltre certificato al Dipartimento del Commercio degli Stati Uniti l'adesione ai principi del quadro svizzero-statunitense sulla privacy dei dati (principi DPF Svizzera-USA) per quanto riguarda il trattamento dei dati personali ricevuti dalla Svizzera in base al DPF Svizzera-USA e le sue filiali statunitensi Marketo Inc, Magento (X-commerce, Inc) e Workfront Inc. In caso di conflitto tra i termini della presente policy e i principi DPF UE-USA e/o i principi DPF Svizzera-USA, prevarranno i Principi. Gli impegni di Adobe ai sensi del quadro normativo sulla privacy dei dati sono soggetti ai poteri di indagine e di applicazione della Federal Trade Commission degli Stati Uniti. Per ulteriori informazioni sul programma del quadro normativo sulla privacy dei dati e per visualizzare la nostra certificazione, visitare https://www.dataprivacyframework.gov/s/.\r\n\r\nCome sopra indicato, Adobe utilizza un numero limitato di fornitori di servizi di terze parti per fornire i nostri servizi ai nostri utenti e clienti aziendali. Queste terze parti possono accedere, elaborare o archiviare dati personali nel corso della fornitura dei loro servizi. Adobe gestisce i contratti con queste terze parti limitando l'accesso, l'uso e la divulgazione dei dati personali in conformit\u00e0 agli obblighi del Quadro di riferimento per la privacy dei dati, comprese le disposizioni sul trasferimento successivo. Adobe \u00e8 inoltre responsabile se le terze parti non rispettano tali obblighi e risponde dell'evento che ha provocato il danno.\r\n\r\nLe informazioni sopra riportate si applicano agli utenti Adobe che sono consumatori. Sono disponibili ulteriori informazioni per i nostri clienti aziendali che vogliono saperne di pi\u00f9 sui trasferimenti di dati transfrontalieri.\r\n\r\n \r\nQuali diritti ha l\u2019utente in relazione alle proprie informazioni personali e come pu\u00f2 esercitarli?\r\nLaddove previsto dalla legge applicabile, l'utente potrebbe avere il diritto di richiederci una copia delle sue informazioni personali; per correggere, eliminare o limitare qualsiasi trattamento (interrompere quelli attivi) delle sue informazioni personali; per ottenere le informazioni personali che ci fornisce per un contratto o con il suo consenso in un formato strutturato, leggibile dalla macchina; per chiederci di condividere (trasferire) queste informazioni con un altro responsabile dei dati. L\u2019utente potrebbe avere diritto a ulteriori diritti in base alle leggi sulla privacy dei dati vigenti nella sua giurisdizione.\r\n\r\nInoltre, in determinate circostanze, l'utente pu\u00f2 opporsi al trattamento delle proprie informazioni personali (come, ad esempio, laddove usiamo le informazioni per il marketing diretto).\r\n\r\nQuesti diritti possono essere limitati, ad esempio, se adempiendo alla richiesta dell'utente si rivelassero informazioni personali su un'altra persona, o se l'utente ci chiede di eliminare informazioni che siamo tenuti a conservare per legge o a scopo di difesa contro reclami. I siti Web di Adobe riconoscono inoltre il Global Privacy Control disponibile in alcuni browser Web. Se il browser dell\u2019utente \u00e8 configurato per inviare questo segnale, Adobe disattiver\u00e0 l'uso da parte di Adobe stesso dei cookie pubblicitari su quel browser. \u00c8 comunque possibile ricevere ulteriori informazioni sulle pratiche pubblicitarie di Adobe e sulle scelte dell\u2019utente riguardo alla privacy qui. \r\n\r\nPer esercitare uno di questi diritti (compresa la disattivazione dell'account Adobe ID), l'utente pu\u00f2 mettersi in contatto con noi, o con il nostro responsabile della protezione dei dati, utilizzando i dati riportati di seguito. Inoltre, molti dei nostri Servizi e Software consentono di modificare le informazioni personali accedendo alle funzionalit\u00e0 \u201cmy account\u201d (il mio account), \u201cmy profile\u201d (il mio profilo) o a una funzionalit\u00e0 analoga del servizio che si sta utilizzando. Allo stesso modo, l'utente pu\u00f2 eliminare file o foto memorizzate nei Servizi o nei Software di Adobe accedendo e utilizzando le funzioni di eliminazione disponibili.\r\n\r\nIn caso di dubbi irrisolti, \u00e8 possibile segnalarli al garante della privacy locale o all'autorit\u00e0 di protezione dei dati e, ove applicabile, l'utente ha inoltre il diritto di presentare un reclamo all'autorit\u00e0 di controllo principale di Adobe Ireland, l'Irish Data Protection Commission.\r\n\r\nQuando viene chiesto di fornire informazioni personali, l\u2019utente pu\u00f2 rifiutare. Ed \u00e8 possibile utilizzare i controlli del browser Web o del sistema operativo per impedire determinati tipi di raccolta automatica dei dati. Tuttavia, se l\u2019utente sceglie di non fornire o consentire le informazioni necessarie per determinati servizi o funzionalit\u00e0, tali servizi o funzionalit\u00e0 potrebbero non essere disponibili o completamente funzionanti. Ad esempio, per registrarsi con Adobe, creare un Adobe ID e utilizzare alcuni Servizi e Software di Adobe, alcune informazioni devono essere fornite obbligatoriamente: se non vengono fornite le informazioni pertinenti, non saremo in grado di somministrare all\u2019utente un account Adobe o i Servizi e i Software richiesti. Altre informazioni facoltative, se non fornite, possono influire sulla nostra capacit\u00e0 di fornire un\u2019esperienza personalizzata o contenuti o offerte su misura.\r\n\r\n \r\nQuali diritti ha l\u2019utente nel proprio Stato?\r\nOltre ai suddetti diritti, per ulteriori informazioni consultare il California Consumer Privacy Rights.\r\n\r\n \r\nRevoca del consenso o altra contestazione del marketing diretto\r\nIl gruppo di aziende Adobe (consultare l'elenco delle entit\u00e0 Adobe e delle aziende acquisite) e quelle ingaggiate per aiutarci con il marketing dei nostri Servizi e dei nostri Software per nostro conto possono utilizzare i dati degli utenti per fornire informazioni e offerte relative ad Adobe. \r\n\r\nLaddove facciamo affidamento sul consenso dell'utente, questi sar\u00e0 sempre in grado di revocare tale consenso, sebbene potremmo avere altri motivi legali per l'elaborazione delle informazioni dell'utente per altri scopi, come quelli sopra indicati. In alcuni casi, siamo in grado di inviare all'utente marketing diretto senza il suo consenso, laddove ci basiamo sui nostri legittimi interessi. L'utente ha il diritto assoluto di revocare il consenso al marketing diretto o alla profilazione che effettuiamo per il marketing diretto, in qualsiasi momento:\r\n\u2022 aggiornando le preferenze nel proprio profilo Adobe ID;\r\n\u2022 aggiornando le preferenze nel proprio sito Web o negli account app specifici;\r\n\u2022 facendo clic sul link di cancellazione dell'iscrizione nella parte inferiore delle nostre e-mail di marketing o\r\n\u2022 contattandoci utilizzando i dettagli forniti al termine di questa informativa sulla privacy.\r\n\r\nFare clic qui per ulteriori informazioni sulle opzioni in merito alle nostre pratiche di marketing.\r\n\r\n \r\nQuali informazioni vengono raccolte dalle aziende che utilizzano le soluzioni Adobe Experience Cloud?\r\nLe soluzioni Adobe Experience Cloud consentono ai nostri clienti aziendali di personalizzare e migliorare la prestazione dei loro siti Web, delle app e dei messaggi di marketing. Per esempio, questi clienti possono utilizzare le soluzioni Adobe Experience Cloud per raccogliere e analizzare le informazioni sul modo in cui i soggetti utilizzano i loro siti Web (per saperne di pi\u00f9). Le informazioni raccolte sono memorizzate nei nostri servizi per conto e a disposizione di questi utenti aziendali.\r\n\r\n \r\nPer quanto tempo Adobe conserva le informazioni dell\u2019utente?\r\nQuando l\u2019utente si registra e crea un account Adobe ID, elaboriamo e conserviamo la maggior parte delle informazioni personali per conto dell\u2019utente per tutto il tempo in cui l\u2019utente usa attivamente i nostri Servizi e i nostri Software. Alcune informazioni personali che raccogliamo sull\u2019utente saranno eliminate qualora non sussista pi\u00f9 un motivo commerciale per conservarle. Inoltre, alcune informazioni personali dovranno essere conservare anche dopo la chiusura dell\u2019account dell\u2019utente al fine soddisfare i requisiti aziendali e legali, come le informazioni personali relative al nostro contratto e alle transazioni commerciali con l\u2019utente, che saranno conservate per dieci anni dopo la sua ultima interazione con noi.\r\n\r\nLaddove elaboriamo le informazioni personali per scopi di marketing o con il consenso dell'Utente, continuiamo a farlo finch\u00e9 l'Utente non ci chieda di fermarci e per un breve periodo successivo (per consentirci di attuare le richieste dell'Utente). Sar\u00e0 inoltre conservata una registrazione permanente del fatto che l\u2019utente ci ha chiesto di non inviargli marketing diretto n\u00e9 di elaborare le sue informazioni in modo da poter rispettare la sua richiesta in futuro.\r\n\r\n \r\nI bambini possono utilizzare i siti Web e le app di Adobe?\r\nI Servizi e i Software di Adobe non sono destinati a minori di et\u00e0 inferiore ai 13 anni, tranne in situazioni limitate in cui determinate applicazioni Creative e Document Cloud possono essere disponibili per scopi educativi sotto la diretta supervisione di un insegnante o di un genitore.\r\n\r\nPer ulteriori informazioni sulla raccolta e l'utilizzo di questo e di altri dati degli studenti (per studenti di et\u00e0 superiore ai 13 anni), consultare la pagina Adobe e privacy degli studenti per ulteriori dettagli.\r\n\r\nInoltre, Adobe mette a disposizione una pagina relativa all'Informativa sulla privacy per gli utenti pi\u00f9 giovani per fornire informazioni agli utenti pi\u00f9 giovani dei Servizi e dei software di Adobe (di et\u00e0 superiore ai 13 anni) in un formato appropriato per l'et\u00e0.\r\n\r\nTutti gli altri Servizi e Software di Adobe non sono destinati all'uso da parte di bambini e alcuni Servizi e Software vietano specificamente l'utilizzo da parte di utenti al di sotto di una determinata et\u00e0. Se non si soddisfano i requisiti di et\u00e0 applicabili, non utilizzare tali Servizi e Software.\r\n \r\n \r\nLa presente informativa sulla privacy subir\u00e0 modifiche?\r\nIn alcune occasioni, possiamo aggiornare questa informativa sulla privacy (o altri documenti nel Centro per la privacy di Adobe) per consentire ad Adobe di abbracciare nuove tecnologie, prassi del settore, requisiti normativi o per altri scopi. In tal caso, modificheremo la data dell'\u201cultimo aggiornamento\u201d nella parte superiore del presente documento e la politica aggiornata verr\u00e0 pubblicata in questa pagina per permettere all'utente di conoscere il tipo di informazioni che raccogliamo, come le utilizziamo e in quali circostanze potremmo divulgarle. Invitiamo gli utenti a rivedere periodicamente il Centro per la privacy di Adobe per le informazioni pi\u00f9 aggiornate sulle nostre pratiche relative alla privacy. In determinate circostanze (ad esempio in caso di alcune modifiche sostanziali o laddove richiesto da normative sulla privacy applicabili) informeremo l'utente di tali modifiche e, ove richiesto dalla normativa applicabile, otterremo il relativo consenso. La comunicazione pu\u00f2 essere inviata all'utente via e-mail, pubblicando una notifica di tali modifiche sui nostri Servizi o Software o in altro modo in conformit\u00e0 con la legge applicabile.\r\n\r\n \r\nA chi pu\u00f2 rivolgersi l\u2019utente in caso di domande o dubbi?\r\nIn caso di domande, reclami o richieste relative alla privacy, si invita l'utente a compilare un modulo di richiesta della privacy. \r\n\r\nSe risiede al di fuori del Nord America, l'utente pu\u00f2 inoltre contattare il responsabile della protezione dei dati di Adobe Ireland all'indirizzo DPO@Adobe.com o tramite posta ordinaria all'indirizzo 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland.\r\n\r\nPer le pratiche coperte dalla nostra Certificazione PRP, nel caso in cui l'utente abbia un problema di privacy o un dubbio sull'utilizzo dei dati che Adobe non ha risolto in modo soddisfacente, questi pu\u00f2 contattare (gratuitamente) il nostro fornitore di risoluzione delle controversie di terze parti con sede negli Stati Uniti all'indirizzo https://feedback-form.truste.com/watchdog/request.\r\n\r\nSe si ritiene che Adobe conservi i dati personali in uno dei servizi nell'ambito della nostra certificazione del quadro normativo sulla privacy dei dati, \u00e8 possibile porre eventuali domande o reclami riguardanti la conformit\u00e0 del nostro quadro normativo sulla privacy dei dati compilando il nostro modulo di richiesta sulla privacy. Nel caso in cui l'utente abbia un problema di privacy o un dubbio sull'utilizzo dei dati che Adobe non ha risolto in modo soddisfacente, questi pu\u00f2 contattare (gratuitamente) il nostro fornitore di risoluzione delle controversie di terze parti con sede negli Stati Uniti all'indirizzo https://www.ana.net/content/show/id/accountability-dpf-consumers. Se n\u00e9 Adobe n\u00e9 il nostro fornitore di servizi di risoluzione delle controversie risolvono il reclamo dell'utente, potrebbe essere possibile avviare un arbitrato vincolante tramite il Pannello del quadro normativo sulla privacy dei dati. Per ulteriori informazioni su questa opzione, consultare l'Allegato I dei principi del quadro normativo sulla privacy dei dati UE-USA."
+    },
+    "annotations": [
+        {
+            "_id": "673a32cee567751094055041",
+            "start": 6854,
+            "end": 6921,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Quali informazioni personali dell\u2019utente vengono raccolte da Adobe?"
+        },
+        {
+            "_id": "673a32e5e567751094055042",
+            "start": 6860,
+            "end": 6894,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": []
+            },
+            "text": "informazioni personali dell\u2019utente"
+        },
+        {
+            "_id": "673a332fe567751094055043",
+            "start": 6925,
+            "end": 6933,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "Adobe ID"
+        },
+        {
+            "_id": "673a391ee567751094055044",
+            "start": 7193,
+            "end": 7231,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a332fe567751094055043",
+                    "673a3a90e567751094055046",
+                    "673a3aa7e567751094055047"
+                ]
+            },
+            "text": "informazioni che identificano l\u2019utente"
+        },
+        {
+            "_id": "673a3a90e567751094055046",
+            "start": 6935,
+            "end": 6945,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "673a32e5e567751094055042",
+                    "673a332fe567751094055043"
+                ]
+            },
+            "text": "iscrizione"
+        },
+        {
+            "_id": "673a3aa7e567751094055047",
+            "start": 6948,
+            "end": 6966,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a32e5e567751094055042",
+                    "673a3a90e567751094055046",
+                    "673a332fe567751094055043"
+                ]
+            },
+            "text": "assistenza clienti"
+        },
+        {
+            "_id": "673a3abde567751094055048",
+            "start": 6925,
+            "end": 6966,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Adobe ID, iscrizione e assistenza clienti"
+        },
+        {
+            "_id": "673a3b4fe567751094055049",
+            "start": 7233,
+            "end": 7388,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a391ee567751094055044"
+                ]
+            },
+            "text": "tra cui:\r\n\r\nInformazioni di contatto e identificativi, come:\r\n\u2022 Nome;\r\n\u2022 Indirizzo e-mail;\r\n\u2022 Numero di telefono;\r\n\u2022 Recapito postale o indirizzo;\r\n\u2022 Paese"
+        },
+        {
+            "_id": "673a3b6ee56775109405504a",
+            "start": 7245,
+            "end": 7269,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "673a391ee567751094055044"
+                ]
+            },
+            "text": "Informazioni di contatto"
+        },
+        {
+            "_id": "673a3b89e56775109405504b",
+            "start": 7272,
+            "end": 7286,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "673a391ee567751094055044",
+                    "673a3b6ee56775109405504a"
+                ]
+            },
+            "text": "identificativi"
+        },
+        {
+            "_id": "673a3bc8e56775109405504d",
+            "start": 7297,
+            "end": 7301,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "673a3b6ee56775109405504a",
+                    "673a3b89e56775109405504b"
+                ]
+            },
+            "text": "Nome"
+        },
+        {
+            "_id": "673a3bf9e56775109405504e",
+            "start": 7306,
+            "end": 7322,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "673a3b6ee56775109405504a",
+                    "673a3b89e56775109405504b"
+                ]
+            },
+            "text": "Indirizzo e-mail"
+        },
+        {
+            "_id": "673a3c0de56775109405504f",
+            "start": 7327,
+            "end": 7345,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "673a3b6ee56775109405504a",
+                    "673a3b89e56775109405504b"
+                ]
+            },
+            "text": "Numero di telefono"
+        },
+        {
+            "_id": "673a3c48e567751094055050",
+            "start": 7350,
+            "end": 7378,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "ContactInfo",
+                "Ref": [
+                    "673a3b6ee56775109405504a",
+                    "673a3b89e56775109405504b"
+                ]
+            },
+            "text": "Recapito postale o indirizzo"
+        },
+        {
+            "_id": "673a3c5be567751094055051",
+            "start": 7383,
+            "end": 7388,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a3b6ee56775109405504a",
+                    "673a3b89e56775109405504b"
+                ]
+            },
+            "text": "Paese"
+        },
+        {
+            "_id": "673a3c88e567751094055052",
+            "start": 6968,
+            "end": 7232,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Quando l\u2019utente si iscrive per utilizzare un Servizio Adobe, crea un Adobe ID, acquista una licenza dei nostri Servizi e Software oppure ci contatta per richiedere assistenza o essere informato sulle offerte, Adobe raccoglie informazioni che identificano l\u2019utente."
+        },
+        {
+            "_id": "673a3c92e567751094055053",
+            "start": 7233,
+            "end": 7389,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "tra cui:\r\n\r\nInformazioni di contatto e identificativi, come:\r\n\u2022 Nome;\r\n\u2022 Indirizzo e-mail;\r\n\u2022 Numero di telefono;\r\n\u2022 Recapito postale o indirizzo;\r\n\u2022 Paese."
+        },
+        {
+            "_id": "673a403ce567751094055054",
+            "start": 7393,
+            "end": 7417,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "673a391ee567751094055044"
+                ]
+            },
+            "text": "Informazioni commerciali"
+        },
+        {
+            "_id": "673a403fe567751094055055",
+            "start": 7420,
+            "end": 7437,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "673a391ee567751094055044",
+                    "673a403ce567751094055054"
+                ]
+            },
+            "text": "sulle transazioni"
+        },
+        {
+            "_id": "673a42d2e567751094055057",
+            "start": 7448,
+            "end": 7473,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "Informazioni di pagamento"
+        },
+        {
+            "_id": "673a42efe567751094055058",
+            "start": 7474,
+            "end": 7486,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "fatturazione"
+        },
+        {
+            "_id": "673a436ce567751094055059",
+            "start": 7536,
+            "end": 7554,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "LicensingInfo",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "Licenze acquistate"
+        },
+        {
+            "_id": "673a43bde56775109405505a",
+            "start": 7559,
+            "end": 7590,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "Informazioni sull\u2019ammissibilit\u00e0"
+        },
+        {
+            "_id": "673a43f1e56775109405505b",
+            "start": 7603,
+            "end": 7643,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "gli identificativi di studenti e docenti"
+        },
+        {
+            "_id": "673a4410e56775109405505c",
+            "start": 7592,
+            "end": 7696,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "ad esempio gli identificativi di studenti e docenti per le edizioni di app dedicate a studenti e docenti"
+        },
+        {
+            "_id": "673a4427e56775109405505d",
+            "start": 7702,
+            "end": 7766,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "Contenuto e informazioni fornite attraverso l\u2019assistenza clienti"
+        },
+        {
+            "_id": "673a444be56775109405505e",
+            "start": 7769,
+            "end": 7788,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "altre comunicazioni"
+        },
+        {
+            "_id": "673a4473e56775109405505f",
+            "start": 7802,
+            "end": 7871,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "chiamate registrate dell\u2019assistenza tecnica e dell\u2019assistenza clienti"
+        },
+        {
+            "_id": "673a44b2e567751094055060",
+            "start": 7874,
+            "end": 7933,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "contenuto memorizzato relativo alle comunicazioni con Adobe"
+        },
+        {
+            "_id": "673a44cfe567751094055061",
+            "start": 7962,
+            "end": 7985,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "le funzionalit\u00e0 di chat"
+        },
+        {
+            "_id": "673a456de567751094055062",
+            "start": 7987,
+            "end": 8007,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "chiamate telefoniche"
+        },
+        {
+            "_id": "673a457fe567751094055063",
+            "start": 8009,
+            "end": 8022,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "videochiamate"
+        },
+        {
+            "_id": "673a4591e567751094055064",
+            "start": 8024,
+            "end": 8030,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "e-mail"
+        },
+        {
+            "_id": "673a45a4e567751094055065",
+            "start": 8033,
+            "end": 8045,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "CommunicationProv",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "altri canali"
+        },
+        {
+            "_id": "673a45d4e567751094055066",
+            "start": 7790,
+            "end": 8045,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "ad esempio, chiamate registrate dell\u2019assistenza tecnica e dell\u2019assistenza clienti e contenuto memorizzato relativo alle comunicazioni con Adobe tramite il nostro sito Web, le funzionalit\u00e0 di chat, chiamate telefoniche, videochiamate, e-mail e altri canali"
+        },
+        {
+            "_id": "673a57f4e567751094055069",
+            "start": 8137,
+            "end": 8168,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a391ee567751094055044",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "altre informazioni demografiche"
+        },
+        {
+            "_id": "673a581ce56775109405506a",
+            "start": 8179,
+            "end": 8194,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "Data di nascita"
+        },
+        {
+            "_id": "673a5833e56775109405506b",
+            "start": 8199,
+            "end": 8231,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "Nome dell\u2019azienda o della scuola"
+        },
+        {
+            "_id": "673a584ae56775109405506c",
+            "start": 8236,
+            "end": 8242,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "Titolo"
+        },
+        {
+            "_id": "673a5868e56775109405506d",
+            "start": 8247,
+            "end": 8258,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "Occupazione"
+        },
+        {
+            "_id": "673a588ae56775109405506e",
+            "start": 8263,
+            "end": 8282,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "Ruolo professionale"
+        },
+        {
+            "_id": "673a58ade56775109405506f",
+            "start": 8287,
+            "end": 8297,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "Competenza"
+        },
+        {
+            "_id": "673a595ae567751094055071",
+            "start": 8480,
+            "end": 8525,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a391ee567751094055044"
+                ]
+            },
+            "text": "Analisi o altre attivit\u00e0 di rete elettroniche"
+        },
+        {
+            "_id": "673a59b7e567751094055072",
+            "start": 8537,
+            "end": 8549,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a595ae567751094055071"
+                ]
+            },
+            "text": "Indirizzo IP"
+        },
+        {
+            "_id": "673a59c9e567751094055073",
+            "start": 8554,
+            "end": 8561,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a595ae567751094055071"
+                ]
+            },
+            "text": "Browser"
+        },
+        {
+            "_id": "673a59f9e567751094055074",
+            "start": 8566,
+            "end": 8587,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a595ae567751094055071"
+                ]
+            },
+            "text": "ID dispositivo mobile"
+        },
+        {
+            "_id": "673a5a2be567751094055075",
+            "start": 8592,
+            "end": 8655,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a595ae567751094055071"
+                ]
+            },
+            "text": "Estensioni del browser collegate agli account Adobe dell\u2019utente"
+        },
+        {
+            "_id": "673a5a3fe567751094055076",
+            "start": 8527,
+            "end": 8655,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a595ae567751094055071"
+                ]
+            },
+            "text": "come: \r\n\u2022 Indirizzo IP;\r\n\u2022 Browser;\r\n\u2022 ID dispositivo mobile;\r\n\u2022 Estensioni del browser collegate agli account Adobe dell\u2019utente"
+        },
+        {
+            "_id": "673a5a4de567751094055077",
+            "start": 8662,
+            "end": 8682,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "Informazioni dedotte"
+        },
+        {
+            "_id": "673a5a69e567751094055078",
+            "start": 8662,
+            "end": 8682,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Informazioni dedotte"
+        },
+        {
+            "_id": "673a5aa4e567751094055079",
+            "start": 8830,
+            "end": 8842,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5a4de567751094055077"
+                ]
+            },
+            "text": "informazioni"
+        },
+        {
+            "_id": "673a5ac4e56775109405507a",
+            "start": 8684,
+            "end": 8983,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Per aiutare a mantenere aggiornati i nostri database e fornire all\u2019utente i contenuti e le esperienze pi\u00f9 pertinenti, potremmo dedurre o generare informazioni sulla base di informazioni fornite dall\u2019utente o combinandole con quelle provenienti da fonti di terze parti, ai sensi delle leggi vigenti. "
+        },
+        {
+            "_id": "673a5b0ae56775109405507b",
+            "start": 8995,
+            "end": 9008,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5a4de567751094055077"
+                ]
+            },
+            "text": "le dimensioni"
+        },
+        {
+            "_id": "673a5b1be56775109405507c",
+            "start": 9010,
+            "end": 9020,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5a4de567751094055077"
+                ]
+            },
+            "text": "il settore"
+        },
+        {
+            "_id": "673a5b91e56775109405507f",
+            "start": 8983,
+            "end": 9241,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a5a4de567751094055077"
+                ]
+            },
+            "text": "Ad esempio, le dimensioni, il settore e altre informazioni sull\u2019azienda per cui l\u2019utente lavora (laddove l\u2019utente abbia fornito il nome dell\u2019azienda) saranno ottenute da fonti che includono siti di network professionali e fornitori di servizi di informazioni"
+        },
+        {
+            "_id": "673a5bb1e567751094055080",
+            "start": 8983,
+            "end": 9243,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Ad esempio, le dimensioni, il settore e altre informazioni sull\u2019azienda per cui l\u2019utente lavora (laddove l\u2019utente abbia fornito il nome dell\u2019azienda) saranno ottenute da fonti che includono siti di network professionali e fornitori di servizi di informazioni. "
+        },
+        {
+            "_id": "673a5bc4e567751094055081",
+            "start": 9301,
+            "end": 9328,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5a4de567751094055077"
+                ]
+            },
+            "text": "informazioni da terze parti"
+        },
+        {
+            "_id": "673a5be1e567751094055082",
+            "start": 9243,
+            "end": 9737,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Potremmo anche dedurre, generare o raccogliere e ricevere informazioni da terze parti, inclusi partner, e da fonti accessibili pubblicamente, per scopi che includono la rilevazione, la prevenzione o altro trattamento di attivit\u00e0 fraudolente, ingannevoli o illegali, dell\u2019uso improprio dei nostri Servizi e Software, di problemi tecnici o di sicurezza, nonch\u00e9 la tutela dai danni ai diritti, propriet\u00e0 o protezione di Adobe e dei nostri dipendenti, dei nostri utenti, dei bambini o del pubblico."
+        },
+        {
+            "_id": "673a5bfce567751094055083",
+            "start": 9785,
+            "end": 9837,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "le informazioni che l\u2019utente fornisce per l\u2019utilizzo"
+        },
+        {
+            "_id": "673a5c34e567751094055085",
+            "start": 9773,
+            "end": 10007,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Raccogliamo le informazioni che l\u2019utente fornisce per l\u2019utilizzo (ad esempio, quando accede e utilizza i nostri Servizi e Software) o che l\u2019utente ci permette di raccogliere (ad esempio, come parte di un\u2019integrazione di terze parti). "
+        },
+        {
+            "_id": "673a5c48e567751094055086",
+            "start": 10039,
+            "end": 10115,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a5c63e567751094055087"
+                ]
+            },
+            "text": "informazioni su come i nostri Servizi e i nostri Software vengono utilizzati"
+        },
+        {
+            "_id": "673a5c63e567751094055087",
+            "start": 9907,
+            "end": 9947,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5c48e567751094055086"
+                ]
+            },
+            "text": "che l\u2019utente ci permette di raccogliere "
+        },
+        {
+            "_id": "673a5cd8e567751094055088",
+            "start": 10125,
+            "end": 10183,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a5c48e567751094055086"
+                ]
+            },
+            "text": "l\u2019utilizzo di una funzionalit\u00e0 di una app desktop o mobile"
+        },
+        {
+            "_id": "673a5d8ce567751094055089",
+            "start": 10117,
+            "end": 10285,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a5c48e567751094055086"
+                ]
+            },
+            "text": "incluso l\u2019utilizzo di una funzionalit\u00e0 di una app desktop o mobile che indirizza l\u2019utente online (come ad esempio una funzionalit\u00e0 di sincronizzazione delle fotografie)"
+        },
+        {
+            "_id": "673a5d9fe56775109405508a",
+            "start": 10007,
+            "end": 10286,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Raccogliamo o generiamo inoltre informazioni su come i nostri Servizi e i nostri Software vengono utilizzati, incluso l\u2019utilizzo di una funzionalit\u00e0 di una app desktop o mobile che indirizza l\u2019utente online (come ad esempio una funzionalit\u00e0 di sincronizzazione delle fotografie)."
+        },
+        {
+            "_id": "673a5e37e56775109405508c",
+            "start": 10508,
+            "end": 10523,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5c48e567751094055086"
+                ]
+            },
+            "text": "Le informazioni"
+        },
+        {
+            "_id": "673a5e6ee56775109405508d",
+            "start": 10538,
+            "end": 10583,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a5e37e56775109405508c"
+                ]
+            },
+            "text": "Analisi o altre attivit\u00e0 di rete elettroniche"
+        },
+        {
+            "_id": "673a5e89e56775109405508e",
+            "start": 10594,
+            "end": 10606,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "Indirizzo IP"
+        },
+        {
+            "_id": "673a5ef3e56775109405508f",
+            "start": 10611,
+            "end": 10635,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "Informazioni sul browser"
+        },
+        {
+            "_id": "673a5f07e567751094055090",
+            "start": 10638,
+            "end": 10653,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "sul dispositivo"
+        },
+        {
+            "_id": "673a5f24e567751094055091",
+            "start": 10663,
+            "end": 10678,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "tipo di browser"
+        },
+        {
+            "_id": "673a5f77e567751094055092",
+            "start": 10681,
+            "end": 10692,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "dispositivo"
+        },
+        {
+            "_id": "673a5f88e567751094055093",
+            "start": 10694,
+            "end": 10706,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Settings",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "impostazioni"
+        },
+        {
+            "_id": "673a5f99e567751094055094",
+            "start": 10708,
+            "end": 10730,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "identificatori univoci"
+        },
+        {
+            "_id": "673a6014e567751094055095",
+            "start": 10732,
+            "end": 10740,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "versione"
+        },
+        {
+            "_id": "673a6037e567751094055096",
+            "start": 10742,
+            "end": 10767,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Settings",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "impostazioni della lingua"
+        },
+        {
+            "_id": "673a6079e567751094055097",
+            "start": 10770,
+            "end": 10784,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "configurazione"
+        },
+        {
+            "_id": "673a6092e567751094055098",
+            "start": 10655,
+            "end": 10784,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "inclusi tipo di browser e dispositivo, impostazioni, identificatori univoci, versione, impostazioni della lingua e configurazione"
+        },
+        {
+            "_id": "673a60f5e567751094055099",
+            "start": 10789,
+            "end": 10799,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "InternetHistory",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "Pagina Web"
+        },
+        {
+            "_id": "673a610de56775109405509a",
+            "start": 10839,
+            "end": 10892,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "InternetHistory",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "I termini di ricerca inseriti in un motore di ricerca"
+        },
+        {
+            "_id": "673a6159e56775109405509b",
+            "start": 10934,
+            "end": 10978,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "Utilizzo e navigazione di Servizi e Software"
+        },
+        {
+            "_id": "673a6325e56775109405509c",
+            "start": 10988,
+            "end": 11047,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "il modo in cui l\u2019utente interagisce con i siti Web di Adobe"
+        },
+        {
+            "_id": "673a63f0e5677510940550a0",
+            "start": 10980,
+            "end": 11182,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "incluso il modo in cui l\u2019utente interagisce con i siti Web di Adobe (informazioni raccolte tramite cookie e tecnologie simili o dai server Adobe quando l\u2019utente effettua l\u2019accesso all\u2019app o al sito Web)"
+        },
+        {
+            "_id": "673a6443e5677510940550a1",
+            "start": 11187,
+            "end": 11245,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "Analisi dell\u2019utilizzo e navigazione dei Servizi e Software"
+        },
+        {
+            "_id": "673a646ce5677510940550a3",
+            "start": 11313,
+            "end": 11344,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "6755cca36cc0a84b95765d97"
+                ]
+            },
+            "text": "altre informazioni demografiche"
+        },
+        {
+            "_id": "673a647fe5677510940550a4",
+            "start": 11355,
+            "end": 11379,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "6755cca36cc0a84b95765d97",
+                    "673a646ce5677510940550a3"
+                ]
+            },
+            "text": "Informazioni sul profilo"
+        },
+        {
+            "_id": "673a6496e5677510940550a5",
+            "start": 11393,
+            "end": 11408,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "673a646ce5677510940550a3",
+                    "6755cca36cc0a84b95765d97"
+                ]
+            },
+            "text": "profilo account"
+        },
+        {
+            "_id": "673a64ace5677510940550a6",
+            "start": 11410,
+            "end": 11426,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "6755cca36cc0a84b95765d97",
+                    "673a646ce5677510940550a3"
+                ]
+            },
+            "text": "profilo pubblico"
+        },
+        {
+            "_id": "673a64c1e5677510940550a7",
+            "start": 11428,
+            "end": 11443,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserProfileInfo",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "6755cca36cc0a84b95765d97",
+                    "673a646ce5677510940550a3"
+                ]
+            },
+            "text": "profilo Behance"
+        },
+        {
+            "_id": "673a64e7e5677510940550a8",
+            "start": 11381,
+            "end": 11443,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "6755cca36cc0a84b95765d97",
+                    "673a646ce5677510940550a3"
+                ]
+            },
+            "text": "ad esempio, profilo account, profilo pubblico, profilo Behance"
+        },
+        {
+            "_id": "673a6512e5677510940550a9",
+            "start": 11449,
+            "end": 11473,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Purchase",
+                "Ref": [
+                    "673a5e37e56775109405508c"
+                ]
+            },
+            "text": "Informazioni commerciali"
+        },
+        {
+            "_id": "673a6527e5677510940550aa",
+            "start": 11476,
+            "end": 11493,
+            "type": "Category",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Payment",
+                "Ref": [
+                    "673a5e37e56775109405508c",
+                    "673a6512e5677510940550a9"
+                ]
+            },
+            "text": "sulle transazioni"
+        },
+        {
+            "_id": "673a663ce5677510940550ad",
+            "start": 11673,
+            "end": 11682,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "documenti"
+        },
+        {
+            "_id": "673a6651e5677510940550ae",
+            "start": 11684,
+            "end": 11688,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "foto"
+        },
+        {
+            "_id": "673a66a1e5677510940550af",
+            "start": 11690,
+            "end": 11695,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "video"
+        },
+        {
+            "_id": "673a66bee5677510940550b0",
+            "start": 11697,
+            "end": 11720,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "registri delle attivit\u00e0"
+        },
+        {
+            "_id": "673a66cbe5677510940550b1",
+            "start": 12150,
+            "end": 12182,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5e37e56775109405508c"
+                ]
+            },
+            "text": "Informazioni personali sensibili"
+        },
+        {
+            "_id": "673a6778e5677510940550b2",
+            "start": 12193,
+            "end": 12218,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "HealthFitness",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "Identificatori biometrici"
+        },
+        {
+            "_id": "673a678fe5677510940550b3",
+            "start": 12221,
+            "end": 12273,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "informazioni delineate dalle leggi degli Stati Uniti"
+        },
+        {
+            "_id": "673a67a0e5677510940550b4",
+            "start": 12287,
+            "end": 12304,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "impronte facciali"
+        },
+        {
+            "_id": "673a688ce5677510940550b5",
+            "start": 12307,
+            "end": 12322,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "IdentityVerificationInfo",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "impronte vocali"
+        },
+        {
+            "_id": "673a68a8e5677510940550b6",
+            "start": 12275,
+            "end": 12404,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "ad esempio, impronte facciali e impronte vocali dal Contenuto dell\u2019utente, come definito nelle Condizioni d\u2019uso generali di Adobe"
+        },
+        {
+            "_id": "673a68d1e5677510940550b7",
+            "start": 12408,
+            "end": 12433,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "GeoInfo",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "geolocalizzazione precisa"
+        },
+        {
+            "_id": "673a68ebe5677510940550b8",
+            "start": 12184,
+            "end": 12433,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a66cbe5677510940550b1"
+                ]
+            },
+            "text": "come:\r\n\u2022 Identificatori biometrici o informazioni delineate dalle leggi degli Stati Uniti (ad esempio, impronte facciali e impronte vocali dal Contenuto dell\u2019utente, come definito nelle Condizioni d\u2019uso generali di Adobe) e geolocalizzazione precisa"
+        },
+        {
+            "_id": "673a690de5677510940550b9",
+            "start": 10524,
+            "end": 11266,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a5e37e56775109405508c"
+                ]
+            },
+            "text": "includono:\r\n\r\nAnalisi o altre attivit\u00e0 di rete elettroniche, come:\r\n\u2022 Indirizzo IP;\r\n\u2022 Informazioni sul browser e sul dispositivo, inclusi tipo di browser e dispositivo, impostazioni, identificatori univoci, versione, impostazioni della lingua e configurazione;\r\n\u2022 Pagina Web che conduce a un sito Web di Adobe;\r\n\u2022 I termini di ricerca inseriti in un motore di ricerca che conducono a un sito Web di Adobe;\r\n\u2022 Utilizzo e navigazione di Servizi e Software, incluso il modo in cui l\u2019utente interagisce con i siti Web di Adobe (informazioni raccolte tramite cookie e tecnologie simili o dai server Adobe quando l\u2019utente effettua l\u2019accesso all\u2019app o al sito Web);\r\n\u2022 Analisi dell\u2019utilizzo e navigazione dei Servizi e Software nonch\u00e9 dei contenuti"
+        },
+        {
+            "_id": "673a691ee5677510940550ba",
+            "start": 10585,
+            "end": 11266,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a5e6ee56775109405508d"
+                ]
+            },
+            "text": "come:\r\n\u2022 Indirizzo IP;\r\n\u2022 Informazioni sul browser e sul dispositivo, inclusi tipo di browser e dispositivo, impostazioni, identificatori univoci, versione, impostazioni della lingua e configurazione;\r\n\u2022 Pagina Web che conduce a un sito Web di Adobe;\r\n\u2022 I termini di ricerca inseriti in un motore di ricerca che conducono a un sito Web di Adobe;\r\n\u2022 Utilizzo e navigazione di Servizi e Software, incluso il modo in cui l\u2019utente interagisce con i siti Web di Adobe (informazioni raccolte tramite cookie e tecnologie simili o dai server Adobe quando l\u2019utente effettua l\u2019accesso all\u2019app o al sito Web);\r\n\u2022 Analisi dell\u2019utilizzo e navigazione dei Servizi e Software nonch\u00e9 dei contenuti"
+        },
+        {
+            "_id": "673a6b8ae5677510940550bc",
+            "start": 13643,
+            "end": 13706,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "analisi o altre informazioni sull\u2019attivit\u00e0 di rete elettroniche"
+        },
+        {
+            "_id": "673a6ba3e5677510940550bd",
+            "start": 13714,
+            "end": 13740,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "il dispositivo dell\u2019utente"
+        },
+        {
+            "_id": "673a6bb1e5677510940550be",
+            "start": 13742,
+            "end": 13752,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "produttore"
+        },
+        {
+            "_id": "673a6bc3e5677510940550bf",
+            "start": 13754,
+            "end": 13761,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "modello"
+        },
+        {
+            "_id": "673a6bd3e5677510940550c0",
+            "start": 13763,
+            "end": 13775,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "indirizzo IP"
+        },
+        {
+            "_id": "673a6bfde5677510940550c2",
+            "start": 13708,
+            "end": 13776,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "come: il dispositivo dell\u2019utente (produttore, modello, indirizzo IP)"
+        },
+        {
+            "_id": "673a6c12e5677510940550c3",
+            "start": 13780,
+            "end": 13798,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": " il Software Adobe"
+        },
+        {
+            "_id": "673a6c25e5677510940550c4",
+            "start": 13800,
+            "end": 13808,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "versione"
+        },
+        {
+            "_id": "673a6c35e5677510940550c5",
+            "start": 13810,
+            "end": 13829,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "data di attivazione"
+        },
+        {
+            "_id": "673a6c7fe5677510940550c6",
+            "start": 13831,
+            "end": 13868,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": "aggiornamenti riusciti e non riusciti"
+        },
+        {
+            "_id": "673a6cb5e5677510940550c7",
+            "start": 13873,
+            "end": 13905,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "673a6b8ae5677510940550bc"
+                ]
+            },
+            "text": " il numero di serie del prodotto"
+        },
+        {
+            "_id": "673a6ccde5677510940550c8",
+            "start": 14185,
+            "end": 14231,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "analisi o altre attivit\u00e0 di rete elettroniche "
+        },
+        {
+            "_id": "673a6d2ee5677510940550c9",
+            "start": 14080,
+            "end": 14358,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Le e-mail che inviamo agli utenti possono includere una tecnologia (denominata Web beacon) che raccoglie analisi o altre attivit\u00e0 di rete elettroniche per indicare ad Adobe se il messaggio \u00e8 stato ricevuto o aperto o se \u00e8 stato fatto clic sul collegamento contenuto nell\u2019e-mail."
+        },
+        {
+            "_id": "673a6d40e5677510940550ca",
+            "start": 15009,
+            "end": 15054,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "analisi o altre attivit\u00e0 di rete elettroniche"
+        },
+        {
+            "_id": "673a6d52e5677510940550cb",
+            "start": 15055,
+            "end": 15179,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6d40e5677510940550ca"
+                ]
+            },
+            "text": "quali:\r\n\u2022 Quali annunci vengono visualizzati\r\n\u2022 Su quali annunci \u00e8 stato fatto clic \r\n\u2022 Dove \u00e8 stato visualizzato l'annuncio"
+        },
+        {
+            "_id": "673a6d57e5677510940550cc",
+            "start": 15065,
+            "end": 15099,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a6d40e5677510940550ca"
+                ]
+            },
+            "text": "Quali annunci vengono visualizzati"
+        },
+        {
+            "_id": "673a6d67e5677510940550cd",
+            "start": 15103,
+            "end": 15139,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a6d40e5677510940550ca"
+                ]
+            },
+            "text": "Su quali annunci \u00e8 stato fatto clic "
+        },
+        {
+            "_id": "673a6d7de5677510940550ce",
+            "start": 15143,
+            "end": 15179,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a6d40e5677510940550ca"
+                ]
+            },
+            "text": "Dove \u00e8 stato visualizzato l'annuncio"
+        },
+        {
+            "_id": "6741fa5bf2f04e20467b61a1",
+            "start": 7439,
+            "end": 8090,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "come:\r\n\u2022 Informazioni di pagamento/fatturazione (dove una app o un sito Web sia a pagamento);\r\n\u2022 Licenze acquistate;\r\n\u2022 Informazioni sull\u2019ammissibilit\u00e0 (ad esempio gli identificativi di studenti e docenti per le edizioni di app dedicate a studenti e docenti);\r\n\u2022 Contenuto e informazioni fornite attraverso l\u2019assistenza clienti e altre comunicazioni (ad esempio, chiamate registrate dell\u2019assistenza tecnica e dell\u2019assistenza clienti e contenuto memorizzato relativo alle comunicazioni con Adobe tramite il nostro sito Web, le funzionalit\u00e0 di chat, chiamate telefoniche, videochiamate, e-mail e altri canali);\r\n\u2022 Tipi di Servizi e Software di interesse"
+        },
+        {
+            "_id": "6741fbe3f2f04e20467b61a2",
+            "start": 8051,
+            "end": 8090,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "ContentPreferences",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a403fe567751094055055"
+                ]
+            },
+            "text": "Tipi di Servizi e Software di interesse"
+        },
+        {
+            "_id": "6741fc06f2f04e20467b61a3",
+            "start": 7393,
+            "end": 8091,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Informazioni commerciali e sulle transazioni, come:\r\n\u2022 Informazioni di pagamento/fatturazione (dove una app o un sito Web sia a pagamento);\r\n\u2022 Licenze acquistate;\r\n\u2022 Informazioni sull\u2019ammissibilit\u00e0 (ad esempio gli identificativi di studenti e docenti per le edizioni di app dedicate a studenti e docenti);\r\n\u2022 Contenuto e informazioni fornite attraverso l\u2019assistenza clienti e altre comunicazioni (ad esempio, chiamate registrate dell\u2019assistenza tecnica e dell\u2019assistenza clienti e contenuto memorizzato relativo alle comunicazioni con Adobe tramite il nostro sito Web, le funzionalit\u00e0 di chat, chiamate telefoniche, videochiamate, e-mail e altri canali);\r\n\u2022 Tipi di Servizi e Software di interesse."
+        },
+        {
+            "_id": "6741fc20f2f04e20467b61a4",
+            "start": 8302,
+            "end": 8323,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95",
+                    "673a57f4e567751094055069"
+                ]
+            },
+            "text": "Dettagli dell'azienda"
+        },
+        {
+            "_id": "6741fc3ff2f04e20467b61a5",
+            "start": 8330,
+            "end": 8340,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95",
+                    "673a57f4e567751094055069"
+                ]
+            },
+            "text": "dimensioni"
+        },
+        {
+            "_id": "6741fc8ef2f04e20467b61a6",
+            "start": 8342,
+            "end": 8349,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95",
+                    "673a57f4e567751094055069"
+                ]
+            },
+            "text": "settore"
+        },
+        {
+            "_id": "6741fcd1f2f04e20467b61a8",
+            "start": 8325,
+            "end": 8475,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95",
+                    "673a57f4e567751094055069"
+                ]
+            },
+            "text": "come dimensioni, settore e altre informazioni sull'azienda in cui un utente pu\u00f2 lavorare (nel caso in cui l'utente abbia fornito il nome dell'azienda)"
+        },
+        {
+            "_id": "6741fce6f2f04e20467b61a9",
+            "start": 8170,
+            "end": 8475,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a57f4e567751094055069",
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95"
+                ]
+            },
+            "text": "come:\r\n\u2022 Data di nascita;\r\n\u2022 Nome dell\u2019azienda o della scuola;\r\n\u2022 Titolo;\r\n\u2022 Occupazione;\r\n\u2022 Ruolo professionale;\r\n\u2022 Competenza;\r\n\u2022 Dettagli dell'azienda, come dimensioni, settore e altre informazioni sull'azienda in cui un utente pu\u00f2 lavorare (nel caso in cui l'utente abbia fornito il nome dell'azienda)"
+        },
+        {
+            "_id": "6741fd23f2f04e20467b61aa",
+            "start": 8480,
+            "end": 8656,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Analisi o altre attivit\u00e0 di rete elettroniche, come: \r\n\u2022 Indirizzo IP;\r\n\u2022 Browser;\r\n\u2022 ID dispositivo mobile;\r\n\u2022 Estensioni del browser collegate agli account Adobe dell\u2019utente."
+        },
+        {
+            "_id": "6741fd6cf2f04e20467b61ab",
+            "start": 8352,
+            "end": 8383,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755c21c6cc0a84b95765d93",
+                    "6755c26b6cc0a84b95765d95",
+                    "673a57f4e567751094055069"
+                ]
+            },
+            "text": "altre informazioni sull'azienda"
+        },
+        {
+            "_id": "6741fd93f2f04e20467b61ac",
+            "start": 9023,
+            "end": 9054,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a5a4de567751094055077"
+                ]
+            },
+            "text": "altre informazioni sull\u2019azienda"
+        },
+        {
+            "_id": "6741fe40f2f04e20467b61ad",
+            "start": 11049,
+            "end": 11124,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a595ae567751094055071"
+                ]
+            },
+            "text": "informazioni raccolte tramite cookie e tecnologie simili o dai server Adobe"
+        },
+        {
+            "_id": "6741fe65f2f04e20467b61ae",
+            "start": 10508,
+            "end": 11267,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Le informazioni includono:\r\n\r\nAnalisi o altre attivit\u00e0 di rete elettroniche, come:\r\n\u2022 Indirizzo IP;\r\n\u2022 Informazioni sul browser e sul dispositivo, inclusi tipo di browser e dispositivo, impostazioni, identificatori univoci, versione, impostazioni della lingua e configurazione;\r\n\u2022 Pagina Web che conduce a un sito Web di Adobe;\r\n\u2022 I termini di ricerca inseriti in un motore di ricerca che conducono a un sito Web di Adobe;\r\n\u2022 Utilizzo e navigazione di Servizi e Software, incluso il modo in cui l\u2019utente interagisce con i siti Web di Adobe (informazioni raccolte tramite cookie e tecnologie simili o dai server Adobe quando l\u2019utente effettua l\u2019accesso all\u2019app o al sito Web);\r\n\u2022 Analisi dell\u2019utilizzo e navigazione dei Servizi e Software nonch\u00e9 dei contenuti."
+        },
+        {
+            "_id": "6741fe81f2f04e20467b61af",
+            "start": 11346,
+            "end": 11444,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "6755cca36cc0a84b95765d97",
+                    "673a646ce5677510940550a3"
+                ]
+            },
+            "text": "come:\r\n\u2022 Informazioni sul profilo (ad esempio, profilo account, profilo pubblico, profilo Behance)"
+        },
+        {
+            "_id": "6741fe92f2f04e20467b61b0",
+            "start": 11271,
+            "end": 11449,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Informazioni su professione, istruzione e altre informazioni demografiche, come:\r\n\u2022 Informazioni sul profilo (ad esempio, profilo account, profilo pubblico, profilo Behance).\r\n\r\n"
+        },
+        {
+            "_id": "6741ffa8f2f04e20467b61b3",
+            "start": 11722,
+            "end": 11759,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "feedback diretto da parte dell'utente"
+        },
+        {
+            "_id": "6741ffc2f2f04e20467b61b4",
+            "start": 11761,
+            "end": 11783,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "Metadata",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "metadati sui contenuti"
+        },
+        {
+            "_id": "6741ffd6f2f04e20467b61b5",
+            "start": 11785,
+            "end": 11815,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "richieste generate dall'utente"
+        },
+        {
+            "_id": "6741fff3f2f04e20467b61b6",
+            "start": 11822,
+            "end": 11840,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "termini di ricerca"
+        },
+        {
+            "_id": "67420020f2f04e20467b61b7",
+            "start": 11842,
+            "end": 11854,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "suggerimenti"
+        },
+        {
+            "_id": "67420050f2f04e20467b61b9",
+            "start": 11867,
+            "end": 11872,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "testo"
+        },
+        {
+            "_id": "67420063f2f04e20467b61ba",
+            "start": 11874,
+            "end": 11882,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "immagini"
+        },
+        {
+            "_id": "67420075f2f04e20467b61bb",
+            "start": 11884,
+            "end": 11889,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "video"
+        },
+        {
+            "_id": "6742008ff2f04e20467b61bc",
+            "start": 11891,
+            "end": 11896,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "audio"
+        },
+        {
+            "_id": "674200aff2f04e20467b61be",
+            "start": 11856,
+            "end": 11907,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "ad esempio testo, immagini, video, audio e cos\u00ec via"
+        },
+        {
+            "_id": "674200edf2f04e20467b61bf",
+            "start": 11910,
+            "end": 11919,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "richieste"
+        },
+        {
+            "_id": "67420106f2f04e20467b61c0",
+            "start": 11921,
+            "end": 11929,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UserGenerated",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "feedback"
+        },
+        {
+            "_id": "67420117f2f04e20467b61c1",
+            "start": 11932,
+            "end": 11950,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "altre informazioni"
+        },
+        {
+            "_id": "6742013bf2f04e20467b61c2",
+            "start": 12052,
+            "end": 12145,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "qualsiasi informazione che i Servizi e Il Software restituiscono in risposta a tali richieste"
+        },
+        {
+            "_id": "67420168f2f04e20467b61c3",
+            "start": 12150,
+            "end": 12434,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Informazioni personali sensibili, come:\r\n\u2022 Identificatori biometrici o informazioni delineate dalle leggi degli Stati Uniti (ad esempio, impronte facciali e impronte vocali dal Contenuto dell\u2019utente, come definito nelle Condizioni d\u2019uso generali di Adobe) e geolocalizzazione precisa."
+        },
+        {
+            "_id": "67420197f2f04e20467b61c4",
+            "start": 13538,
+            "end": 13980,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "\u2022 Quando l\u2019utente attiva il Software Adobe o quando installa gli aggiornamenti del Software, raccogliamo analisi o altre informazioni sull\u2019attivit\u00e0 di rete elettroniche, come: il dispositivo dell\u2019utente (produttore, modello, indirizzo IP);\r\n\u2022 il Software Adobe (versione, data di attivazione, aggiornamenti riusciti e non riusciti);\r\n\u2022 il numero di serie del prodotto (laddove sia necessario prima di poter iniziare a utilizzare il prodotto)."
+        },
+        {
+            "_id": "674201c4f2f04e20467b61c5",
+            "start": 14997,
+            "end": 15180,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Raccogliamo analisi o altre attivit\u00e0 di rete elettroniche quali:\r\n\u2022 Quali annunci vengono visualizzati\r\n\u2022 Su quali annunci \u00e8 stato fatto clic \r\n\u2022 Dove \u00e8 stato visualizzato l'annuncio "
+        },
+        {
+            "_id": "674428b5f2f04e20467b6315",
+            "start": 11526,
+            "end": 11548,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a403ce567751094055054",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "informazioni personali"
+        },
+        {
+            "_id": "67459b7cf2f04e20467b651f",
+            "start": 8049,
+            "end": 8418,
+            "type": "Category",
+            "attributes": {
+                "Type": null,
+                "Kind": null,
+                "Ref": []
+            },
+            "text": "\u2022 Tipi di Servizi e Software di interesse.\r\n\r\nInformazioni su professione, istruzione e altre informazioni demografiche, come:\r\n\u2022 Data di nascita;\r\n\u2022 Nome dell\u2019azienda o della scuola;\r\n\u2022 Titolo;\r\n\u2022 Occupazione;\r\n\u2022 Ruolo professionale;\r\n\u2022 Competenza;\r\n\u2022 Dettagli dell'azienda, come dimensioni, settore e altre informazioni sull'azienda in cui un utente pu\u00f2 lavorare (nel"
+        },
+        {
+            "_id": "67459debf2f04e20467b6520",
+            "start": 7393,
+            "end": 7445,
+            "type": "Category",
+            "attributes": {
+                "Type": null,
+                "Kind": null,
+                "Ref": []
+            },
+            "text": "Informazioni commerciali e sulle transazioni, come:\r"
+        },
+        {
+            "_id": "6755803f6cc0a84b95765d91",
+            "start": 7288,
+            "end": 7388,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a3b6ee56775109405504a",
+                    "673a3b89e56775109405504b"
+                ]
+            },
+            "text": "come:\r\n\u2022 Nome;\r\n\u2022 Indirizzo e-mail;\r\n\u2022 Numero di telefono;\r\n\u2022 Recapito postale o indirizzo;\r\n\u2022 Paese"
+        },
+        {
+            "_id": "6755c1016cc0a84b95765d92",
+            "start": 8095,
+            "end": 8476,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Informazioni su professione, istruzione e altre informazioni demografiche, come:\r\n\u2022 Data di nascita;\r\n\u2022 Nome dell\u2019azienda o della scuola;\r\n\u2022 Titolo;\r\n\u2022 Occupazione;\r\n\u2022 Ruolo professionale;\r\n\u2022 Competenza;\r\n\u2022 Dettagli dell'azienda, come dimensioni, settore e altre informazioni sull'azienda in cui un utente pu\u00f2 lavorare (nel caso in cui l'utente abbia fornito il nome dell'azienda)."
+        },
+        {
+            "_id": "6755c21c6cc0a84b95765d93",
+            "start": 8095,
+            "end": 8122,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a391ee567751094055044"
+                ]
+            },
+            "text": "Informazioni su professione"
+        },
+        {
+            "_id": "6755c26b6cc0a84b95765d95",
+            "start": 8124,
+            "end": 8134,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a391ee567751094055044",
+                    "6755c21c6cc0a84b95765d93"
+                ]
+            },
+            "text": "istruzione"
+        },
+        {
+            "_id": "6755cc8a6cc0a84b95765d96",
+            "start": 11271,
+            "end": 11298,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "673a5e37e56775109405508c"
+                ]
+            },
+            "text": "Informazioni su professione"
+        },
+        {
+            "_id": "6755cca36cc0a84b95765d97",
+            "start": 11300,
+            "end": 11310,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755cc8a6cc0a84b95765d96",
+                    "673a5e37e56775109405508c"
+                ]
+            },
+            "text": "istruzione"
+        },
+        {
+            "_id": "6755ce366cc0a84b95765d99",
+            "start": 11817,
+            "end": 12043,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "come termini di ricerca, suggerimenti (ad esempio testo, immagini, video, audio e cos\u00ec via), richieste, feedback e altre informazioni che potrebbero essere divulgate quando si accede o si utilizzano i nostri Servizi e Software"
+        },
+        {
+            "_id": "6755ce6c6cc0a84b95765d9a",
+            "start": 11668,
+            "end": 12145,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "come documenti, foto, video, registri delle attivit\u00e0, feedback diretto da parte dell'utente, metadati sui contenuti, richieste generate dall'utente, come termini di ricerca, suggerimenti (ad esempio testo, immagini, video, audio e cos\u00ec via), richieste, feedback e altre informazioni che potrebbero essere divulgate quando si accede o si utilizzano i nostri Servizi e Software, nonch\u00e9 qualsiasi informazione che i Servizi e Il Software restituiscono in risposta a tali richieste"
+        },
+        {
+            "_id": "6755ce806cc0a84b95765d9b",
+            "start": 11495,
+            "end": 12145,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "673a6512e5677510940550a9",
+                    "673a6527e5677510940550aa"
+                ]
+            },
+            "text": "come:\r\n\u2022 Contenuto che include informazioni personali inviate o ricevute utilizzando una funzionalit\u00e0 online dei servizi e del software Adobe o archiviate sui server Adobe, come documenti, foto, video, registri delle attivit\u00e0, feedback diretto da parte dell'utente, metadati sui contenuti, richieste generate dall'utente, come termini di ricerca, suggerimenti (ad esempio testo, immagini, video, audio e cos\u00ec via), richieste, feedback e altre informazioni che potrebbero essere divulgate quando si accede o si utilizzano i nostri Servizi e Software, nonch\u00e9 qualsiasi informazione che i Servizi e Il Software restituiscono in risposta a tali richieste"
+        },
+        {
+            "_id": "6755ce926cc0a84b95765d9c",
+            "start": 11449,
+            "end": 12146,
+            "type": "cat",
+            "attributes": {
+                "Level": "1"
+            },
+            "text": "Informazioni commerciali e sulle transazioni, come:\r\n\u2022 Contenuto che include informazioni personali inviate o ricevute utilizzando una funzionalit\u00e0 online dei servizi e del software Adobe o archiviate sui server Adobe, come documenti, foto, video, registri delle attivit\u00e0, feedback diretto da parte dell'utente, metadati sui contenuti, richieste generate dall'utente, come termini di ricerca, suggerimenti (ad esempio testo, immagini, video, audio e cos\u00ec via), richieste, feedback e altre informazioni che potrebbero essere divulgate quando si accede o si utilizzano i nostri Servizi e Software, nonch\u00e9 qualsiasi informazione che i Servizi e Il Software restituiscono in risposta a tali richieste."
+        },
+        {
+            "_id": "6755d0eb6cc0a84b95765d9e",
+            "start": 15496,
+            "end": 15566,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "informazioni sull'utilizzo da parte dell'utente di queste funzionalit\u00e0"
+        },
+        {
+            "_id": "6755d1126cc0a84b95765d9f",
+            "start": 15586,
+            "end": 15623,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6755d0eb6cc0a84b95765d9e"
+                ]
+            },
+            "text": "i contenuti che ricevono i \u201cMi piace\u201d"
+        },
+        {
+            "_id": "6755d1256cc0a84b95765da0",
+            "start": 15626,
+            "end": 15672,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "UsageData",
+                "Ref": [
+                    "6755d0eb6cc0a84b95765d9e"
+                ]
+            },
+            "text": "le informazioni sugli indirizzi in Google Maps"
+        },
+        {
+            "_id": "6755d13a6cc0a84b95765da1",
+            "start": 15574,
+            "end": 15672,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755d0eb6cc0a84b95765d9e"
+                ]
+            },
+            "text": "ad esempio, i contenuti che ricevono i \u201cMi piace\u201d e le informazioni sugli indirizzi in Google Maps"
+        },
+        {
+            "_id": "6755d1476cc0a84b95765da2",
+            "start": 15475,
+            "end": 15673,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Potremmo raccogliere informazioni sull'utilizzo da parte dell'utente di queste funzionalit\u00e0, come, ad esempio, i contenuti che ricevono i \u201cMi piace\u201d e le informazioni sugli indirizzi in Google Maps."
+        },
+        {
+            "_id": "6755d1536cc0a84b95765da3",
+            "start": 15832,
+            "end": 15851,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6755d0eb6cc0a84b95765d9e"
+                ]
+            },
+            "text": "alcune informazioni"
+        },
+        {
+            "_id": "6755d1676cc0a84b95765da4",
+            "start": 15674,
+            "end": 15924,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Inoltre, quando si visualizza o si interagisce con questi pulsanti, strumenti o contenuti, o si visualizza una pagina Web o una app di Adobe che li contiene, alcune informazioni potrebbero essere inviate automaticamente dal browser all'altra azienda."
+        },
+        {
+            "_id": "6755d1ae6cc0a84b95765da5",
+            "start": 16164,
+            "end": 16190,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6755d1536cc0a84b95765da3"
+                ]
+            },
+            "text": "informazioni sull\u2019hardware"
+        },
+        {
+            "_id": "6755d1bd6cc0a84b95765da6",
+            "start": 16193,
+            "end": 16205,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6755d1ae6cc0a84b95765da5"
+                ]
+            },
+            "text": "sul software"
+        },
+        {
+            "_id": "6755d1e26cc0a84b95765da7",
+            "start": 16212,
+            "end": 16231,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6755d1ae6cc0a84b95765da5",
+                    "6755d1bd6cc0a84b95765da6"
+                ]
+            },
+            "text": "dati di dispositivi"
+        },
+        {
+            "_id": "6755d1f46cc0a84b95765da8",
+            "start": 16234,
+            "end": 16246,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "DeviceInfo",
+                "Ref": [
+                    "6755d1ae6cc0a84b95765da5",
+                    "6755d1bd6cc0a84b95765da6"
+                ]
+            },
+            "text": "applicazioni"
+        },
+        {
+            "_id": "6755d2066cc0a84b95765da9",
+            "start": 16207,
+            "end": 16246,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755d1ae6cc0a84b95765da5",
+                    "6755d1bd6cc0a84b95765da6"
+                ]
+            },
+            "text": "come dati di dispositivi e applicazioni"
+        },
+        {
+            "_id": "6755d2176cc0a84b95765daa",
+            "start": 16017,
+            "end": 16372,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "I siti Web Adobe possono implementare Google reCAPTCHA Enterprise per aiutare a prevenire spam e utilizzi illeciti. reCAPTCHA Enterprise raccoglie informazioni sull\u2019hardware e sul software, come dati di dispositivi e applicazioni, e le invia a Google allo scopo di fornire, mantenere e migliorare reCAPTCHA Enterprise e per finalit\u00e0 di sicurezza generale."
+        },
+        {
+            "_id": "6755d22f6cc0a84b95765dab",
+            "start": 16754,
+            "end": 16778,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "673a32e5e567751094055042"
+                ]
+            },
+            "text": "informazioni sull\u2019utente"
+        },
+        {
+            "_id": "6755d2576cc0a84b95765dac",
+            "start": 16819,
+            "end": 16826,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6755d22f6cc0a84b95765dab"
+                ]
+            },
+            "text": "il nome"
+        },
+        {
+            "_id": "6755d2766cc0a84b95765dad",
+            "start": 16828,
+            "end": 16836,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755d22f6cc0a84b95765dab"
+                ]
+            },
+            "text": "il Paese"
+        },
+        {
+            "_id": "6755d28c6cc0a84b95765dae",
+            "start": 16839,
+            "end": 16863,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Demographic",
+                "Ref": [
+                    "6755d22f6cc0a84b95765dab"
+                ]
+            },
+            "text": "dati demografici di base"
+        },
+        {
+            "_id": "6755d2a36cc0a84b95765db0",
+            "start": 16814,
+            "end": 16863,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755d22f6cc0a84b95765dab"
+                ]
+            },
+            "text": "come il nome, il Paese e dati demografici di base"
+        },
+        {
+            "_id": "6755d2d06cc0a84b95765db1",
+            "start": 16687,
+            "end": 16864,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Laddove l\u2019utente fornisca le autorizzazioni necessarie, riceveremo informazioni sull\u2019utente dal suo account di social network, come il nome, il Paese e dati demografici di base."
+        },
+        {
+            "_id": "6755d2e46cc0a84b95765db2",
+            "start": 17012,
+            "end": 17024,
+            "type": "Category",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "Gen",
+                "Ref": [
+                    "6755d22f6cc0a84b95765dab"
+                ]
+            },
+            "text": "informazioni"
+        },
+        {
+            "_id": "6755d34f6cc0a84b95765db3",
+            "start": 17122,
+            "end": 17126,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Closed",
+                "Kind": "BasicAccountInfo",
+                "Ref": [
+                    "6755d2e46cc0a84b95765db2"
+                ]
+            },
+            "text": "nome"
+        },
+        {
+            "_id": "6755d3616cc0a84b95765db4",
+            "start": 17129,
+            "end": 17168,
+            "type": "SubCategory",
+            "attributes": {
+                "Type": "Open",
+                "Kind": "ContentPreferences",
+                "Ref": [
+                    "6755d2e46cc0a84b95765db2"
+                ]
+            },
+            "text": "interessi nei nostri prodotti e servizi"
+        },
+        {
+            "_id": "6755d3856cc0a84b95765db5",
+            "start": 17111,
+            "end": 17236,
+            "type": "Specification",
+            "attributes": {
+                "Type": "Open",
+                "Ref": [
+                    "6755d2e46cc0a84b95765db2"
+                ]
+            },
+            "text": "ad esempio nome e interessi nei nostri prodotti e servizi, quando l'utente interagisce con le nostre pagine di social network"
+        },
+        {
+            "_id": "6755d3936cc0a84b95765db6",
+            "start": 16998,
+            "end": 17237,
+            "type": "cat",
+            "attributes": {
+                "Level": "2"
+            },
+            "text": "Raccoglieremo informazioni che l'utente ha reso disponibili pubblicamente sul proprio account di social network, ad esempio nome e interessi nei nostri prodotti e servizi, quando l'utente interagisce con le nostre pagine di social network."
+        },
+        {
+            "_id": "67588e656cc0a84b95765fea",
+            "start": 12151,
+            "end": 12962,
+            "type": "Category",
+            "attributes": {
+                "Type": null,
+                "Kind": null,
+                "Ref": []
+            },
+            "text": "nformazioni personali sensibili, come:\r\n\u2022 Identificatori biometrici o informazioni delineate dalle leggi degli Stati Uniti (ad esempio, impronte facciali e impronte vocali dal Contenuto dell\u2019utente, come definito nelle Condizioni d\u2019uso generali di Adobe) e geolocalizzazione precisa. Ove richiesto dalla legge, chiederemo all\u2019utente tutte le autorizzazioni necessarie prima di tale raccolta. Per ulteriori informazioni consultare le seguenti sezioni: \u201cAzioni di Adobe per conto dell\u2019utente\u201d e \u201cCome analizziamo i tuoi contenuti per fornire le funzionalit\u00e0 da te richieste\u201d. \r\n\r\nI seguenti collegamenti forniscono ulteriori informazioni su:\r\n\u2022 Programma di perfezionamento prodotti Adobe;\r\n\u2022 Domande frequenti relative alle informazioni sulla diagnostica e sull'utilizzo delle app Creative Cloud, Document Cloud "
+        }
+    ]
+}
